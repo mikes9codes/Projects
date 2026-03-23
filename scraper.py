@@ -14,7 +14,7 @@ import time
 from datetime import datetime
 from urllib.parse import quote_plus, urljoin
 
-import feedparser
+import xml.etree.ElementTree as ET
 import requests
 from bs4 import BeautifulSoup
 
@@ -281,11 +281,22 @@ def scrape_craigslist() -> list[dict]:
     for city_code, city_name in CRAIGSLIST_CITIES:
         rss_url = f'https://{city_code}.craigslist.org/search/fua?query={query}&format=rss'
         try:
-            feed = feedparser.parse(rss_url)
-            for entry in feed.entries[:4]:
-                title = entry.get('title', '')
-                link = entry.get('link', '')
-                summary = entry.get('summary', '')
+            r = _get(rss_url)
+            if not r:
+                time.sleep(0.5)
+                continue
+            # Parse RSS with built-in XML parser
+            ns = {'rss': 'http://purl.org/rss/1.0/', 'dc': 'http://purl.org/dc/elements/1.1/'}
+            root = ET.fromstring(r.content)
+            # Support both RSS 2.0 (item) and RSS 1.0 (rss:item)
+            items = root.findall('.//item') or root.findall('.//rss:item', ns)
+            for entry in items[:4]:
+                def _t(tag):
+                    el = entry.find(tag) or entry.find(f'rss:{tag}', ns)
+                    return (el.text or '').strip() if el is not None else ''
+                title = _t('title')
+                link = _t('link')
+                summary = _t('description')
                 if not title or not link:
                     continue
 
