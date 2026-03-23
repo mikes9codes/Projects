@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dining Room Chair Search 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <span class="brand-icon">&#x1FA91;</span>
+      <div>
+        <h1>Dining Room Chair Search <span class="brand-year">2026</span></h1>
+        <p class="brand-sub">Sets of 12 &mdash; Secondary markets, auctions &amp; sales &mdash; Updated daily</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <span class="last-updated" id="lastUpdated">Loading&hellip;</span>
+      <button class="btn-refresh" id="refreshBtn" onclick="refreshData()">
+        <span class="refresh-icon">&#x21BB;</span> Refresh Now
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ===== STATS BAR ===== -->
+<div class="stats-bar">
+  <div class="stat-item">
+    <span class="stat-num" id="statTotal">&mdash;</span>
+    <span class="stat-lbl">Total Listings</span>
+  </div>
+  <div class="stat-item usa">
+    <span class="stat-num" id="statUSA">&mdash;</span>
+    <span class="stat-lbl">&#x1F1FA;&#x1F1F8; USA</span>
+  </div>
+  <div class="stat-item intl">
+    <span class="stat-num" id="statIntl">&mdash;</span>
+    <span class="stat-lbl">&#x1F30D; International</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num" id="statSources">&mdash;</span>
+    <span class="stat-lbl">Platforms</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num" id="statAvgPrice">&mdash;</span>
+    <span class="stat-lbl">Avg. Price</span>
+  </div>
+</div>
+
+<!-- ===== FILTERS ===== -->
+<div class="filters-bar">
+  <div class="filter-group">
+    <label class="filter-label">Price</label>
+    <input type="number" id="minPrice" placeholder="Min $" class="filter-input" min="0">
+    <span class="filter-sep">&mdash;</span>
+    <input type="number" id="maxPrice" placeholder="Max $" class="filter-input" min="0">
+  </div>
+  <div class="filter-group">
+    <label class="filter-label">Platform</label>
+    <select id="sourceFilter" class="filter-select" onchange="applyFilters()">
+      <option value="">All Platforms</option>
+      <option value="eBay">eBay</option>
+      <option value="Craigslist">Craigslist</option>
+      <option value="Chairish">Chairish</option>
+      <option value="1stDibs">1stDibs</option>
+      <option value="Etsy">Etsy</option>
+      <option value="LiveAuctioneers">LiveAuctioneers</option>
+      <option value="Pamono">Pamono</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label class="filter-label">Sort</label>
+    <select id="sortBy" class="filter-select" onchange="applyFilters()">
+      <option value="price_asc">Price: Low &rarr; High</option>
+      <option value="price_desc">Price: High &rarr; Low</option>
+      <option value="date">Newest First</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label class="filter-label">Condition</label>
+    <select id="condFilter" class="filter-select" onchange="applyFilters()">
+      <option value="">All Conditions</option>
+      <option value="Used">Used</option>
+      <option value="Pre-owned">Pre-owned</option>
+      <option value="Vintage">Vintage</option>
+      <option value="New">New</option>
+    </select>
+  </div>
+  <button class="btn-apply" onclick="applyFilters()">Apply</button>
+  <button class="btn-clear" onclick="clearFilters()">Clear</button>
+</div>
+
+<!-- ===== SEARCH QUICK LINKS ===== -->
+<div class="quick-links">
+  <span class="quick-label">Search directly:</span>
+  <a class="quick-link" href="https://www.ebay.com/sch/i.html?_nkw=set+of+12+dining+chairs" target="_blank" rel="noopener">eBay</a>
+  <a class="quick-link" href="https://www.chairish.com/keyword/dining-chairs" target="_blank" rel="noopener">Chairish</a>
+  <a class="quick-link" href="https://www.1stdibs.com/furniture/seating/dining-room-chairs/?q=set+of+12" target="_blank" rel="noopener">1stDibs</a>
+  <a class="quick-link" href="https://www.etsy.com/search?q=set+of+12+dining+chairs" target="_blank" rel="noopener">Etsy</a>
+  <a class="quick-link" href="https://www.liveauctioneers.com/search/?keyword=12+dining+chairs" target="_blank" rel="noopener">LiveAuctioneers</a>
+  <a class="quick-link" href="https://www.invaluable.com/search/#keywords=12+dining+chairs" target="_blank" rel="noopener">Invaluable</a>
+  <a class="quick-link" href="https://www.pamono.com/en/search?q=set+of+12+dining+chairs" target="_blank" rel="noopener">Pamono</a>
+  <a class="quick-link" href="https://www.craigslist.org/search/fua?query=12+dining+chairs" target="_blank" rel="noopener">Craigslist</a>
+</div>
+
+<!-- ===== MAIN CONTENT ===== -->
+<main class="main">
+
+  <!-- USA Section -->
+  <section class="section usa-section">
+    <div class="section-hd">
+      <h2 class="section-title">&#x1F1FA;&#x1F1F8;&nbsp; USA Listings</h2>
+      <span class="section-badge" id="usaBadge">Loading&hellip;</span>
+    </div>
+    <div class="grid" id="usaGrid">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
+  </section>
+
+  <!-- International Section -->
+  <section class="section intl-section">
+    <div class="section-hd">
+      <h2 class="section-title">&#x1F30D;&nbsp; International Listings</h2>
+      <span class="section-badge" id="intlBadge">Loading&hellip;</span>
+    </div>
+    <div class="grid" id="intlGrid">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ===== FOOTER ===== -->
+<footer class="site-footer">
+  <p>
+    <strong>Dining Room Chair Search 2026</strong> &bull;
+    Searches eBay, Craigslist (20 cities), Chairish, 1stDibs, Etsy, LiveAuctioneers &amp; Pamono &bull;
+    Updated daily via GitHub Actions
+  </p>
+  <p class="footer-note">Prices and availability from third-party platforms. Always verify before purchase.</p>
+</footer>
+
+<!-- ===== TOAST ===== -->
+<div class="toast" id="toast"></div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
