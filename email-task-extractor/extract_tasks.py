@@ -17,7 +17,7 @@ from email.mime.multipart import MIMEMultipart
 from email.header import decode_header as _decode_header
 import anthropic
 
-# ── Configuration ─────────────────────────────────────────────────────────────
+# ── Configuration ─────────────────────────────────────────────────────
 EMAIL_ADDRESS     = os.environ["VERIZON_EMAIL"]
 EMAIL_PASSWORD    = os.environ["VERIZON_APP_PASSWORD"]
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
@@ -38,7 +38,7 @@ MAX_EMAILS     = 50    # Max emails processed per run
 LOOKBACK_DAYS  = 3     # Scan emails received within this window
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
+# ── Helpers ───────────────────────────────────────────────────────────────
 def decode_str(value):
     if not value:
         return ""
@@ -83,14 +83,17 @@ def save_processed_ids(ids):
         json.dump(sorted(ids), f, indent=2)
 
 
-# ── IMAP ──────────────────────────────────────────────────────────────────────
+# ── IMAP ──────────────────────────────────────────────────────────────────
 def fetch_new_opened_emails(processed_ids):
     """Return list of unprocessed emails marked Seen within the lookback window."""
     since_date = (datetime.now() - timedelta(days=LOOKBACK_DAYS)).strftime("%d-%b-%Y")
 
     mail = imaplib.IMAP4_SSL(IMAP_HOST, IMAP_PORT)
     mail.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
-    mail.select("INBOX", readonly=True)
+    status, _ = mail.select("INBOX")
+    if status != "OK":
+        mail.logout()
+        raise RuntimeError(f"Failed to select INBOX (status: {status})")
 
     _, nums = mail.search(None, f"SEEN SINCE {since_date}")
 
@@ -180,7 +183,7 @@ def append_to_tasks(date_str, new_entries):
         f.write("\n".join(lines) + "\n")
 
 
-# ── Digest email ──────────────────────────────────────────────────────────────
+# ── Digest email ───────────────────────────────────────────────────────────────
 def send_digest(date_str, new_entries):
     """Send digest email to all recipients."""
     if not new_entries:
@@ -194,7 +197,7 @@ def send_digest(date_str, new_entries):
             lines.append(f"From: {entry['sender']}")
             lines.append(f"Subject: {entry['subject']}")
             for task in entry["tasks"]:
-                lines.append(f"  • {task}")
+                lines.append(f"  \u2022 {task}")
             lines.append("")
         body_text = "\n".join(lines)
 
@@ -213,7 +216,7 @@ def send_digest(date_str, new_entries):
     print(f"Digest sent to: {', '.join(DIGEST_TO)}")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+# ── Main ────────────────────────────────────────────────────────────────────────────
 def main():
     today = datetime.now().strftime("%Y-%m-%d")
     print(f"Running email task extraction for {today}")
