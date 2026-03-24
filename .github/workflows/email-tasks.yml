@@ -1,0 +1,39 @@
+name: Daily Email Task Extraction
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 7:00 AM Eastern (UTC-5) = 12:00 UTC
+  workflow_dispatch:       # Allows manual trigger from the Actions tab
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Required to commit tasks.md and processed_email_ids.json
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r email-tasks/requirements.txt
+
+      - name: Run task extractor
+        env:
+          VERIZON_EMAIL:        ${{ secrets.VERIZON_EMAIL }}
+          VERIZON_APP_PASSWORD: ${{ secrets.VERIZON_APP_PASSWORD }}
+          ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python email-tasks/extract_tasks.py
+
+      - name: Commit updated files
+        run: |
+          git config user.name  "email-tasks-bot"
+          git config user.email "actions@github.com"
+          git add tasks.md email-tasks/processed_email_ids.json
+          git diff --staged --quiet || git commit -m "chore: daily task update $(date +'%Y-%m-%d')"
+          git push
