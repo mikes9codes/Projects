@@ -174,3 +174,18 @@ New items are appended below with the date they were found.
 - [ ] Reply to Zalman Duchman with decision or to discuss further
 - [ ] Review Pesach campaign link provided in email for more information
 
+
+## 2026-03-25
+
+**From:** "Apple Card Support" <no_reply@post.applecard.apple>  
+**Subject:** Your Apple Card payment is due soon
+
+- [ ] Pay Apple Card bill before the due date
+
+**From:** Stephanie Reckler <stephaniereckler885@gmail.com>  
+**Subject:** CPOLHN - "A" Line Apartments Dramatically Affected
+
+- [ ] Decide whether to make a financial contribution to CPOLHN (savelenoxhill.org/donate)
+- [ ] Reply to Stephanie letting her know whether she can count on a contribution
+- [ ] Inform Stephanie of Zach's college choice when decided
+
