@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dining Chair Search 2026</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f4f0; color: #1a1a1a; }
+
+  header { background: #1a1a1a; color: #fff; padding: 24px 32px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  header h1 { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.3px; }
+  header h1 span { color: #c9a96e; }
+  .meta { font-size: 0.8rem; color: #888; margin-top: 4px; }
+
+  .stats { display: flex; gap: 0; background: #fff; border-bottom: 1px solid #e5e5e5; }
+  .stat { flex: 1; padding: 16px 24px; text-align: center; border-right: 1px solid #e5e5e5; }
+  .stat:last-child { border-right: none; }
+  .stat-n { font-size: 1.8rem; font-weight: 800; color: #1a1a1a; }
+  .stat-l { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; color: #888; margin-top: 2px; }
+
+  .controls { padding: 16px 24px; background: #fff; border-bottom: 1px solid #e5e5e5; display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; }
+  .ctrl-group { display: flex; flex-direction: column; gap: 4px; }
+  .ctrl-group label { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #666; }
+  select, input[type=number] { height: 36px; padding: 0 10px; border: 1px solid #ddd; border-radius: 6px; font-size: 0.875rem; background: #fafafa; }
+  .price-range { display: flex; gap: 6px; align-items: center; }
+  .price-range span { color: #aaa; font-size: 0.8rem; }
+  .btn { height: 36px; padding: 0 16px; border: none; border-radius: 6px; font-size: 0.875rem; font-weight: 600; cursor: pointer; }
+  .btn-apply { background: #1a1a1a; color: #fff; }
+  .btn-clear { background: #f0f0f0; color: #555; }
+  .tab-btns { display: flex; gap: 8px; margin-left: auto; }
+  .tab-btn { height: 36px; padding: 0 16px; border: 2px solid #ddd; border-radius: 6px; font-size: 0.875rem; font-weight: 600; cursor: pointer; background: #fff; color: #666; transition: all 0.15s; }
+  .tab-btn.active { border-color: #1a1a1a; background: #1a1a1a; color: #fff; }
+
+  .section { padding: 24px 24px 0; }
+  .section-hd { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+  .section-hd h2 { font-size: 1.1rem; font-weight: 700; }
+  .badge { background: #e8f4e8; color: #2d7a2d; font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 20px; }
+  .badge.intl { background: #e8eef8; color: #2d4a8a; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; padding-bottom: 32px; }
+
+  .card { background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); transition: box-shadow 0.15s, transform 0.15s; display: flex; flex-direction: column; }
+  .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); transform: translateY(-2px); }
+  .card-img { width: 100%; height: 200px; object-fit: cover; background: #f0ede8; display: block; }
+  .card-img-placeholder { width: 100%; height: 200px; background: linear-gradient(135deg, #f0ede8 0%, #e8e4de 100%); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; }
+  .card-body { padding: 14px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+  .card-title { font-size: 0.875rem; font-weight: 600; line-height: 1.35; color: #1a1a1a; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card-price { font-size: 1.25rem; font-weight: 800; color: #1a1a1a; }
+  .card-meta { display: flex; gap: 6px; flex-wrap: wrap; margin-top: auto; }
+  .tag { font-size: 0.7rem; font-weight: 600; padding: 2px 8px; border-radius: 4px; }
+  .tag-source { background: #f0ede8; color: #7a5a2a; }
+  .tag-cond { background: #f0f0f0; color: #555; }
+  .tag-loc { background: #f0f5ff; color: #2a4a8a; }
+  .card-link { display: block; margin-top: 4px; text-align: center; padding: 8px; background: #f7f7f7; border-radius: 6px; font-size: 0.8rem; font-weight: 600; color: #1a1a1a; text-decoration: none; border: 1px solid #e5e5e5; transition: background 0.15s; }
+  .card-link:hover { background: #1a1a1a; color: #fff; }
+  .card-link.no-link { color: #aaa; cursor: default; pointer-events: none; }
+
+  .empty { padding: 48px; text-align: center; color: #888; font-size: 0.95rem; }
+  .loading { padding: 48px; text-align: center; color: #aaa; font-size: 1rem; }
+
+  footer { text-align: center; padding: 24px; font-size: 0.8rem; color: #aaa; border-top: 1px solid #e5e5e5; margin-top: 8px; }
+
+  @media (max-width: 600px) {
+    .stats { flex-wrap: wrap; }
+    .stat { flex: 0 0 50%; border-bottom: 1px solid #e5e5e5; }
+    header { padding: 16px; }
+    .controls { padding: 12px 16px; }
+    .section { padding: 16px 16px 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>&#x1FA91; Dining Chair Search <span>2026</span></h1>
+    <div class="meta" id="metaLine">Loading&hellip;</div>
+  </div>
+</header>
+
+<div class="stats">
+  <div class="stat"><div class="stat-n" id="sTotal">&mdash;</div><div class="stat-l">Total Found</div></div>
+  <div class="stat"><div class="stat-n" id="sUSA">&mdash;</div><div class="stat-l">USA</div></div>
+  <div class="stat"><div class="stat-n" id="sIntl">&mdash;</div><div class="stat-l">International</div></div>
+  <div class="stat"><div class="stat-n" id="sAvg">&mdash;</div><div class="stat-l">Avg. Price</div></div>
+</div>
+
+<div class="controls">
+  <div class="ctrl-group">
+    <label>Price Range</label>
+    <div class="price-range">
+      <input type="number" id="minPrice" placeholder="$ Min" style="width:90px">
+      <span>&ndash;</span>
+      <input type="number" id="maxPrice" placeholder="$ Max" style="width:90px">
+    </div>
+  </div>
+  <div class="ctrl-group">
+    <label>Platform</label>
+    <select id="selSource"></select>
+  </div>
+  <div class="ctrl-group">
+    <label>Sort</label>
+    <select id="selSort">
+      <option value="price_asc">Price: Low &rarr; High</option>
+      <option value="price_desc">Price: High &rarr; Low</option>
+      <option value="date">Newest First</option>
+    </select>
+  </div>
+  <button class="btn btn-apply" onclick="applyFilters()">Apply</button>
+  <button class="btn btn-clear" onclick="clearFilters()">Clear</button>
+  <div class="tab-btns">
+    <button class="tab-btn active" id="tabAll" onclick="setTab('all')">All</button>
+    <button class="tab-btn" id="tabUSA" onclick="setTab('usa')">&#x1F1FA;&#x1F1F8; USA</button>
+    <button class="tab-btn" id="tabIntl" onclick="setTab('intl')">&#x1F30D; Intl</button>
+  </div>
+</div>
+
+<div id="app"><div class="loading">Loading results&hellip;</div></div>
+
+<footer>Updated daily via GitHub Actions &bull; Sets of 12 dining chairs &bull; eBay &bull; Google Shopping &bull; Craigslist &bull; Chairish &bull; 1stDibs</footer>
+
+<script>
+const DATA_URL = 'https://raw.githubusercontent.com/mikes9codes/DiningRoomChairs2026/main/dining-room-chairs/data/results.json';
+
+let allListings = [];
+let currentTab = 'all';
+
+async function init() {
+  try {
+    const r = await fetch(DATA_URL + '?t=' + Date.now());
+    const data = await r.json();
+    allListings = data.listings || [];
+
+    const stats = data.search_stats || {};
+    document.getElementById('sTotal').textContent = stats.total ?? allListings.length;
+    document.getElementById('sUSA').textContent = stats.usa_count ?? allListings.filter(l=>l.is_usa).length;
+    document.getElementById('sIntl').textContent = stats.intl_count ?? allListings.filter(l=>!l.is_usa).length;
+    document.getElementById('sAvg').textContent = stats.avg_price ? '$' + Math.round(stats.avg_price).toLocaleString() : '&mdash;';
+
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      document.getElementById('metaLine').textContent = 'Last updated: ' + d.toLocaleDateString('en-US', {month:'long',day:'numeric',year:'numeric', hour:'2-digit', minute:'2-digit'});
+    }
+
+    // Populate source dropdown
+    const sources = [...new Set(allListings.map(l => l.source).filter(Boolean))].sort();
+    const sel = document.getElementById('selSource');
+    sel.innerHTML = '<option value="">All Platforms</option>' + sources.map(s => `<option value="${s}">${s}</option>`).join('');
+
+    render();
+  } catch(e) {
+    document.getElementById('app').innerHTML = '<div class="empty">Failed to load results. Check your network connection.<br><small>' + e.message + '</small></div>';
+  }
+}
+
+function setTab(t) {
+  currentTab = t;
+  ['all','usa','intl'].forEach(id => {
+    document.getElementById('tab' + id.charAt(0).toUpperCase() + id.slice(1)).classList.toggle('active', id === t);
+  });
+  render();
+}
+
+function getFiltered() {
+  let list = allListings;
+  if (currentTab === 'usa') list = list.filter(l => l.is_usa);
+  else if (currentTab === 'intl') list = list.filter(l => !l.is_usa);
+
+  const src = document.getElementById('selSource').value;
+  if (src) list = list.filter(l => l.source === src);
+
+  const minP = parseFloat(document.getElementById('minPrice').value);
+  const maxP = parseFloat(document.getElementById('maxPrice').value);
+  if (!isNaN(minP)) list = list.filter(l => (l.price_numeric || 0) >= minP);
+  if (!isNaN(maxP)) list = list.filter(l => l.price_numeric == null || l.price_numeric <= maxP);
+
+  const sort = document.getElementById('selSort').value;
+  if (sort === 'price_asc') list = [...list].sort((a,b) => (a.price_numeric||Infinity) - (b.price_numeric||Infinity));
+  else if (sort === 'price_desc') list = [...list].sort((a,b) => (b.price_numeric||0) - (a.price_numeric||0));
+  else list = [...list].sort((a,b) => (b.date_found||'').localeCompare(a.date_found||''));
+
+  return list;
+}
+
+function applyFilters() { render(); }
+function clearFilters() {
+  document.getElementById('minPrice').value = '';
+  document.getElementById('maxPrice').value = '';
+  document.getElementById('selSource').value = '';
+  document.getElementById('selSort').value = 'price_asc';
+  render();
+}
+
+function card(l) {
+  const img = l.image_url
+    ? `<img class="card-img" src="${esc(l.image_url)}" alt="${esc(l.title)}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+       <div class="card-img-placeholder" style="display:none">&#x1FA91;</div>`
+    : `<div class="card-img-placeholder">&#x1FA91;</div>`;
+
+  const linkHref = l.listing_url;
+  const linkEl = linkHref
+    ? `<a class="card-link" href="${esc(linkHref)}" target="_blank" rel="noopener">View Listing &rarr;</a>`
+    : `<span class="card-link no-link">No link available</span>`;
+
+  const loc = l.location ? `<span class="tag tag-loc">${esc(l.location)}</span>` : '';
+  const cond = l.condition && l.condition !== 'See listing' ? `<span class="tag tag-cond">${esc(l.condition)}</span>` : '';
+
+  return `<div class="card">
+    ${img}
+    <div class="card-body">
+      <div class="card-title">${esc(l.title)}</div>
+      <div class="card-price">${esc(l.price || 'See listing')}</div>
+      <div class="card-meta">
+        <span class="tag tag-source">${esc(l.source || '')}</span>
+        ${cond}${loc}
+      </div>
+      ${linkEl}
+    </div>
+  </div>`;
+}
+
+function esc(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function render() {
+  const list = getFiltered();
+  const usa = list.filter(l => l.is_usa);
+  const intl = list.filter(l => !l.is_usa);
+
+  let html = '';
+
+  if (currentTab === 'all' || currentTab === 'usa') {
+    html += `<div class="section">
+      <div class="section-hd"><h2>&#x1F1FA;&#x1F1F8; USA Listings</h2><span class="badge">${usa.length} found</span></div>
+      <div class="grid">${usa.length ? usa.map(card).join('') : '<div class="empty">No USA listings match your filters.</div>'}</div>
+    </div>`;
+  }
+
+  if (currentTab === 'all' || currentTab === 'intl') {
+    html += `<div class="section">
+      <div class="section-hd"><h2>&#x1F30D; International Listings</h2><span class="badge intl">${intl.length} found</span></div>
+      <div class="grid">${intl.length ? intl.map(card).join('') : '<div class="empty">No international listings match your filters.</div>'}</div>
+    </div>`;
+  }
+
+  document.getElementById('app').innerHTML = html || '<div class="empty">No listings found.</div>';
+}
+
+init();
+</script>
+</body>
+</html>
