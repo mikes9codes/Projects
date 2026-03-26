@@ -189,3 +189,59 @@ New items are appended below with the date they were found.
 - [ ] Reply to Stephanie letting her know whether she can count on a contribution
 - [ ] Inform Stephanie of Zach's college choice when decided
 
+
+## 2026-03-26
+
+**From:** Morgan Stanley <edelivery@morganstanley.com>  
+**Subject:** Correspondence is Now Available.
+
+- [ ] Log in to Morgan Stanley account to review new correspondence
+
+**From:** "Price, Forrest" <Forrest.Price@sothebys.com>  
+**Subject:** Sotheby's Whisky & Whiskey Auction Open Now
+
+- [ ] Review the Sotheby's Whisky & Whiskey auction digital catalogue before bidding closes Friday March 27th at 10am EST
+- [ ] Decide whether to bid on any lots before closing begins March 27th at 10am EST
+- [ ] Review Excel lot list for full auction inventory
+- [ ] Contact Forrest Price at forrest.price@sothebys.com or +1 502 777 0010 with any questions
+
+**From:** Janet Roman <JRoman@bhsusa.com>  
+**Subject:** Strike Preparations and Guidelines
+
+- [ ] Review attached strike preparations and guidelines document for the building
+
+**From:** Michael Steinberg <mikes@recvc.com>  
+**Subject:** Re: Daily Task Digest 2026-03-25 — 26 action item(s) found
+
+- [ ] Provide company name, address, and filing certificate to Herman Goldsmith
+- [ ] Decide whether to bill the new Rover purchase to company or personal account
+- [ ] Arrange insurance transfer for personal plate
+- [ ] Decide whether to wire funds from personal or company account
+- [ ] Call Herman Goldsmith at 516-569-0000 to confirm wire transfer before sending funds
+- [ ] Wait for John Laguerre's wire total and instructions on Monday before sending payment
+- [ ] Confirm wire details with John Laguerre or Herman Goldsmith by phone before wiring any funds
+- [ ] RSVP for Acker March 26th Pre-Auction Tasting by emailing Kristin@AckerWines.com
+- [ ] Decide whether to attend March 26th Pre-Auction Tasting at 11:30am and La Paulée Auction at The Fifth Avenue Hotel
+- [ ] If attending March 26th event, plan to arrive by 5:30-6:00pm for full coursed dinner service
+- [ ] If attending March 26th event, bring extra bottles of wine to share
+- [ ] Review Acker auction catalog at https://www.ackerwines.com/la-paulee/
+- [ ] Reply to Nikki Jordan with desired delivery date and NYC address for new Rover so she can arrange insurance
+- [ ] Decide whether Liz should pick up the new Rover and get a lesson instead of having it delivered
+- [ ] Address overdue status of the X7
+- [ ] Send Nikki Jordan the NYC address for Wednesday vehicle exchange
+- [ ] Confirm wire transfer is sent on Tuesday
+- [ ] Be available Wednesday between 12-1pm for vehicle exchange and new Rover demo with Christian
+
+**From:** ArtPhotoLimited <service.client@artphotolimited.com>  
+**Subject:** 15% off  until midnight
+
+- [ ] Use code WALL15 for 15% off framed photography at ArtPhotoLimited before midnight tonight if interested in purchasing
+
+**From:** Nikki Jordan <nikkij@motornetwork.com>  
+**Subject:** Good Morning - Land Rover Huntington emailed you a link for a credit
+ card - the dealer has to renew your registration to transfer - please check
+ your email TY
+
+- [ ] Check email for credit card link sent by Land Rover Huntington
+- [ ] Provide credit card information to allow dealer to renew registration for transfer
+
