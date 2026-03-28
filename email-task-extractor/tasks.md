@@ -258,3 +258,28 @@ New items are appended below with the date they were found.
 
 - [ ] Register for the UVA Virtual Admitted Student Celebrations starting April 7
 
+
+## 2026-03-28
+
+**From:** <tom885park@aol.com>  
+**Subject:** Annual Window washing, Saturday and Sunday
+
+- [ ] Keep windows locked on March 28th and 29th during window washing
+- [ ] Keep shades drawn in sensitive areas of apartment on March 28th and 29th
+
+**From:** "Apple Card Support" <no_reply@post.applecard.apple>  
+**Subject:** Your Apple Card payment is due soon
+
+- [ ] Pay Apple Card bill before the due date
+
+**From:** "CLEAR" <hello@email.clearme.com>  
+**Subject:** You Have An Unused Member Benefit
+
+- [ ] Consider adding a family member to CLEAR account for $125/year
+
+**From:** Herman Goldsmith <hermang@motornetwork.com>  
+**Subject:** Fwd: Depreciation and recapture on vehicles over 6000 lbs.
+
+- [ ] Review the forwarded email from Jeff Schmelzer regarding depreciation and recapture rules under the One Big Beautiful Bill Act (OBBBA) for vehicles over 6,000 lbs.
+- [ ] Reply to Herman Goldsmith confirming whether the understanding of the OBBBA depreciation and recapture rules described in the email is correct
+
