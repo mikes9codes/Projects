@@ -283,3 +283,26 @@ New items are appended below with the date they were found.
 - [ ] Review the forwarded email from Jeff Schmelzer regarding depreciation and recapture rules under the One Big Beautiful Bill Act (OBBBA) for vehicles over 6,000 lbs.
 - [ ] Reply to Herman Goldsmith confirming whether the understanding of the OBBBA depreciation and recapture rules described in the email is correct
 
+
+## 2026-03-29
+
+**From:** mikes9@verizon.net  
+**Subject:** Daily Task Digest 2026-03-28 — 6 action item(s) found
+
+- [ ] Keep windows locked on March 28th and 29th during window washing
+- [ ] Keep shades drawn in sensitive areas of apartment on March 28th and 29th
+- [ ] Pay Apple Card bill before the due date
+- [ ] Consider adding a family member to CLEAR account for $125/year
+- [ ] Review forwarded email from Jeff Schmelzer regarding depreciation and recapture rules under the OBBBA for vehicles over 6,000 lbs
+- [ ] Reply to Herman Goldsmith confirming whether the OBBBA depreciation and recapture rules described in the email are correct
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** 🍷Undeniable  Red Burgundy Values + Dujac Under $70
+
+- [ ] Review the undeniable red Burgundy values list and decide whether to purchase before they sell out
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** your Birthday
+
+- [ ] Reply to Geoffrey Troy confirming or denying birthday celebration plans for next Saturday out east
+
