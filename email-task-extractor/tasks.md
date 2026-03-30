@@ -306,3 +306,19 @@ New items are appended below with the date they were found.
 
 - [ ] Reply to Geoffrey Troy confirming or denying birthday celebration plans for next Saturday out east
 
+
+## 2026-03-30
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: your Birthday
+
+- [ ] Call Geoffrey Troy this afternoon (718-784-8776)
+- [ ] Confirm birthday dinner plans with Geoffrey for Saturday night
+
+**From:** Zalman Duchman <zalman@colelchabad.org>  
+**Subject:** Re: for your consideration
+
+- [ ] Decide whether to donate to Colel Chabad's Pesach campaign for Holocaust survivors (suggested gift of $1,800 for 50 Seders)
+- [ ] Reply to Zalman Duchman at zalman@colelchabad.org or call 786.255.2454 with decision
+- [ ] Review Colel Chabad Pesach campaign link for more information before deciding
+
