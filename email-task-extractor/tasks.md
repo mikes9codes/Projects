@@ -322,3 +322,68 @@ New items are appended below with the date they were found.
 - [ ] Reply to Zalman Duchman at zalman@colelchabad.org or call 786.255.2454 with decision
 - [ ] Review Colel Chabad Pesach campaign link for more information before deciding
 
+
+## 2026-04-01
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** A Selection of Meursault and Montrachet from Comtes Lafon!
+
+- [ ] Decide whether to purchase any of the Comtes Lafon wines (2023 Meursault 1er Cru Charmes $419.95/bt, 2023 Meursault 1er Cru Les Perrières $899.99/bt, or 2022 Montrachet $2,795/bt)
+- [ ] Reply to greg@envoyerfinewines.com to place order if interested (pre-arrival, ETA Q3 2026)
+
+**From:** "Delta Air Lines" <DeltaAirLines@t.delta.com>  
+**Subject:** Your NAS > LGA Trip Details
+
+- [ ] Arrive at NAS airport at least 3 hours before 4:09 PM departure (by 1:09 PM) on Thursday, April 2
+- [ ] Be at boarding gate by 3:54 PM on Thursday, April 2 (boarding closes)
+
+**From:** Greg Koslosky <greg@envoyerfinewines.com>  
+**Subject:** RE: A Selection of Meursault and Montrachet from Comtes Lafon!
+
+- [ ] Reply to Greg immediately to decide whether to purchase the 3 remaining bottles of 2023 Meursault 1er Cru Les Perrières at $899.99 each (time-sensitive, limited availability)
+
+**From:** Patricia Smith <psmith@rampartinsurance.com>  
+**Subject:** Michael & Elizabeth Steinberg Chubb package policy # 1158189310
+
+- [ ] Review Chubb policy renewal for policy #1158189310 (renewed 5/8/26) and confirm $1,747 credit has been applied
+- [ ] Decide whether to increase policy deductible from $10,000 to $25,000 to save ~$2,228/year and reply to Patricia Smith with authorization if desired
+- [ ] Review Equipment Breakdown Coverage brochure (attached) and decide whether to add $50,000 coverage at $310/year with $500 deductible, reply to Patricia with authorization if desired
+- [ ] Review Cyber Coverage brochure (attached) and decide whether to add coverage, reply to Patricia with authorization if desired
+
+**From:** Stephanie Reckler <stephaniereckler885@gmail.com>  
+**Subject:** A Referral, please
+
+- [ ] Reply to Stephanie regarding a college counselor referral for Dr. Jim Hu's daughter Caitlin
+- [ ] Consider reaching out to Dr. Jim Hu directly to offer college counseling guidance or a referral
+
+**From:** Greg Koslosky <greg@envoyerfinewines.com>  
+**Subject:** RE: A Selection of Meursault and Montrachet from Comtes Lafon!
+
+- [ ] Reply to Greg confirming whether or not you still want the Meursault Perrieres (3 bottles available), noting that only the Montrachet comes in a wood box
+
+**From:** Greg Koslosky <greg@envoyerfinewines.com>  
+**Subject:** RE: A Selection of Meursault and Montrachet from Comtes Lafon!
+
+- [ ] Confirm shipping address (885 Park Avenue, 8A, New York, NY 10075) is correct by replying to Greg
+- [ ] Decide whether to hold shipment until fall to avoid heat damage during shipping
+- [ ] Await Greg's confirmation tomorrow about availability of the three bottles in wood cases
+
+**From:** Patricia Smith <psmith@rampartinsurance.com>  
+**Subject:** RE: Michael & Elizabeth Steinberg Chubb package policy # 1158189310
+
+- [ ] Review NYC package policy #1158189310 (co-op, valuables & excess liability) details from Chubb/Hilb Group (formerly Rampart Insurance)
+
+**From:** Patricia Smith <psmith@rampartinsurance.com>  
+**Subject:** RE: Michael & Elizabeth Steinberg Chubb package policy # 1158189310
+
+- [ ] Decide whether to increase the deductible on Chubb policy #1158189310
+- [ ] Decide whether to add equipment breakdown coverage to Chubb policy #1158189310
+- [ ] Decide whether to add cyber coverage to Chubb policy #1158189310
+- [ ] Update art prices with Patricia Smith at Hilb Group (Rampart Insurance)
+
+**From:** Patricia Smith <psmith@rampartinsurance.com>  
+**Subject:** RE: Michael & Elizabeth Steinberg Chubb package policy # 1158189310
+
+- [ ] Decide whether to increase the deductible on the Chubb policy to save $2,228.00
+- [ ] Reply to Patricia Smith confirming whether to proceed with the renewal as-is or with the higher deductible option
+
