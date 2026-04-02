@@ -387,3 +387,38 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to increase the deductible on the Chubb policy to save $2,228.00
 - [ ] Reply to Patricia Smith confirming whether to proceed with the renewal as-is or with the higher deductible option
 
+
+## 2026-04-02
+
+**From:** "UVA Clubs" <uvaclubs@mc.virginia.edu>  
+**Subject:** Welcome to UVA! Local Event
+
+- [ ] Register for the New York UVA local event on April 26 (1-3 p.m.) at Ferrara Bakery & Cafe if interested
+- [ ] Register for the Long Island UVA local event on April 26 (3-4:30 p.m.) at Garden City Senior Center if interested
+
+**From:** Ivan Chorney <ivan@millionluxury.com>  
+**Subject:** Re: Rosewood Residences | Hillsboro Beach
+
+- [ ] Reply to Ivan Chorney with thoughts on the two 2-bedroom units at Rosewood Residences Hillsboro Beach (Unit 303 at $6,500,900 and Unit 706 at $6,700,900)
+- [ ] Review floor plans for Unit 303 and Unit 706 at Rosewood Residences Hillsboro Beach
+- [ ] Decide between Unit 303 and Unit 706 (or neither) at Rosewood Residences Hillsboro Beach
+
+**From:** Janet Roman <JRoman@bhsusa.com>  
+**Subject:** Dept. of Finance - Coop/condo residence confirmation
+
+- [ ] Review attached NYC Dept. of Finance letter regarding Cooperative/Condo Property Tax Abatement
+- [ ] Determine if you are eligible for and receiving the Coop/Condo Property Tax Abatement
+- [ ] If eligible, respond to NYC Dept. of Finance with requested verification information to avoid losing the tax abatement
+- [ ] If you have questions, call 311 or contact NYC DOF at www.nyc.gov/contactpropexemptions
+
+**From:** Envoyer Imports <sales@envoyerfinewines.com>  
+**Subject:** Invoice for  2023 Domaine des Comtes Lafon Meursault 1er Cru Les Perrières
+
+- [ ] Pay invoice #D75893 for $2,717.97 to Envoyer Imports within 48 hours: https://www.envoyerfinewines.com/4981882951/invoices/8ae490b3c3689875fbfa231639859917
+
+**From:** Ana Pena <ana@monicafrieddesign.com>  
+**Subject:** Re: Wine room - one more q
+
+- [ ] Review leather samples when they arrive from Ana and approve or reject them
+- [ ] Decide whether butcher block countertop approach (glued/joined pieces with sealer) is acceptable, or pursue book-matched veneer alternative
+
