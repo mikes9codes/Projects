@@ -422,3 +422,27 @@ New items are appended below with the date they were found.
 - [ ] Review leather samples when they arrive from Ana and approve or reject them
 - [ ] Decide whether butcher block countertop approach (glued/joined pieces with sealer) is acceptable, or pursue book-matched veneer alternative
 
+
+## 2026-04-03
+
+**From:** New York State DMV eServices <eservices@messages.dmv.ny.gov>  
+**Subject:** Reminder — Vehicle Inspection
+
+- [ ] Schedule vehicle inspection for registered vehicle
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Rech Art París
+
+- [ ] Research artists Sasha Ferre, Minjung Kim, and Oliver Beer
+- [ ] Reply to Carmen about artist recommendations
+
+**From:** Chase <no.reply.alerts@chase.com>  
+**Subject:** Your latest statement is now available
+
+- [ ] Review the latest Chase account statement
+
+**From:** "Woodland Hills Wine Co." <wine@email.whwc.com>  
+**Subject:** DRC/Dujac Co-Produced 2025 Triennes Rosé
+
+- [ ] Decide whether to purchase Triennes Rosé 2025 at $14.95 while supplies last
+
