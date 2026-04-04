@@ -446,3 +446,17 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to purchase Triennes Rosé 2025 at $14.95 while supplies last
 
+
+## 2026-04-04
+
+**From:** "Redan" <redan@redan.club>  
+**Subject:** Early Access: McLaren Golf Irons
+
+- [ ] Register for McLaren Golf early access sale before public release (deadline: around April 3, 2026)
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** Tomorrow
+
+- [ ] Reply to Geoffrey Troy about the reservation at Topping Rose
+- [ ] Decide between Topping Rose or Chris's at the Palm for tomorrow's reservation
+
