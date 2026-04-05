@@ -460,3 +460,14 @@ New items are appended below with the date they were found.
 - [ ] Reply to Geoffrey Troy about the reservation at Topping Rose
 - [ ] Decide between Topping Rose or Chris's at the Palm for tomorrow's reservation
 
+
+## 2026-04-05
+
+**From:** "PAS Main Office" <office@pasyn.org>  
+**Subject:** Bereavement Notice - Elinor Heller
+
+- [ ] Decide whether to attend the funeral at Park Avenue Synagogue on Sunday, April 5, 2026 at 12pm
+- [ ] Check for shiva details to come from the Heller family
+- [ ] Consider sending condolences to the Heller family
+- [ ] Consider making a memorial donation to Park Avenue Synagogue at pasyn.org/giving
+
