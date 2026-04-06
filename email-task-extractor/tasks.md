@@ -471,3 +471,11 @@ New items are appended below with the date they were found.
 - [ ] Consider sending condolences to the Heller family
 - [ ] Consider making a memorial donation to Park Avenue Synagogue at pasyn.org/giving
 
+
+## 2026-04-06
+
+**From:** Morrell Wine <customerservice@morrellwine.com>  
+**Subject:** Solaia at an Incredible Price
+
+- [ ] Decide whether to purchase Marchesi Antinori Solaia 2022 at the sale price of $310/bottle (regularly $375)
+
