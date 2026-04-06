@@ -2,7 +2,7 @@
 """Daily Email Task Extractor
 
 Connects to Verizon/AOL inbox via IMAP, reads recently opened emails,
-extracts action items via Claude API, processes reply commands (add:/done:),
+extracts action items via Claude API, processes reply commands (add:/done:/remove:),
 updates tasks.md, and sends a daily digest email.
 """
 
@@ -58,12 +58,10 @@ def decode_str(value):
 def sender_name(from_header):
     """Return just the display name from a From: header, falling back to the address."""
     decoded = decode_str(from_header)
-    # "John Smith <john@example.com>" -> "John Smith"
     if "<" in decoded:
         name = decoded[:decoded.index("<")].strip().strip('"')
         if name:
             return name
-    # bare address or unknown — strip the domain for brevity
     if "@" in decoded:
         return decoded.split("@")[0].strip("<> ")
     return decoded
@@ -182,7 +180,7 @@ def fuzzy_match_task(query, tasks):
 
 # ── Reply command parsing ─────────────────────────────────────────────────────────────
 def parse_commands(body):
-    """Extract add:/done: commands from a reply body, ignoring quoted lines."""
+    """Extract add:/done:/remove: commands from a reply body, ignoring quoted lines."""
     adds, dones = [], []
     for line in body.splitlines():
         stripped = line.strip()
@@ -197,12 +195,16 @@ def parse_commands(body):
             task = stripped[5:].strip()
             if task:
                 dones.append(task)
+        elif lower.startswith("remove:"):
+            task = stripped[7:].strip()
+            if task:
+                dones.append(task)
     return adds, dones
 
 
 def process_reply_commands(processed_ids, today):
     """
-    Scan inbox for replies to digest emails and process add:/done: commands.
+    Scan inbox for replies to digest emails and process add:/done:/remove: commands.
     Returns a results dict summarising what was changed.
     """
     results = {"added": [], "completed": [], "unmatched": []}
@@ -348,7 +350,12 @@ def send_digest(date_str, reply_results, new_entries):
             lines.append(f"  ? '{query}' — no match, not removed")
         sections.append("\n".join(lines))
 
-    # 2. New tasks from emails
+    # Work out which tasks are brand new today vs already in the backlog
+    today_task_texts = set(task for entry in new_entries for task in entry["tasks"])
+    all_tasks = read_current_tasks()
+    older_tasks = [t for t in all_tasks if t not in today_task_texts]
+
+    # 2. New tasks from today's emails (with subject context)
     n = 1
     if new_entries:
         lines = ["NEW TODAY"]
@@ -360,22 +367,19 @@ def send_digest(date_str, reply_results, new_entries):
     elif not has_reply_activity:
         sections.append("No new action items today.")
 
-    # 3. Full current task list
-    current_tasks = read_current_tasks()
-    if current_tasks:
-        lines = ["ALL TASKS"]
-        for i, task in enumerate(current_tasks, 1):
+    # 3. Older outstanding items
+    if older_tasks:
+        lines = ["OLDER ITEMS"]
+        for i, task in enumerate(older_tasks, 1):
             lines.append(f"  {i}. {task}")
         sections.append("\n".join(lines))
-    else:
-        sections.append("ALL TASKS\n  (none — all clear!)")
 
     # 4. Instructions (compact)
-    sections.append("Reply:  add: <task>   |   done: <task>")
+    sections.append("Reply:  add: <task>   |   done: <task>   |   remove: <task>")
 
     body_text = "\n\n".join(sections)
 
-    total_outstanding = len(current_tasks)
+    total_outstanding = len(all_tasks)
     subject = f"Tasks {date_str} — {total_outstanding} outstanding"
 
     msg = MIMEMultipart("alternative")
@@ -401,7 +405,7 @@ def main():
     processed_ids = load_processed_ids()
     print(f"Previously processed emails: {len(processed_ids)}")
 
-    # Phase 1: process reply commands (add:/done:)
+    # Phase 1: process reply commands (add:/done:/remove:)
     print("Scanning for reply commands...")
     reply_results = process_reply_commands(processed_ids, today)
     if reply_results["added"]:
@@ -409,7 +413,7 @@ def main():
     if reply_results["completed"]:
         print(f"  Completed {len(reply_results['completed'])} task(s) from replies")
     if reply_results["unmatched"]:
-        print(f"  Unmatched done: queries: {reply_results['unmatched']}")
+        print(f"  Unmatched queries: {reply_results['unmatched']}")
 
     # Phase 2: extract tasks from new opened emails
     print("Scanning for new opened emails...")
