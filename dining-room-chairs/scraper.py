@@ -147,7 +147,7 @@ def _make_listing(**kwargs) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# SerpAPI — Google Shopping  (primary, reliable)
+# SerpAPI - Google Shopping  (primary, reliable)
 # ---------------------------------------------------------------------------
 
 def scrape_serp_google_shopping(query: str = 'set of 12 dining chairs') -> list[dict]:
@@ -156,8 +156,7 @@ def scrape_serp_google_shopping(query: str = 'set of 12 dining chairs') -> list[
         return []
 
     listings = []
-    # Run two searches: general + used/vintage
-    searches = [query, f'{query} used vintage antique']
+    searches = [query, f'{query} used vintage']
     for q in searches:
         params = {
             'engine': 'google_shopping',
@@ -184,8 +183,6 @@ def scrape_serp_google_shopping(query: str = 'set of 12 dining chairs') -> list[
             link = item.get('link', '')
             img = item.get('thumbnail', '')
             source_name = item.get('source', 'Google Shopping')
-            delivery = item.get('delivery', '')
-            # Try to determine location from delivery info or source
             location = 'USA'
             listings.append(_make_listing(
                 id=_id(link or title),
@@ -206,7 +203,7 @@ def scrape_serp_google_shopping(query: str = 'set of 12 dining chairs') -> list[
 
 
 # ---------------------------------------------------------------------------
-# SerpAPI — eBay search  (primary, reliable)
+# SerpAPI - eBay search  (primary, reliable)
 # ---------------------------------------------------------------------------
 
 def scrape_serp_ebay(query: str = 'set of 12 dining chairs') -> list[dict]:
@@ -225,7 +222,7 @@ def scrape_serp_ebay(query: str = 'set of 12 dining chairs') -> list[dict]:
             'ebay_domain': domain,
             '_nkw': query,
             'api_key': SERP_API_KEY,
-            'LH_ItemCondition': '0',  # all conditions
+            'LH_ItemCondition': '0',
         }
         r = _get('https://serpapi.com/search', params=params)
         if not r:
@@ -339,7 +336,7 @@ def scrape_ebay_api(query: str = 'set of 12 dining chairs') -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Craigslist (RSS — works from any IP)
+# Craigslist (RSS - works from any IP)
 # ---------------------------------------------------------------------------
 
 def scrape_craigslist() -> list[dict]:
@@ -496,7 +493,6 @@ def scrape_bonhams() -> list[dict]:
         for script in soup.find_all('script', type='application/json'):
             try:
                 data = json.loads(script.string or '')
-                # Bonhams embeds lot data under various keys depending on page version
                 items = (
                     data.get('lots', []) or
                     data.get('results', []) or
@@ -564,8 +560,30 @@ def scrape_bonhams() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Deduplicate & aggregate
+# Deduplicate, filter & aggregate
 # ---------------------------------------------------------------------------
+
+# Retailers to exclude - matched against source name and listing URL
+EXCLUDED_RETAILERS = {
+    'walmart', 'overstock', 'bed bath', 'bedbath', 'target', 'home depot', 'homedepot',
+}
+
+def _is_excluded(listing: dict) -> bool:
+    """Return True if a listing should be excluded."""
+    source = (listing.get('source') or '').lower()
+    url = (listing.get('listing_url') or '').lower()
+    title = (listing.get('title') or '').lower()
+    desc = (listing.get('description') or '').lower()
+
+    for retailer in EXCLUDED_RETAILERS:
+        if retailer in source or retailer in url:
+            return True
+
+    if 'antique' in title or 'antique' in desc:
+        return True
+
+    return False
+
 
 def deduplicate(listings: list[dict]) -> list[dict]:
     seen: set[str] = set()
@@ -578,7 +596,7 @@ def deduplicate(listings: list[dict]) -> list[dict]:
 
 
 def run_all_scrapers() -> list[dict]:
-    """Run all scrapers and return deduplicated, sorted listings."""
+    """Run all scrapers and return deduplicated, filtered, sorted listings."""
     all_listings: list[dict] = []
 
     # API-based scrapers run first (most reliable)
@@ -606,6 +624,9 @@ def run_all_scrapers() -> list[dict]:
         time.sleep(1)
 
     all_listings = deduplicate(all_listings)
+    before = len(all_listings)
+    all_listings = [l for l in all_listings if not _is_excluded(l)]
+    logger.info(f'Filtered out {before - len(all_listings)} excluded listings')
     all_listings.sort(key=lambda x: x.get('price_numeric') or float('inf'))
     logger.info(f'Total unique listings: {len(all_listings)}')
     return all_listings
