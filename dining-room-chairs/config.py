@@ -59,4 +59,5 @@ SOURCE_TYPES = {
     '1stDibs': 'luxury/design',
     'Etsy': 'marketplace/vintage',
     'LiveAuctioneers': 'auction',
+    'Bonhams': 'auction',
 }

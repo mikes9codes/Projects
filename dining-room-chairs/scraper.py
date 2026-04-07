@@ -7,7 +7,7 @@ Primary sources (API-based, reliable):
   - eBay Finding API
 
 Fallback sources (HTML scraping, may be blocked):
-  - Craigslist RSS, Chairish, 1stDibs, Etsy, LiveAuctioneers, Pamono
+  - Craigslist RSS, Chairish, 1stDibs, Etsy, LiveAuctioneers, Pamono, Bonhams
 """
 
 import hashlib
@@ -476,6 +476,94 @@ def scrape_1stdibs() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Bonhams (HTML fallback)
+# ---------------------------------------------------------------------------
+
+def scrape_bonhams() -> list[dict]:
+    listings = []
+    search_urls = [
+        'https://www.bonhams.com/search/?q=set+of+12+dining+chairs&type=lot',
+        'https://www.bonhams.com/search/?q=12+dining+chairs+set&type=lot',
+    ]
+    for url in search_urls:
+        r = _get(url)
+        if not r:
+            time.sleep(2)
+            continue
+        soup = BeautifulSoup(r.text, 'html.parser')
+
+        # Try embedded JSON data first
+        for script in soup.find_all('script', type='application/json'):
+            try:
+                data = json.loads(script.string or '')
+                # Bonhams embeds lot data under various keys depending on page version
+                items = (
+                    data.get('lots', []) or
+                    data.get('results', []) or
+                    data.get('data', {}).get('lots', [])
+                )
+                for item in items[:20]:
+                    title = item.get('title') or item.get('description', '')
+                    if not title:
+                        continue
+                    price_raw = (
+                        item.get('hammer_price') or
+                        item.get('estimate_low') or
+                        item.get('estimate', '')
+                    )
+                    price_str = f'${float(price_raw):,.0f}' if isinstance(price_raw, (int, float)) and price_raw else 'See listing'
+                    path = item.get('url') or item.get('path', '')
+                    link = f'https://www.bonhams.com{path}' if path and not path.startswith('http') else path
+                    img = item.get('image') or item.get('thumbnail', '')
+                    if isinstance(img, dict):
+                        img = img.get('url', '')
+                    sale = item.get('sale', {})
+                    location = sale.get('location', '') if isinstance(sale, dict) else ''
+                    listings.append(_make_listing(
+                        id=_id(link or title), title=title, price=price_str,
+                        image_url=img, listing_url=link,
+                        source='Bonhams', source_type='auction',
+                        location=location, condition='See listing',
+                    ))
+                if listings:
+                    break
+            except (json.JSONDecodeError, AttributeError):
+                continue
+
+        # HTML fallback: parse lot cards
+        if not listings:
+            lot_cards = (
+                soup.select('article.lot') or
+                soup.select('[class*="lot-card"]') or
+                soup.select('[class*="LotCard"]') or
+                soup.select('[data-testid*="lot"]')
+            )
+            for card in lot_cards[:20]:
+                a = card.find('a', href=True)
+                if not a:
+                    continue
+                href = a['href']
+                link = f'https://www.bonhams.com{href}' if not href.startswith('http') else href
+                title_el = card.find(['h2', 'h3', 'h4']) or card.find(class_=re.compile(r'title|heading', re.I))
+                title = title_el.get_text(strip=True) if title_el else a.get_text(strip=True)
+                if not title:
+                    continue
+                price_el = card.find(class_=re.compile(r'price|estimate|hammer', re.I))
+                price_str = price_el.get_text(strip=True) if price_el else 'See listing'
+                img_el = card.find('img')
+                img = img_el.get('src', '') if img_el else ''
+                listings.append(_make_listing(
+                    id=_id(link or title), title=title, price=price_str,
+                    image_url=img, listing_url=link,
+                    source='Bonhams', source_type='auction',
+                    location='', condition='See listing',
+                ))
+        time.sleep(2)
+    logger.info(f'  Bonhams: {len(listings)} listings')
+    return listings
+
+
+# ---------------------------------------------------------------------------
 # Deduplicate & aggregate
 # ---------------------------------------------------------------------------
 
@@ -505,6 +593,7 @@ def run_all_scrapers() -> list[dict]:
         ('Craigslist', scrape_craigslist),
         ('Chairish',   scrape_chairish),
         ('1stDibs',    scrape_1stdibs),
+        ('Bonhams',    scrape_bonhams),
     ]
 
     for name, fn in api_scrapers + html_scrapers:
