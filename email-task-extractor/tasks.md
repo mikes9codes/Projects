@@ -479,3 +479,74 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to purchase Marchesi Antinori Solaia 2022 at the sale price of $310/bottle (regularly $375)
 
+
+## 2026-04-07
+
+**From:** Advanced Wastewater Services <notification@msg.getjobber.com>  
+**Subject:** Due Invoice from Advanced Wastewater Services - Annual Service Fee
+ for 273 Mitchell Lane, 11932
+
+- [ ] Pay overdue invoice from Advanced Wastewater Services for FujiClean system at 273 Mitchell Lane (4/4/2026-4/4/2027) via the link in the email
+- [ ] Update or replace the Amex card on file with Advanced Wastewater Services to avoid future payment issues
+
+**From:** Shoshana Filene <shoshana@ackerwines.com>  
+**Subject:** 2022 White Burgundy: Generosity Without Compromise
+
+- [ ] Review the list of 2022 White Burgundy wines from Acker Wines and decide if any are worth purchasing
+- [ ] Reply to Shoshana Filene at ackerwines.com to place an order if interested
+
+**From:** Hannah Shapiro <Hannah.Shapiro@bonhams.com>  
+**Subject:** PHOTOGRAPHS auction @ Bonhams, closing April 9
+
+- [ ] Review Bonhams spring Photographs auction catalog at bonhams.com/auction/31872
+- [ ] Decide whether to attend presale exhibition (open April 3-4 and April 6-7, 10am-5pm at 111 West 57th Street, New York)
+- [ ] Decide whether to place bids before online bidding closes at 2:00pm EDT on April 9
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** 100 point wines from Harlan and Colgin
+
+- [ ] Review the list of 100-point Harlan and Colgin wines and decide if any are worth purchasing
+- [ ] Reply to David Hamburger if interested in any bottles or magnums from the list
+- [ ] Note upcoming Acker auction deadlines: HK Auction Sat April 11, US The Devine Collection Fri April 17, Swiss Auction Sat May 9, Singapore Auction Sat May 16
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** RE: 100 point wines from Harlan and Colgin
+
+- [ ] Reply to David Hamburger acknowledging his offer to source empty Burgundy OWCs from the store
+- [ ] Decide which 100-point Harlan and Colgin wines to purchase and notify David
+
+**From:** "Bridge Investment Group" <no-reply@icapitalnetwork.com>  
+**Subject:** IMPORTANT TAX RETURN DOCUMENT(S) AVAILABLE
+
+- [ ] Download and forward K-1 tax documents to accountant/tax preparer for Bridge Debt Strategies Fund IV LP (Final, 31-Dec-2025)
+- [ ] Download and forward K-1 tax documents to accountant/tax preparer for Bridge Multifamily & Commercial Office Fund III LP (Final, 31-Dec-2025)
+- [ ] Log in to bridgeig.icapitalnetwork.com to access and save the tax documents
+
+**From:** GitHub <noreply@github.com>  
+**Subject:** [GitHub] Please reset your password
+
+- [ ] Reset GitHub password using the link in the email within 3 hours before it expires
+
+**From:** Brian Mullaney <brian@ackerwines.com>  
+**Subject:** RE: 100 point wines from Harlan and Colgin
+
+- [ ] Follow up with David Hamburger about sourcing empty Burgundy OWCs from the store
+- [ ] Review the list of 100-point Harlan and Colgin wines David sent and decide whether to purchase any
+- [ ] Note that Raveneau, Rousseau, Dujac, and Fourrier (except single bottle Griotte) come in cardboard cases, not OWCs - adjust sourcing strategy accordingly
+- [ ] Consider attending or bidding in Acker's HK Auction on April 11, Swiss Auction on May 9, or Singapore Auction on May 16
+
+**From:** Brian Mullaney <brian@ackerwines.com>  
+**Subject:** RE: 100 point wines from Harlan and Colgin
+
+- [ ] Wait for Brian to follow up if he finds DRC RSV in OWC
+- [ ] Wait for Brian to get back on Chambertin OWC options
+- [ ] Follow up with David Hamburger on whether he can source wines from the store list (DRC, Raveneau, Rousseau, Dujac, Fourrier)
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Wine room - one more q
+
+- [ ] Review Monica's two dining chair suggestions and provide feedback (Angela Chair from Sossego, Monk Dining Chair from Eternity Modern)
+- [ ] Review Monica's two dining table suggestions and decide: Loewen Design Studios pedestal table vs Crate & Barrel Roseau extendable table
+- [ ] Decide whether to keep the stools (review stool invoice Monica included)
+- [ ] Follow up on wine cellar/butcher block alternative — identify and contact a different woodworker
+
