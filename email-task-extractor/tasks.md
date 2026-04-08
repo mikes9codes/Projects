@@ -550,3 +550,49 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to keep the stools (review stool invoice Monica included)
 - [ ] Follow up on wine cellar/butcher block alternative — identify and contact a different woodworker
 
+
+## 2026-04-08
+
+**From:** The Particular Cellar Co. <info@particularcellar.com>  
+**Subject:** Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27, 2026
+ Deadline
+
+- [ ] Review attached 2019 Vintage Offering document from Domaine du Comte Liger-Belair
+- [ ] Review attached individual allocation offer document
+- [ ] Decide whether to accept the wine allocation offer before April 27, 2026 deadline
+- [ ] Reply to info@particularcellar.com to accept allocation offer if desired
+- [ ] Wait for Confirmed Invoice before initiating wire transfer payment
+
+**From:** GitHub <noreply@github.com>  
+**Subject:** [GitHub] Please verify your device
+
+- [ ] Enter verification code 034031 on the unrecognized GitHub device to complete sign in
+- [ ] If you did not attempt this sign in, change your GitHub password at https://github.com/settings/security
+- [ ] Consider enabling two-factor authentication on your GitHub account
+
+**From:** Netflix <info@account.netflix.com>  
+**Subject:** A new device is using your account
+
+- [ ] Determine if the new Netflix sign-in on April 7th from an iPhone in New Jersey was you or someone in your household
+- [ ] If the sign-in was not recognized, change your Netflix password immediately at netflix.com/password
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Domaine Dujac Collection
+
+- [ ] Review Domaine Dujac wine offerings from Acker Wines and decide whether to purchase any bottles
+- [ ] Contact David Hamburger at david@ackerwines.com or 212-787-1624 if interested in placing an order
+- [ ] Note upcoming Acker auction deadlines: HK Auction Sat April 11, US The Devine Collection Fri April 17, Swiss Auction Sat May 9, Singapore Auction Sat May 16
+
+**From:** Ivan Chorney <ivan@millionluxury.com>  
+**Subject:** RE: Private Zoom Presentation: St. Regis® Residences Brickell
+
+- [ ] Register for the private Zoom presentation on St. Regis Residences Brickell via the provided link
+- [ ] Decide whether to pursue interest in St. Regis Residences Miami
+- [ ] Consider contacting Ivan Chorney at +13052031324 for more information
+
+**From:** Mike Hoagland <mike@particularcellar.com>  
+**Subject:** RE: Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27,
+ 2026 Deadline
+
+- [ ] Note Michael Steinberg's interest in additional bottles if any become available from the 2019 Domaine du Comte Liger-Belair allocation
+
