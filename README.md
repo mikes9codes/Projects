@@ -1,5 +1,9 @@
 # Projects
 
+**[View Dining Chair Results](https://mikes9codes.github.io/DiningRoomChairs2026/)**
+
+---
+
 This repo contains independent automation projects, each in its own folder.
 
 ## Projects
