@@ -596,3 +596,26 @@ New items are appended below with the date they were found.
 
 - [ ] Note Michael Steinberg's interest in additional bottles if any become available from the 2019 Domaine du Comte Liger-Belair allocation
 
+
+## 2026-04-09
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: Liberty gas
+
+- [ ] Review the 2 BBQ hook up proposals from Liberty Gas Service forwarded by Elizabeth Steinberg
+- [ ] Follow up with Elizabeth Steinberg regarding which proposal to proceed with or if she has any questions
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: Quote # 123081 - 885 Park Avenue - 8A - Steinberg Residence - Quote - Replacement of the Evaporator Fan Motor and Control Board for the Living Room Air Handler - ECM - Carrier
+
+- [ ] Review Quote #123081 for replacement of the evaporator fan motor and control board for the Living Room Air Handler at 885 Park Avenue, 8A
+- [ ] Decide whether to approve and proceed with the repair work
+- [ ] If approving, sign the quote and return it to Shaib Sharhan at LTB NY via email, fax, or mail
+- [ ] If approving, arrange the required deposit payment by check, EFT, or credit card (note: 3% fee applies for credit card)
+
+**From:** Kerri Gove <m@mail2.veracross.com>  
+**Subject:** 2026 Senior Pre-Prom
+
+- [ ] RSVP for 2026 Senior Pre-Prom via Google Form (https://docs.google.com/forms/d/e/1FAIpQLSdaA7BH4Q7-5na9gh81wPr00dKxrKQeigSoS2tGYYCfTOPUSw/viewform?usp=header)
+- [ ] Add Pre-Prom to calendar: Monday May 18th, 7:00-8:00 PM at Current, Pier 59, Chelsea Piers, New York, NY 10011
+
