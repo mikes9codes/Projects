@@ -7,7 +7,7 @@ import logging
 from datetime import datetime
 from flask import Flask, render_template, jsonify, request
 from apscheduler.schedulers.background import BackgroundScheduler
-from scraper import run_all_scrapers
+from scraper import run_all_scrapers, _is_excluded
 
 logging.basicConfig(
     level=logging.INFO,
@@ -72,7 +72,7 @@ def index():
 @app.route('/api/listings')
 def api_listings():
     data = load_results()
-    listings = data.get('listings', [])
+    listings = [l for l in data.get('listings', []) if not _is_excluded(l)]
 
     country = request.args.get('country', '')
     source = request.args.get('source', '')
