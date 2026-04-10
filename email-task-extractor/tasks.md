@@ -619,3 +619,38 @@ New items are appended below with the date they were found.
 - [ ] RSVP for 2026 Senior Pre-Prom via Google Form (https://docs.google.com/forms/d/e/1FAIpQLSdaA7BH4Q7-5na9gh81wPr00dKxrKQeigSoS2tGYYCfTOPUSw/viewform?usp=header)
 - [ ] Add Pre-Prom to calendar: Monday May 18th, 7:00-8:00 PM at Current, Pier 59, Chelsea Piers, New York, NY 10011
 
+
+## 2026-04-10
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: Preview | Emily Kraus: In Relation
+
+- [ ] Reply to Carmen about whether you want to join her to see the Emily Kraus paintings at the Luhring Augustine Tribeca gallery around 5pm on April 10th
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Joseph Drouhin Collection - Musigny, Amoureuses, Griotte, Montrachet,
+ Clos des Mouches Rouge
+
+- [ ] Review Joseph Drouhin wine offerings from Acker Wines and decide if any bottles/magnums are of interest to purchase
+- [ ] Contact David Hamburger at 212-787-1624 or david@ackerwines.com if interested in placing an order
+- [ ] Note upcoming auction deadlines: HK Auction Sat April 11, US The Devine Collection Fri April 17, Swiss Auction Sat May 9, Singapore Auction Sat May 16
+
+**From:** The Particular Cellar Co. <info@particularcellar.com>  
+**Subject:** CLB 2019 Invoice | PCC
+
+- [ ] Initiate wire transfer to The Particular Cellar Co., LLC for the full amount due by April 27, 2026
+- [ ] Review attached Confirmed Invoice for the total amount due
+- [ ] Review attached General Order Info for wire instructions
+- [ ] Email info@particularcellar.com once wire transfer has been initiated
+
+**From:** Netflix <info@account.netflix.com>  
+**Subject:** Netflix: Your sign-in code
+
+- [ ] Enter Netflix sign-in code 5607 on your device within 15 minutes (expires soon)
+- [ ] If you did not request this code, review your recent Netflix account activity at netflix.com/accountaccess
+
+**From:** ArtPhotoLimited <noreply.invitations@trustpilotmail.com>  
+**Subject:** ⭐ ⭐ ⭐ ⭐ ⭐   Wie viele Sterne würden  Sie ArtPhotoLimited geben?
+
+- [ ] Leave a review for ArtPhotoLimited on Trustpilot
+
