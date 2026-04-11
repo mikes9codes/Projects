@@ -654,3 +654,25 @@ New items are appended below with the date they were found.
 
 - [ ] Leave a review for ArtPhotoLimited on Trustpilot
 
+
+## 2026-04-11
+
+**From:** The Noortwyck <info@thenoortwyck.com>  
+**Subject:** A Guest Sommelier and a Burger
+
+- [ ] Decide whether to reserve a seat for the Andre Mack wine dinner on April 20th
+- [ ] Decide whether to reserve a seat for the Kenneth Crum wine dinner on April 13th (few seats remaining)
+- [ ] Decide whether to reserve a seat for the Pepe Raventos wine dinner on May 4th
+- [ ] Decide whether to try the Corner Combo burger deal (available Mon-Fri until 6:30, limited quantities)
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** February  E-Auction
+
+- [ ] Reply to Geoffrey Troy regarding the February E-Auction payment
+
+**From:** IFPDA Print Fair VIP <vip@ifpda.org>  
+**Subject:** Your Tickets to the 2026 IFPDA Print Fair
+
+- [ ] Save or print the attached digital pass for entry to the 2026 IFPDA Print Fair
+- [ ] Add the IFPDA Print Fair to calendar: April 9–12, 2026 at Park Avenue Armory, 643 Park Ave, New York, NY 10065
+
