@@ -676,3 +676,19 @@ New items are appended below with the date they were found.
 - [ ] Save or print the attached digital pass for entry to the 2026 IFPDA Print Fair
 - [ ] Add the IFPDA Print Fair to calendar: April 9–12, 2026 at Park Avenue Armory, 643 Park Ave, New York, NY 10065
 
+
+## 2026-04-12
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** ⚡Francois  Raveneau, Deep and Back to the 90s
+
+- [ ] Review the full Francois Raveneau wine offer list (available in Excel or PDF, or online at SommPicks)
+- [ ] Decide whether to purchase any Raveneau wines from the over 100 lines available
+- [ ] Consider contacting SommPicks to claim 5% discount if purchasing the full parcel
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** 2023 DARVIOT-PERRIN  IN LARGE FORMATS - JUST ARRIVED
+
+- [ ] Decide whether to purchase any Darviot-Perrin 2023 large format Burgundies (Meursault Charmes magnums at $490, Meursault Genevrieres at $560, Meursault Perrieres at $660, or Chassagne Blanchots Desus at $660)
+- [ ] Reply to Geoffrey Troy at gtroy@nywines.com with order decision before wines sell out
+
