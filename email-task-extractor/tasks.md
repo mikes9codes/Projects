@@ -692,3 +692,53 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase any Darviot-Perrin 2023 large format Burgundies (Meursault Charmes magnums at $490, Meursault Genevrieres at $560, Meursault Perrieres at $660, or Chassagne Blanchots Desus at $660)
 - [ ] Reply to Geoffrey Troy at gtroy@nywines.com with order decision before wines sell out
 
+
+## 2026-04-13
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Wine room - one more q
+
+- [ ] Review the Etsy travertine dining table link Monica sent and decide if it's a good fit for the wine room
+- [ ] Decide between the Etsy travertine table or having two custom marble tables made
+- [ ] Review the Eternity Modern Monk Dining Chair Monica suggested as a pairing with the stone table
+- [ ] Send payment for the stools on Monday
+- [ ] Reply to Monica with feedback/decisions on the table and chair options
+- [ ] Consider scheduling a call or meeting with Monica to discuss the wine room (Monica offered to chat live)
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Wine room - one more
+
+- [ ] Review the four chair options Monica sent for the wine room (3 vintage, 1 new) and provide feedback or make a selection to share with Elizabeth
+
+**From:** SommPicks Team <team@sommpicks.com>  
+**Subject:** Re: ⚡Francois Raveneau, Deep and Back to the 90s
+
+- [ ] Review the attached updated Raveneau wine list
+- [ ] Decide which Raveneau wines to purchase (buy in 6-bottle increments to receive original cardboard case packaging)
+
+**From:** SommPicks <team@sommpicks.com>  
+**Subject:** You've got great taste, don't let these slip away!
+
+- [ ] Decide whether to complete the purchase of Francois Raveneau Chablis 1er Cru Butteaux 2020 ($429.00) and Francois Raveneau Chablis Grand Cru Valmur 2017 ($859.00) in cart at SommPicks
+
+**From:** MS <MSS999@protonmail.com>  
+**Subject:** Re: Hey
+
+- [ ] Review the updated spreadsheet from MS showing wine lots and case bundling details
+- [ ] Decide how to proceed with the bundled wine lots (accept bundles, negotiate, or other arrangement)
+- [ ] Resolve the outstanding Zalto invoice issue - identify the sender and confirm if payment is needed
+
+**From:** SommPicks Team <team@sommpicks.com>  
+**Subject:** Re: ⚡Francois Raveneau, Deep and Back to the 90s
+
+- [ ] Review attached invoice confirming Raveneau order
+- [ ] Decide whether to accept the 3% discount offer
+- [ ] Confirm whether to bill AMEX ending in 7003
+- [ ] Look out for and review upcoming Coche offerings (2022s) that SommPicks will send tomorrow
+
+**From:** Jane Troy <jane@nywines.com>  
+**Subject:** RE: February  E-Auction
+
+- [ ] Reply to Geoffrey Troy regarding the February E-Auction payment
+- [ ] Follow up with Geoffrey Troy about high end white and red wine stock availability
+
