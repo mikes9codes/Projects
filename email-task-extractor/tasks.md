@@ -742,3 +742,68 @@ New items are appended below with the date they were found.
 - [ ] Reply to Geoffrey Troy regarding the February E-Auction payment
 - [ ] Follow up with Geoffrey Troy about high end white and red wine stock availability
 
+
+## 2026-04-14
+
+**From:** Julien's Auctions <info@juliensauctions.com>  
+**Subject:** Announcing | Jerry Weintraub: The Consummate Producer
+
+- [ ] Review the Jerry Weintraub auction catalog ahead of May 5-6 in Los Angeles
+- [ ] Request condition reports from Julien's Auctions for any items of interest
+- [ ] Review Terms & Conditions to understand Buyer's Premium and other fees before bidding
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: February  E-Auction
+
+- [ ] Reply to Geoffrey Troy regarding the February E-Auction payment ('Please advise')
+- [ ] Decide whether to purchase 2024 white wines in bulk (noting Geoffrey's feedback that 2024 is 'good+' not exceptional, contrary to what Mike heard)
+
+**From:** mikes9@verizon.net  
+**Subject:** Daily Task Digest 2026-04-13 — 19 action item(s) found
+
+- [ ] Review the Etsy travertine dining table link Monica sent and decide if it's a good fit for the wine room
+- [ ] Decide between the Etsy travertine table or having two custom marble tables made
+- [ ] Review the Eternity Modern Monk Dining Chair Monica suggested as a pairing with the stone table
+- [ ] Send payment for the stools on Monday
+- [ ] Reply to Monica with feedback and decisions on the table and chair options
+- [ ] Consider scheduling a call or meeting with Monica to discuss the wine room
+- [ ] Review the four chair options Monica sent for the wine room (3 vintage, 1 new) and provide feedback or make a selection to share with Elizabeth
+- [ ] Review the attached updated Raveneau wine list from SommPicks
+- [ ] Decide which Raveneau wines to purchase from SommPicks (buy in 6-bottle increments for original cardboard case packaging)
+- [ ] Decide whether to complete the purchase of Francois Raveneau Chablis 1er Cru Butteaux 2020 ($429.00) and Chablis Grand Cru Valmur 2017 ($859.00) in SommPicks cart
+- [ ] Review the updated spreadsheet from MS showing wine lots and case bundling details
+- [ ] Decide how to proceed with the bundled wine lots from MS (accept, negotiate, or other arrangement)
+- [ ] Resolve the outstanding Zalto invoice issue - identify the sender and confirm if payment is needed
+- [ ] Review attached invoice confirming Raveneau order from SommPicks
+- [ ] Decide whether to accept the 3% discount offer from SommPicks
+- [ ] Confirm whether to bill AMEX ending in 7003 for the SommPicks order
+- [ ] Look out for and review upcoming Coche 2022 offerings from SommPicks
+- [ ] Reply to Geoffrey Troy regarding the February E-Auction payment
+- [ ] Follow up with Geoffrey Troy about high end white and red wine stock availability
+
+**From:** The Particular Cellar Co. <info@particularcellar.com>  
+**Subject:** RE: Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27,
+ 2026 Deadline
+
+- [ ] Reply to The Particular Cellar Co. confirming whether to pass on the magnum of Clos des Grandes Vignes Rouge 2016
+- [ ] Review the 2019 Vintage Offering attachment from Domaine du Comte Liger-Belair
+- [ ] Complete 2019 allocation order before April 27, 2026 deadline
+
+**From:** Greg Koslosky <greg@envoyerfinewines.com>  
+**Subject:** Re: A Selection of Meursault and Montrachet from Comtes Lafon!
+
+- [ ] Pay the invoice from Greg Koslosky at Envoyer Fine Wines for the wine bottles
+- [ ] Confirm shipping address (885 Park Avenue, 8A, New York, NY 10075) with Greg
+
+**From:** Stephanie Reckler <stephaniereckler885@gmail.com>  
+**Subject:** Re: CPOLHN - "A" Line Apartments Dramatically Affected
+
+- [ ] Submit $2500 DAF contribution to CPOLHN (EIN 84-2363968, c/o Stephanie H. Reckler, 885 Park Avenue apt 12-C, New York, NY 10075)
+
+**From:** "Richard Sutton" <rs@phfwv.com>  
+**Subject:** Montrachet, Bâtard, Bienvenues, Criots 2009-2024 -  inc DRC, Bouchard, Pernot, Jadot, Fontaine-Gagnard
+
+- [ ] Review the Grand Cru white Burgundy offerings from Richard Sutton/Phoenix and decide whether to purchase any wines
+- [ ] Consider purchasing Montrachet Grand Cru Bouchard 2009 (£5,050/cs), Bouchard 2018 (£1,300/3-pack or £900/magnum), and other listed wines before stock runs out
+- [ ] Reply to Richard Sutton at rs@phfwv.com if interested in placing an order for any of the offered wines
+
