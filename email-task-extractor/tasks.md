@@ -807,3 +807,54 @@ New items are appended below with the date they were found.
 - [ ] Consider purchasing Montrachet Grand Cru Bouchard 2009 (£5,050/cs), Bouchard 2018 (£1,300/3-pack or £900/magnum), and other listed wines before stock runs out
 - [ ] Reply to Richard Sutton at rs@phfwv.com if interested in placing an order for any of the offered wines
 
+
+## 2026-04-15
+
+**From:** The Particular Cellar Co. <info@particularcellar.com>  
+**Subject:** RE: Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27,
+ 2026 Deadline
+
+- [ ] Watch for invoice from The Particular Cellar Co. for the 2019 Domaine du Comte Liger-Belair allocation and process payment upon receipt
+
+**From:** Mike Hoagland <mike@particularcellar.com>  
+**Subject:** RE: Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27,
+ 2026 Deadline
+
+- [ ] Consider whether to reconsider acceptance of future offered items to maintain allocation standing, given Mike Hoagland's note that acceptance rate is a metric used in future allocation decisions
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Domaine Rousseau Ruchottes-Chambertin Clos des Ruchottes
+
+- [ ] Review available bottles of Domaine Rousseau Ruchottes-Chambertin Clos des Ruchottes and decide whether to purchase any
+- [ ] Contact David Hamburger at david@ackerwines.com or 212-787-1624 if interested in buying
+
+**From:** SommPicks Team <team@sommpicks.com>  
+**Subject:** Re: ⚡Francois Raveneau, Deep and Back to the 90s
+
+- [ ] Decide whether to proceed with payment via AMEX ending 7003 (crypto not accepted)
+- [ ] Reply to SommPicks confirming payment method to finalize the invoice
+- [ ] Review the attached invoice for the Raveneau bottles ordered
+- [ ] Look out for upcoming Coche offerings that SommPicks said they would send
+- [ ] Consider whether to offer any wines for trading with SommPicks
+
+**From:** <tom885park@aol.com>  
+**Subject:** BHS Building Access Cards
+
+- [ ] Pick up access cards from front landing
+- [ ] Distribute access cards to all family members, housekeepers, caregivers, and unaccompanied children
+- [ ] Contact Tom Smajlaj (212.288.9111) if additional access cards are needed
+- [ ] Ensure all relevant household members have cards before potential strike at Midnight on April 20th
+
+**From:** "Eventbrite" <noreply@order.eventbrite.com>  
+**Subject:** Elizabeth Steinberg just got you tickets to Virginia Club of New
+ York:
+ Admitted Student Celebration
+
+- [ ] Claim tickets for Virginia Club of New York: Admitted Student Celebration at https://www.eventbrite.com/claimtickets/?eid=1983823885645
+- [ ] Attend Virginia Club of New York: Admitted Student Celebration on Sunday, April 26 at 1:00 PM at Ferrara Bakery & Cafe
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: Bremer
+
+- [ ] Review the attached checklist for the Sebastiaan Bremer show at Edwynn Houk Gallery
+
