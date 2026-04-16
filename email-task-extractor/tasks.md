@@ -858,3 +858,61 @@ New items are appended below with the date they were found.
 
 - [ ] Review the attached checklist for the Sebastiaan Bremer show at Edwynn Houk Gallery
 
+
+## 2026-04-16
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: Quote # 123081 - 885 Park Avenue - 8A - Steinberg Residence -
+ Quote - Replacement of the Evaporator Fan Motor and Control Board for the
+ Living Room Air Handler - ECM - Carrier
+
+- [ ] Review Quote #123081 from LTB Mechanical for replacement of evaporator fan motor and control board for Steinberg residence living room air handler ($1,800 materials + $1,000 labor)
+- [ ] Decide whether to approve and proceed with the LTB Mechanical repair work for the Steinberg residence
+- [ ] If approved, sign and return quote to LTB Mechanical along with required deposit
+
+**From:** SommPicks Team <team@sommpicks.com>  
+**Subject:** Re: ⚡Francois Raveneau, Deep and Back to the 90s
+
+- [ ] Follow up with Michael Steinberg about interest in his bottles for sale (01 Leroy Richebourg, 91 Leroy RSV, 91 Ponsot Griotte, 98 Mouton Rothschild, 01 Beaucastel Hommage de JP, and oddities including Pontinet Ampeau Meursault Charmes, 99 Musar, 04 Ferrando Carema)
+- [ ] Send Michael Steinberg Coche listings (22s and other vintages including 2014, 2020, 2022) as previously promised
+
+**From:** SommPicks Team <team@sommpicks.com>  
+**Subject:** Re: ⚡Francois Raveneau, Deep and Back to the 90s
+
+- [ ] Reply to Michael Steinberg with a price/offer for the 2001 Leroy Richebourg
+
+**From:** Uovo Billing <billing@uovo.com>  
+**Subject:** Re: UOVO Concierge Storage Invoice INV1006670
+
+- [ ] Wait for account managers to provide details about the storage volume increases in December and January
+- [ ] Review the explanation from account managers regarding the ~400% billing increase
+- [ ] Monitor bank/payment account on the 18th of the month when autopay charge will occur
+
+**From:** Direct du Domaine <rocky@directdudomaine.com>  
+**Subject:** Domaine Roulot 2024 Offer - Few Bottles Remaining!
+
+- [ ] Decide whether to purchase Domaine Roulot 2024 wines before stock runs out
+- [ ] If purchasing, place order via the Direct Du Domaine Library form (https://form.jotform.com/cirinorocky/direct-du-domaine-library)
+
+**From:** Quillan Rosen Kaser <qkaser@uovo.com>  
+**Subject:** Re: UOVO Concierge Storage Invoice INV1006670
+
+- [ ] Review UOVO invoice INV1006670 to verify charges for Gonzales 'Seated Crowd' delivery (December 2025) and Murphy empty crates delivery (January 2026)
+- [ ] Confirm whether the ~400% billing increase is justified based on the explanation provided
+- [ ] Note that autopay charge will occur on the 18th of the month — decide whether to dispute or approve before then
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: Fw: SAT 42087 / Re: Fwd: Elizabeth and Michael Steinberg (9
+ pieces in storage)
+
+- [ ] Confirm whether the piece intended for the library is at Uovo or at Safe Art storage
+- [ ] Review attached images of the 9 pieces in Safe Art storage and decide which, if any, to retrieve or use
+- [ ] Respond to Elizabeth about whether she should take any of the stored pieces
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Fw: Invitation: Janaina Tschäpe - NYC studio visit
+
+- [ ] Decide whether you and Liz want to attend the Janaina Tschäpe NYC studio visit on May 14 at 10am
+- [ ] Reply to Carmen about whether you and Liz will attend the studio visit
+- [ ] Note that the Independent fair also opens on May 14
+
