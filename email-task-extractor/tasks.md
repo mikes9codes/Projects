@@ -916,3 +916,40 @@ New items are appended below with the date they were found.
 - [ ] Reply to Carmen about whether you and Liz will attend the studio visit
 - [ ] Note that the Independent fair also opens on May 14
 
+
+## 2026-04-17
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** 2024 Ballot Millot
+
+- [ ] Decide whether to purchase the mixed case of 2024 Ballot Millot (4 Charmes @ $209, 4 Genevrieres @ $229, 4 Perrieres @ $269)
+- [ ] Reply to Ian McFadden at Crush Wine and Spirits with decision on the order
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Decide whether to buy 3 bottles each of 2022 and 2023 Leflaive Chevalier at $1,895/bottle
+- [ ] Decide whether to buy 3 bottles of 2023 Lafon Perrieres at $885/bottle
+- [ ] Decide whether to buy 6 bottles of 2023 Lafon Genevrieres at $649/bottle
+- [ ] Decide whether to buy 6 bottles of 2023 Lafon Charmes at $410/bottle
+- [ ] Reply to Ian McFadden with purchase decisions on the Leflaive and Lafon wines
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Decide whether to purchase the OWC six pack of 2018 DRC Richebourg at $3,875/bottle
+- [ ] Decide whether to purchase Bordeaux (2000, 2010, 2016 vintages) for long-term cellaring
+- [ ] Send a check to Ian McFadden for the Leflaive purchase
+- [ ] Confirm receipt of the 2022 Ballot Millot wines that have arrived
+- [ ] Watch for Ian's invoice for the Leflaive order
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Review attached Leflaive invoice
+- [ ] Decide whether to purchase 3+3 bottles of 2022 and 2023 Leflaive Chevalier at $1895/bottle
+- [ ] Decide whether to purchase 2023 Lafon Perrieres (3 bottles at $885), Genevrieres (6 bottles at $649), and/or Charmes (6 bottles at $410)
+- [ ] Reply to Ian's question about whether Mike has had anything good lately
+- [ ] Confirm payment by check for Leflaive order and arrange details with Ian
+- [ ] Decide on DRC 2019, 2020, and 2022 purchases (buyer but not chasing)
+
