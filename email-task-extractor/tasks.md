@@ -953,3 +953,63 @@ New items are appended below with the date they were found.
 - [ ] Confirm payment by check for Leflaive order and arrange details with Ian
 - [ ] Decide on DRC 2019, 2020, and 2022 purchases (buyer but not chasing)
 
+
+## 2026-04-18
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Fw: PREVIEW GaHee Park ‘Half-Looking, Half-Seen’ at Perrotin New York
+
+- [ ] Reply to Carmen confirming whether you are still interested in 'Moment of Clarity' and the still life works by GaHee Park
+- [ ] Review the GaHee Park 'Half-Looking, Half-Seen' preview before the exhibition opens April 24, 2026
+
+**From:** Jennifer Rizzo <jenn@harmanprojects.com>  
+**Subject:** Chris RWK and Friends Advance Collector Link
+
+- [ ] Decide whether to purchase from the Chris RWK and Friends collection before it goes live to the general public at 10am PST / 1pm EST
+- [ ] Decide whether to attend the opening reception on Saturday, April 18th from 6pm to 8pm at 210 Rivington Street, New York City
+
+**From:** Collectible Fine Wine <ashley@collectiblefinewine.com>  
+**Subject:** 2020 Bernard-Bonin Magnums!
+
+- [ ] Decide whether to purchase any 2020 Domaine Bernard-Bonin magnums before stock sells out (arriving June)
+- [ ] Visit collectiblefinewine.com or contact ashley@collectiblefinewine.com / (602) 738-7063 to place order if interested
+
+**From:** Janet Roman <JRoman@bhsusa.com>  
+**Subject:** Strike Averted
+
+- [ ] Review attached document about the SEIU 32BJ agreement
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** Rare Back Back Vintage Magnums From Pavelot!
+
+- [ ] Decide whether to purchase 2018 Domaine Pavelot Savigny-lès-Beaune 1er Cru Aux Gravains magnums at $99.99/1.5L (pre-arrival, ETA Q2 2026)
+- [ ] Reply to greg@envoyerfinewines.com to place order if interested
+
+**From:** Order Update <orderupdate@ackerwines.com>  
+**Subject:** Acker Auctions DE - Congratulations - Winning Bids Are Attached! -
+ Invoice #263DE - 4/17/2026
+
+- [ ] Review attached winning bid receipt and comprehensive bid result sheet
+- [ ] Pay invoice #263DE within 30 days of 4/17/2026 to avoid interest (deadline: 5/17/2026)
+- [ ] Decide on payment method: wire transfer, check, or credit card (note credit card fees apply)
+- [ ] Decide whether to arrange pickup/overseas delivery within 5 days (by 4/22/2026) to avoid storage fees
+- [ ] If shipping domestically, contact Acker Storage logistics team at Shipping@AckerStorage.com once payment is confirmed
+- [ ] Review Acker Storage agreement at https://www.ackerstorage.com/StorageAgreement if lots will be stored
+- [ ] Contact Kristin Buma at Kristin@AckerWines.com or 302-525-8601 (Mon-Wed, 9am-4pm) with any questions
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** A Selection of Red Burgs From JF Mugnier, Fourrier, and Dujac, All
+ In Stock!
+
+- [ ] Decide whether to purchase any wines from Envoyer Fine Wines and reply to the email to place an order if interested
+
+**From:** Veronica Houk <veronica@houkgallery.com>  
+**Subject:** Houk Gallery artists
+
+- [ ] Send Veronica photos of the walls being considered for artwork
+- [ ] Review the Robert Longo — Men in the Cities portfolio link
+- [ ] Review the Jessica Wynne — Do Not Erase (chalkboards) portfolio link
+- [ ] Review the Jessica Wynne NYT article
+- [ ] Review the Laurie Simmons — Walking Objects portfolio link
+- [ ] Decide on artwork for the basement landing statement piece
+
