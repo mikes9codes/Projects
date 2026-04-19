@@ -1013,3 +1013,12 @@ New items are appended below with the date they were found.
 - [ ] Review the Laurie Simmons — Walking Objects portfolio link
 - [ ] Decide on artwork for the basement landing statement piece
 
+
+## 2026-04-19
+
+**From:** Mike Hoagland <mike@particularcellar.com>  
+**Subject:** RE: Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27,
+ 2026 Deadline
+
+- [ ] Decide whether to accept the 2019 Liger-Belair allocation (6 bottles + 1 magnum of NSG 1er Clos des Grandes Vignes 2016) by April 27, 2026 deadline
+
