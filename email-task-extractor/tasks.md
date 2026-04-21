@@ -1022,3 +1022,67 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to accept the 2019 Liger-Belair allocation (6 bottles + 1 magnum of NSG 1er Clos des Grandes Vignes 2016) by April 27, 2026 deadline
 
+
+## 2026-04-21
+
+**From:** Patrick Larson <patrick@ackerwines.com>  
+**Subject:** 24 Releases of Pappy Van Winkle!!!!
+
+- [ ] Reply to Patrick at Acker Wines (patrick@ackerwines.com) to order any desired Pappy Van Winkle bottles before they sell out - first come, first served
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Events available - 1966 Bordeaux, Ridge Monte Bello back to 1963, Château Montrose back to 1945, 1996 Champagne!!!
+
+- [ ] Decide whether to attend the 1966 Bordeaux 60th Anniversary Blind Tasting at City Winery on April 27th ($1,195/person)
+- [ ] Register for the 1966 Bordeaux event at City Winery before seats sell out: https://www.ackerwines.com/product/200800-event-1966-bordeaux-blind-tasting-60th-anniversary-at-city-winery-nyc/
+- [ ] Decide whether to attend the Ridge Monte Bello Vertical Dinner at Gramercy Tavern on May 6th ($1,995/person)
+- [ ] Register for the Ridge Monte Bello Vertical Dinner before seats sell out: https://www.ackerwines.com/product/200801-event-ridge-monte-bello-vertical-dinner-at-gramercy-tavern-nyc/
+- [ ] Decide whether to attend the Château Montrose Vertical Dinner at Le Chêne on May 11th ($1,895/person)
+- [ ] Register for the Château Montrose Vertical Dinner before seats sell out: https://www.ackerwines.com/product/200802-event-chateau-montrose-vertical-dinner-nyc/
+- [ ] Decide whether to attend the 1996 Champagne Dinner at Atera on June 11th ($1,995/person)
+- [ ] Register for the 1996 Champagne Dinner at Atera before seats sell out: https://www.ackerwines.com/product/200808-event-1996-champagne-dinner-at-atera-nyc/
+
+**From:** Patrick Larson <patrick@ackerwines.com>  
+**Subject:** Re: 24 Releases of Pappy Van Winkle!!!!
+
+- [ ] Reply to Patrick confirming payment method (credit card or ACH) for the Pappy Van Winkle 15 Year Old bottle, since crypto is not accepted
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** The Last Bottles of One of the Best Under The Radar Buys For Grand
+ Cru Blanc de Blancs Champagne!
+
+- [ ] Decide whether to purchase 2014 Diebolt Vallois Champagne Grand Cru Blanc de Blancs Fleur de Passion at $149.99 (pre-arrival, ETA Q2 2026, very limited availability)
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** A 100-Point Masterpiece from 2022 Bordeaux ║ The Greatest Bélair-Monange Ever Made
+
+- [ ] Consider purchasing 2022 Bélair-Monange wine if interested, as it is a limited parcel offering
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: Quote # 123081 - 885 Park Avenue - 8A - Steinberg Residence -
+ Quote - Replacement of the Evaporator Fan Motor and Control Board for the
+ Living Room Air Handler - ECM - Carrier
+
+- [ ] Review Quote #123081 from LTB Mechanical for replacement of evaporator fan motor and control board in living room air handler ($1,800 materials + $1,000 labor + tax)
+- [ ] Decide whether to approve and proceed with the repair work
+- [ ] If approving, sign the quote and return it to LTB Mechanical along with any required deposit
+- [ ] Reply to Elizabeth regarding the LTB Mechanical quote decision
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Re: Fwd: Quote # 123081 - 885 Park Avenue - 8A - Steinberg Residence
+ - Quote - Replacement of the Evaporator Fan Motor and Control Board for the
+ Living Room Air Handler - ECM - Carrier
+
+- [ ] Review the LTB Mechanical quote of $3,043.06 for replacement of the Evaporator Fan Motor and Control Board and decide whether to approve the work
+
+**From:** Manuel Bautista <Manuel@ackerwines.com>  
+**Subject:** Quick Security Note from Acker Storage IT
+
+- [ ] Check inbox for suspicious emails from alison@ackerstorage.com with subject 'Review and Revert' or 'Review Document' and delete if found
+- [ ] If the suspicious link was already clicked or an attachment was downloaded, contact IT team immediately
+
+**From:** GitHub <noreply@github.com>  
+**Subject:** [GitHub] Claude is requesting updated permissions
+
+- [ ] Review and decide whether to accept updated permissions for the Claude GitHub App at https://github.com/settings/installations/118517713/permissions/update
+
