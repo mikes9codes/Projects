@@ -1086,3 +1086,42 @@ New items are appended below with the date they were found.
 
 - [ ] Review and decide whether to accept updated permissions for the Claude GitHub App at https://github.com/settings/installations/118517713/permissions/update
 
+
+## 2026-04-22
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: Invitation: Janaina Tschäpe - NYC studio visit
+
+- [ ] Decide whether to attend the Janaina Tschäpe studio visit on May 14 at 10am
+- [ ] Monitor update from Carmen regarding Hauser & Wills access to new Firelei Baez show
+- [ ] Consider acquiring work by Firelei Baez or Claire Tabouret when opportunities arise
+- [ ] Check with Carmen or Liz about attending the Independent fair opening on May 14
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: Invitation: Janaina Tschäpe - NYC studio visit
+
+- [ ] Reply to Carmen clarifying what 'the blackboards' are
+- [ ] Discuss the studio visit decision with Liz
+- [ ] Decide whether to attend the Janaina Tschäpe NYC studio visit
+- [ ] Put something on office wall
+
+**From:** Rabbi Zev <rabbizevjohnson@gmail.com>  
+**Subject:** Join Us as an Ambassador to Help Close Our $1.2M Campaign by May 11?
+
+- [ ] Decide whether to become a campaign ambassador for Chabad at UT's $1.2M crowdfunding campaign
+- [ ] Reply to Rabbi Zev Johnson with decision about ambassador role
+- [ ] If interested, schedule a call or meeting with Rabbi Zev Johnson to discuss ambassador details (512.965.1540)
+- [ ] Note key deadline: 3-day crowdfunding campaign runs April 27–29, property closing May 11
+
+**From:** HDH Auctions <no-reply@hdhwine.com>  
+**Subject:** Coming Tomorrow: A Celebration of Burgundy Featuring The Cellar of
+ Don Cornwell
+
+- [ ] Register to bid at bid.hdhauctions.com before April 23rd at 9AM ET if interested in the Burgundy auction
+- [ ] Place early absentee bids before live auction days (May 13-15) to win any tie-breaker situations
+- [ ] Download HDH bidding app on iOS device if planning to participate in the auction
+- [ ] Decide whether to bid on lots from The Cellar of Don Cornwell (lots 2622-3293) or other featured collections
+- [ ] Note credit card surcharge of 2.5% effective April 10, 2026 when planning payment method
+- [ ] Plan to pay invoice via wire, ACH, or check by 5PM CT the Friday after the sale to receive 1% discount toward next purchase
+- [ ] Consider consigning wines with HDH for April/May or June 25-26 auction if interested in selling
+
