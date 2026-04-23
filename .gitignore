@@ -1,0 +1,4 @@
+email-bot/.env
+email-bot/venv/
+__pycache__/
+*.pyc
