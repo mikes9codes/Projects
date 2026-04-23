@@ -1125,3 +1125,28 @@ New items are appended below with the date they were found.
 - [ ] Plan to pay invoice via wire, ACH, or check by 5PM CT the Friday after the sale to receive 1% discount toward next purchase
 - [ ] Consider consigning wines with HDH for April/May or June 25-26 auction if interested in selling
 
+
+## 2026-04-23
+
+**From:** Evgeniya Kirpicheva <ekirpicheva@cgps.org>  
+**Subject:** CGPS: Senior Class Gift
+
+- [ ] Decide whether to make a gift to the 2025-2026 CGPFund at $10,000 or higher in honor of Zach's senior year
+
+**From:** Joseph Kong <joseph.kong@stpi.com.sg>  
+**Subject:** Re: Donald Sultan | STPI - Booth A01 at IFPDA Print Fair 2026
+
+- [ ] Review available Donald Sultan works at https://privateviews.artlogic.net/2/ea56a238c119d506c84cf6/
+- [ ] Decide whether to purchase the Yellow Flowers or any other Donald Sultan works
+- [ ] Reply to Joseph Kong at STPI if interested in any works or want to negotiate pricing on Yellow Flowers
+
+**From:** HDH Auctions <no-reply@hdhwine.com>  
+**Subject:** A Celebration of Burgundy is here!
+
+- [ ] Register at bid.hdhauctions.com to participate in the Celebration of Burgundy auction
+- [ ] Place absentee bids before the first 24-hour bidding rush ends
+- [ ] Mark calendar for live auction session on Wednesday May 13 at 9am ET
+- [ ] Mark calendar for live auction session on Thursday May 14 at 9am ET
+- [ ] Mark calendar for live auction session on Friday May 15 at 9am ET
+- [ ] Decide whether to pay invoice by wire, ACH, or check by 5pm CT the Friday following the sale to receive 1% discount and avoid 2.5% credit card surcharge
+
