@@ -1,0 +1,54 @@
+name: Redan Email Bot
+
+on:
+  schedule:
+    - cron: '* * * * *'   # Every minute
+  workflow_dispatch:        # Allow manual trigger from the Actions tab
+
+concurrency:
+  group: redan-email-bot   # Prevents overlapping runs
+  cancel-in-progress: false # Let the current run finish rather than kill it
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Needed to commit processed_ids.json back to repo
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          ref: claude/email-bot-form-filler-OaF7A
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ hashFiles('email-bot/requirements.txt') }}
+
+      - name: Install Python dependencies
+        run: pip install -r email-bot/requirements.txt
+
+      - name: Install Playwright browser
+        run: playwright install --with-deps chromium
+
+      - name: Run bot
+        env:
+          VERIZON_EMAIL:        ${{ secrets.VERIZON_EMAIL }}
+          VERIZON_APP_PASSWORD: ${{ secrets.VERIZON_APP_PASSWORD }}
+          ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python email-bot/bot.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "redan-bot"
+          git config user.email "actions@github.com"
+          git add email-bot/processed_ids.json
+          git diff --staged --quiet || git commit -m "chore: bot state $(date +'%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git push
