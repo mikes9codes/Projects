@@ -50,5 +50,7 @@ jobs:
           git config user.name  "redan-bot"
           git config user.email "actions@github.com"
           git add email-bot/processed_ids.json
-          git diff --staged --quiet || git commit -m "chore: bot state $(date +'%Y-%m-%d %H:%M')"
-          git diff --staged --quiet || git push
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: bot state $(date +'%Y-%m-%d %H:%M')"
+            git push origin main
+          fi
