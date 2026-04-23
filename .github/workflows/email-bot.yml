@@ -2,7 +2,7 @@ name: Redan Email Bot
 
 on:
   schedule:
-    - cron: '* * * * *'   # Every minute
+    - cron: '*/5 * * * *'  # Every 5 minutes (GitHub Actions minimum)
   workflow_dispatch:        # Allow manual trigger from the Actions tab
 
 concurrency:
