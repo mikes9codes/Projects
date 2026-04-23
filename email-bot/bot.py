@@ -38,7 +38,6 @@ PROCESSED_FILE = os.path.join(SCRIPT_DIR, "processed_ids.json")
 
 TARGET_SENDER  = "redan@redan.club"
 TARGET_KEYWORD = "redan"
-LOOKBACK_DAYS  = 7
 MAX_HTML_CHARS = 14_000  # chars sent to Claude per form page
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -112,7 +111,7 @@ def save_processed(ids):
 # ── IMAP ──────────────────────────────────────────────────────────────────────
 def fetch_target_emails(processed):
     """Return list of unprocessed emails from Redan or with 'Redan' in subject."""
-    since = (datetime.now() - timedelta(days=LOOKBACK_DAYS)).strftime("%d-%b-%Y")
+    since = datetime.now().strftime("%d-%b-%Y")  # today only
 
     mail = imaplib.IMAP4_SSL(IMAP_HOST, IMAP_PORT)
     mail.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
