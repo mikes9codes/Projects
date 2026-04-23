@@ -24,7 +24,7 @@ SMTP_HOST = "smtp.aol.com"
 SMTP_PORT = 587
 
 NOTIFY_EMAIL = "mikes@recvc.com"
-NOTIFY_SMS   = "5163161023@vtext.com"  # Verizon SMS gateway — free, no Twilio needed
+NOTIFY_SMS   = "5163161023@vtext.com"  # Verizon SMS gateway
 
 PROFILE = {
     "name":    "Michael Steinberg",
@@ -162,6 +162,13 @@ def send_message(subject, body, recipients):
         s.sendmail(EMAIL_ADDRESS, recipients, msg.as_string())
 
 
+def send_sms(body):
+    """Send SMS via Verizon @vtext.com gateway. Body must be ASCII-safe."""
+    # Strip non-ASCII so the gateway doesn't reject the message
+    safe = body.encode("ascii", errors="replace").decode("ascii")[:160]
+    send_message("", safe, [NOTIFY_SMS])
+
+
 # ── Form filler ───────────────────────────────────────────────────────────────
 FILL_SYSTEM = "You are a browser-automation assistant. Return only raw JSON — no markdown, no explanation."
 
@@ -263,7 +270,6 @@ def fill_form(url):
                     page.check(sel, timeout=5_000)
                 elif a == "click":
                     page.click(sel, timeout=5_000)
-                    # Allow page to settle after clicks (especially submit)
                     try:
                         page.wait_for_load_state("networkidle", timeout=8_000)
                     except PWTimeout:
@@ -286,25 +292,24 @@ def fill_form(url):
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
-    print(f"[{now_str}] Checking for Redan emails…")
+    print(f"[{now_str}] Checking for Redan emails...")
 
     processed = load_processed()
     emails    = fetch_target_emails(processed)
     print(f"Found {len(emails)} new Redan email(s).")
 
     for em in emails:
-        print(f"  → {em['subject']} | from {em['sender']}")
+        print(f"  -> {em['subject']} | from {em['sender']}")
 
-        # ── Immediate notification ──────────────────────────────────────────
         url_list = "\n".join(em["urls"][:10]) if em["urls"] else "(none found)"
         notify_body = (
             f"Redan email detected at {now_str}\n\n"
             f"From:    {em['sender']}\n"
             f"Subject: {em['subject']}\n\n"
             f"Links:\n{url_list}\n\n"
-            f"Filling the form now…"
+            f"Filling the form now..."
         )
-        sms_body = f"Redan email! '{em['subject'][:60]}' — filling form now."
+        sms_body = f"Redan email! '{em['subject'][:60]}' - filling form now."
 
         try:
             send_message(f"[Bot] Redan email: {em['subject']}", notify_body, [NOTIFY_EMAIL])
@@ -313,12 +318,11 @@ def main():
             print(f"    Email notification failed: {e}")
 
         try:
-            send_message("Redan Bot", sms_body, [NOTIFY_SMS])
+            send_sms(sms_body)
             print("    SMS sent.")
         except Exception as e:
             print(f"    SMS failed: {e}")
 
-        # ── Form fill ───────────────────────────────────────────────────────
         ranked = rank_urls(em["urls"])
         status = "No usable URLs found in email."
 
@@ -328,12 +332,11 @@ def main():
                 status = fill_form(url)
                 print(f"    Result: {status}")
                 if "success" in status.lower() or "final page" in status.lower():
-                    break  # good enough — stop trying more URLs
+                    break
             except Exception as e:
                 status = f"Exception: {e}"
                 print(f"    Error: {e}")
 
-        # ── Result notification ─────────────────────────────────────────────
         result_body = (
             f"Form fill result for Redan email\n\n"
             f"Subject: {em['subject']}\n"
@@ -348,7 +351,7 @@ def main():
             print(f"    Result email failed: {e}")
 
         try:
-            send_message("Redan Bot", sms_result, [NOTIFY_SMS])
+            send_sms(sms_result)
         except Exception as e:
             print(f"    Result SMS failed: {e}")
 
