@@ -1150,3 +1150,26 @@ New items are appended below with the date they were found.
 - [ ] Mark calendar for live auction session on Friday May 15 at 9am ET
 - [ ] Decide whether to pay invoice by wire, ACH, or check by 5pm CT the Friday following the sale to receive 1% discount and avoid 2.5% credit card surcharge
 
+
+## 2026-04-24
+
+**From:** "Redan" <redan@redan.club>  
+**Subject:** Redan & Cadillac — An Evening in Miami
+
+- [ ] RSVP for the Redan & Cadillac evening event on Thursday, April 30 (8–11 PM) at ZZ's Club in Miami via the provided link
+
+**From:** DigitalOcean Support <support@digitalocean.com>  
+**Subject:** Your Droplet's password has been reset.
+ (ubuntu-s-1vcpu-1gb-35gb-intel-nyc1)
+
+- [ ] Log into the Droplet via SSH or console and set a new permanent password
+- [ ] Add an SSH key to the DigitalOcean account at https://cloud.digitalocean.com/settings/security?i=8d31cc
+- [ ] Create future Droplets using an SSH key instead of password authentication
+
+**From:** Art Basel – VIP Relations Basel <vip@mail.artbasel.com>  
+**Subject:** Your VIP invitation to Art Basel in Basel 2026
+
+- [ ] Decide whether to accept or decline the VIP invitation to Art Basel in Basel 2026
+- [ ] If accepting, register attendance via the VIP invitation link
+- [ ] If accepting, decide who to bring as an accompanying guest (VIP card grants access for two)
+
