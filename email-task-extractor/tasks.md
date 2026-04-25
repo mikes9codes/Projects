@@ -1173,3 +1173,28 @@ New items are appended below with the date they were found.
 - [ ] If accepting, register attendance via the VIP invitation link
 - [ ] If accepting, decide who to bring as an accompanying guest (VIP card grants access for two)
 
+
+## 2026-04-25
+
+**From:** "Rabbi Zev and Ariela Johnson" <RabbiZev@JewishLonghorns.com>  
+**Subject:** BONDI HERO COMING TO UT
+
+- [ ] Decide whether to attend Shabbat Dinner on Friday (RSVP by texting 'SHABBAT' to 512-890-0070)
+- [ ] Decide whether to attend A Night with Bondi Hero Leibel Lazaroff on Sunday at 6:00 PM (sign up at provided link or text 'HERO' to 512-890-0070)
+- [ ] Decide whether to attend A Taste of Shabbat on Thursday at 5:30-6:30 PM
+- [ ] Decide whether to attend Senior Sendoff on Friday May 8th at 4:30-6:00 PM (RSVP by texting 'SENIOR' to 512-890-0070)
+- [ ] Decide whether to attend Graduation Shabbat on Friday May 8th (RSVP at provided link)
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Big Time Rhone Collection
+
+- [ ] Review the Rhône wine collection listing from Acker Wines and decide if any bottles are of interest to purchase
+- [ ] Contact David Hamburger at 212-787-1624 or david@ackerwines.com if interested in purchasing any wines
+- [ ] Note upcoming Acker auction dates: Swiss Auction Sat May 9, Singapore Auction Sat May 16, US Auction Wed/Thurs May 20-21, HK Auction Sat June 6
+
+**From:** Jon Visser <jon.visser@grapesthewineco.com>  
+**Subject:** 100 Point Chateau Haut Brion 2015!
+
+- [ ] Decide whether to purchase 2015 Chateau Haut Brion at $699/bottle (OWC six packs available in limited quantity)
+- [ ] If interested, reply to Jon Visser or click the wine link to secure allocation before it sells out
+
