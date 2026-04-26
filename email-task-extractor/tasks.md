@@ -1198,3 +1198,18 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase 2015 Chateau Haut Brion at $699/bottle (OWC six packs available in limited quantity)
 - [ ] If interested, reply to Jon Visser or click the wine link to secure allocation before it sells out
 
+
+## 2026-04-26
+
+**From:** The Particular Cellar Co. <info@particularcellar.com>  
+**Subject:** REMINDER: CLB 2019 Invoice | PCC
+
+- [ ] Initiate wire transfer to The Particular Cellar Co., LLC before Monday, April 27, 2026
+- [ ] Email info@particularcellar.com after wire transfer has been initiated
+- [ ] Review attached invoice to confirm total amount due
+
+**From:** SommPicks <team@sommpicks.com>  
+**Subject:** SommPicks Stock Alert - New Items Available!
+
+- [ ] Visit SommPicks to purchase the 13 available '2021 ballot' starred items before they sell out
+
