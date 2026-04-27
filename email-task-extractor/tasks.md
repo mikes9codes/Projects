@@ -1213,3 +1213,48 @@ New items are appended below with the date they were found.
 
 - [ ] Visit SommPicks to purchase the 13 available '2021 ballot' starred items before they sell out
 
+
+## 2026-04-27
+
+**From:** Peter at HDH <sales@hdhwine.com>  
+**Subject:** 2016 Bordeaux is Stunning at 10 Years
+
+- [ ] Decide whether to purchase 2016 Chateau Margaux pre-arrival ($725/bottle, WA/VM/JS 99) arriving Summer 2026
+- [ ] Decide whether to purchase 2016 Chateau Pichon-Longueville Comtesse de Lalande pre-arrival (multiple formats $169-$2,799, perfect 100-point scores) arriving Summer 2026
+- [ ] Consider purchasing in-stock 2016 Bordeaux selections: Rauzan-Segla ($119), Smith-Haut-Lafitte ($149), Pichon-Longueville Baron ($189), Angelus ($389), or Cheval Blanc
+- [ ] Watch for HDH's 2025 en primeur release announcement next week, starting with Pontet Canet on Wednesday April 29th
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Wine room - one more
+
+- [ ] Review the sculptural chair attachment that Monica cannot see and resend it to her
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Wine room - one more
+
+- [ ] Review the chair options Monica sent (Jens Risom, Gio Ponti, Dyrlund Danish pine, Carl Hansen Wishbone, Knoll MR Side Chair) and decide on a style
+- [ ] Decide whether to go with vintage/antique chairs or a more classic option like Carl Hansen or Knoll
+- [ ] Clarify which Danish chairs were originally being considered and provide Monica with that reference
+- [ ] Decide on upholstery type if going with upholstered chair option
+- [ ] Confirm whether 12 chairs are needed and if the chosen style is available in that quantity
+- [ ] Once chairs are decided, give Monica the go-ahead to move forward with drapery
+- [ ] Review the window proposal/estimate (Estimate 100993.pdf) that Monica sent and decide whether to include it
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Outdoor items
+
+- [ ] Review the Kings Awnings vendor link (https://kingsawnings.com/) for the BBQ/countertop area awning
+- [ ] Review the Bover outdoor pendant light options on Lumens for the outdoor dining area
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Wait a few days for Stu's estimates on the submitted parcel, then coordinate next steps
+- [ ] Decide whether to add more cases to the sale for potential inclusion in a live auction
+- [ ] If adding more cases, send Stu the additional case details
+
+**From:** MyNorthwell <northwell@my.northwell.com>  
+**Subject:** New questionnaire available
+
+- [ ] Complete the new questionnaire in MyNorthwell
+
