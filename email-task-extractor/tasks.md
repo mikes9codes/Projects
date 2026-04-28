@@ -1258,3 +1258,53 @@ New items are appended below with the date they were found.
 
 - [ ] Complete the new questionnaire in MyNorthwell
 
+
+## 2026-04-28
+
+**From:** Patricia Gorham <pgorham@sidneygarber.com>  
+**Subject:** Steel bracelet
+
+- [ ] Contact Eric Malik to let him know his new steel bracelet will be ready by Wednesday
+- [ ] Decide whether to accept the offered 19-inch steel bracelet
+- [ ] Visit Sidney Garber at 998 Madison Avenue between 10am-5:45pm on Wednesday or after to pick up bracelet(s)
+
+**From:** Patricia Gorham <pgorham@sidneygarber.com>  
+**Subject:** Re: Steel bracelet
+
+- [ ] Contact Evan Malik (not Eric) to let him know his new steel bracelet will be ready by Wednesday and can be picked up at Sidney Garber (998 Madison Ave) between 10am-5:45pm
+- [ ] Decide whether to pick up the offered new 19-inch steel bracelet for yourself by Wednesday
+
+**From:** HDH Auctions <no-reply@hdhwine.com>  
+**Subject:** Musigny, Domaine Leroy from The Orion Collection
+
+- [ ] Review The Orion Collection auction lots (1277-1502) at bid.hdhauctions.com
+- [ ] Consider bidding on Domaine Leroy Musigny from vintages 2011, 2012, 2013, and 2015 before the Thursday session of HDH's Celebration of Burgundy auction (May 15, 2026)
+
+**From:** "Chambers St Wines" <office@chambersstwines.com>  
+**Subject:** Creme de la Carema
+
+- [ ] Review Ferrando wines at chambersstwines.com/collections/ferrando
+- [ ] Decide whether to purchase any Ferrando/Carema wines
+- [ ] If ordering, allow until Thursday 4/30 for pick up or delivery
+
+**From:** Daniel Posner <daniel@grapesthewineco.com>  
+**Subject:** 2017 Dom Perignon is Released!
+
+- [ ] Decide whether to purchase 2017 Dom Perignon ($259/btl or $747/3-pack) before allocation sells out
+- [ ] If purchasing, reply to daniel@grapesthewineco.com or click the wine link to secure allocation
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Reply to Ian about payment method (check or credit card) for the 2024 Ballot Millot invoice
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Bring a check to Ian at Crush Wine Co. tomorrow (April 28) before 6:45 PM to pay for the 2024 Ballot Millot
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Deliver check to Ian at Crush Wine Co. tomorrow (Tuesday, April 28) before 6:45 PM for the 2024 Ballot Millot / Leflaive invoice
+
