@@ -1308,3 +1308,29 @@ New items are appended below with the date they were found.
 
 - [ ] Deliver check to Ian at Crush Wine Co. tomorrow (Tuesday, April 28) before 6:45 PM for the 2024 Ballot Millot / Leflaive invoice
 
+
+## 2026-04-29
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Schedule a repertory film outing with Ian in New York
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Reply to Ian confirming whether he will see him tomorrow
+- [ ] Pick a movie to see with Ian
+
+**From:** "Uber One" <uberone@uber.com>  
+**Subject:** Mike, add a different payment method
+
+- [ ] Add a different payment method to Uber One account
+
+**From:** "Evgeniya Kirpicheva" <ekirpicheva@cgps.org>  
+**Subject:** Celebrate Our Seniors on Giving Day — May 6
+
+- [ ] Consider making a gift to the CGPFund/Class of 2026 Senior Gift before midnight on May 6 (Giving Day deadline)
+- [ ] Decide on gift amount and preferred payment method (online, check, stock, or wire transfer)
+- [ ] If unsure whether a prior gift was made to the 2025-2026 CGPFund, contact Advancement Office at giving@cgps.org or 212.749.6200 x220
+
