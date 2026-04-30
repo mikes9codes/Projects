@@ -1334,3 +1334,68 @@ New items are appended below with the date they were found.
 - [ ] Decide on gift amount and preferred payment method (online, check, stock, or wire transfer)
 - [ ] If unsure whether a prior gift was made to the 2025-2026 CGPFund, contact Advancement Office at giving@cgps.org or 212.749.6200 x220
 
+
+## 2026-04-30
+
+**From:** Eric LeVine <support@cellartracker.com>  
+**Subject:** Re: New Cellar - question
+
+- [ ] Reply to Eric LeVine with the name of the new cellar
+- [ ] Decide whether to use one CellarTracker account with two cellars or create a separate account
+- [ ] Renew CellarTracker subscription before 5/21/26
+
+**From:** Evgeniya Kirpicheva <ekirpicheva@cgps.org>  
+**Subject:** Re: CGPS: Senior Class Gift
+
+- [ ] Make a gift of $10,000 or more to the 2025-2026 CGPFund / Senior Class Gift (Elizabeth said she would take care of it today — confirm this has been done)
+
+**From:** Evgeniya Kirpicheva <ekirpicheva@cgps.org>  
+**Subject:** Re: CGPS: Senior Class Gift
+
+- [ ] Send $2500 to CGPS through DAF using EIN 13-0590970, Columbia Grammar & Preparatory School, 5 West 93rd Street, New York, NY 10025
+
+**From:** Joseph Sutton <jojosutton5@gmail.com>  
+**Subject:** Rangers sales through the end of 2026 season
+
+- [ ] Reply to Joseph confirming whether the Rangers sales figures (2/7 to 4/28 total: $14,125.51 x 0.9 = $12,712.90) look correct and whether to proceed with sending payment
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Visit Ian at Crush Wine Co. tomorrow (April 29) — Ian will be there late
+- [ ] Pick a movie to see with Ian
+
+**From:** Evgeniya Kirpicheva <ekirpicheva@cgps.org>  
+**Subject:** Re: CGPS: Senior Class Gift
+
+- [ ] Contact Christine Cuppett at ccuppett@cgps.org to request 3 extra graduation tickets
+
+**From:** HDH Auctions <no-reply@hdhwine.com>  
+**Subject:** A Trove of Marvellous Burgundy
+
+- [ ] Review lots 177-646 in HDH's 'A Trove of Marvellous Burgundy' auction before bidding opens on Wednesday, May 13, 2026
+- [ ] Decide whether to place bids on any lots of interest before the May 13, 2026 auction deadline
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Reply to Ian confirming whether meeting this evening or arranging pickup of the 2024 Ballot Millot
+- [ ] Decide on a movie to see with Ian (or confirm Ian will pick)
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** New Arrival Volnay From Lafarge and d'Angerville!
+
+- [ ] Decide whether to purchase any Volnay wines from Lafarge or d'Angerville before stock sells out
+- [ ] Reply to greg@envoyerfinewines.com to place order if desired
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: 2024 Ballot Millot
+
+- [ ] Reply to Ian confirming whether Bobby can stop by after 8 to pick up the 2024 Ballot Millot
+- [ ] Ensure doorman or someone is available to hand off the wine to Bobby after 8
+
+**From:** donotreply@bmwfs.com  
+**Subject:** Please Call Us
+
+- [ ] Call BMW Financial Services
+
