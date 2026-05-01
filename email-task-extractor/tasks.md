@@ -1399,3 +1399,69 @@ New items are appended below with the date they were found.
 
 - [ ] Call BMW Financial Services
 
+
+## 2026-05-01
+
+**From:** "Oggero, Walter" <Walter.Oggero@sothebys.com>  
+**Subject:** Sotheby's Presents - Wine Atlas | Quintessential Burgundy, Bordeaux,
+ Italy & Napa
+
+- [ ] Review the Sotheby's Wine Atlas auction catalogue for Quintessential Burgundy, Bordeaux, Italy & Napa
+- [ ] Decide whether to bid on any lots (e.g., Roumier Musigny 2014, Le Pin 2005 magnum, Giacosa selections)
+- [ ] Reply to Walt Oggero if interested in additional information on specific lots
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** FW: Follow on sales
+
+- [ ] Review auction estimates attached from Stu
+- [ ] Decide whether to move forward with the auction
+- [ ] Reply to Stu confirming whether to proceed and any questions about the setup
+- [ ] Decide whether to add more cases to the sale if any bottles are placed in a live auction
+- [ ] Note that 4 items were excluded from auction: 2006 Tor Kenward Syrah Rock, 2004 JC Cellars Syrah Rockpile Vineyard, 1990 Rainoldi Valtellina Superiore, and 11 bottles of 2009 Calera Pinot Noir Central Coast — decide what to do with these
+
+**From:** "Woodland Hills Wine Co. (Daniel Herrera)" <wine@email.whwc.com>  
+**Subject:** Flash Sale! Double 99pt 2022 Clos Apalta Colchagua Valley
+
+- [ ] Decide whether to purchase 2022 Clos Apalta at $109.95 flash sale price (24-hour deadline)
+
+**From:** Wes Fey <Wes.Fey@florencecorp.com>  
+**Subject:** cc auth
+
+- [ ] Complete the enclosed credit card authorization form
+- [ ] Return the completed authorization form to Eve Lenahan
+- [ ] Note the updated delivery charges: $50.00 delivery fee + $60.00 freight charge for Bridgehampton delivery
+
+**From:** "Redan" <redan@redan.club>  
+**Subject:** Exclusive Introduction to The Hill Golf Society
+
+- [ ] Decide whether to pursue a Keyholder membership at The Hill Golf Society (exclusive Redan member allocation, bypasses public waitlist)
+- [ ] If interested, visit https://thehillclub.com/redan-allocation using access code Redan_1883 before the allocation window closes
+
+**From:** Christine Cuppett <ccuppett@cgps.org>  
+**Subject:** Re: Tickets
+
+- [ ] Reply to Christine confirming whether to update the waitlist from 4 tickets to 3 tickets
+
+**From:** Anna Ward <support@cellartracker.com>  
+**Subject:** Re: New Cellar - question
+
+- [ ] Reconcile CellarTracker inventory before bulk upload (see https://support.cellartracker.com/article/53-reconciling-your-inventory)
+- [ ] Reply to Anna at CellarTracker when ready to proceed with the bulk upload of Bridgehampton wines
+
+**From:** Eric LeVine <support@cellartracker.com>  
+**Subject:** Re: New Cellar - question
+
+- [ ] Reply to Eric confirming whether to proceed with the Bridgehampton inventory import
+- [ ] Reconcile CellarTracker inventory before the bulk import to avoid duplicate bottles (see: https://support.cellartracker.com/article/53-reconciling-your-inventory)
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Re: Fwd: Children's Book Set
+
+- [ ] Reply to Elizabeth with the maximum budget for the UVA friend's children's book set
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** Recent Arrival Champagne From 2008 to 2015
+
+- [ ] Review champagne offerings from Envoyer Fine Wines and decide whether to purchase any bottles
+- [ ] Reply to greg@envoyerfinewines.com to place an order if interested (limited stock available)
+
