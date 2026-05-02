@@ -1465,3 +1465,45 @@ New items are appended below with the date they were found.
 - [ ] Review champagne offerings from Envoyer Fine Wines and decide whether to purchase any bottles
 - [ ] Reply to greg@envoyerfinewines.com to place an order if interested (limited stock available)
 
+
+## 2026-05-02
+
+**From:** Christine Cuppett <ccuppett@cgps.org>  
+**Subject:** Re: Tickets
+
+- [ ] Wait to hear from Christine early next week about moving to the waitlist for additional graduation tickets
+
+**From:** Christine Cuppett <m@mail3.veracross.com>  
+**Subject:** Re: Graduation Tickets
+
+- [ ] Pick up graduation tickets from Ms. Cuppett's office (3rd Floor, Prep School Building) today before leaving campus
+- [ ] Notify Ms. Cuppett if not using all 4 tickets so extras can be given to the waitlist
+- [ ] Notify Ms. Cuppett if more than 4 tickets are needed to be added to the waitlist
+- [ ] Notify Ms. Cuppett if a family member attending graduation needs wheelchair assistance
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: Idea
+
+- [ ] Reply to Ian sharing the idea/plan regarding Jasper Morris
+
+**From:** CellarTracker <hello@email.cellartracker.com>  
+**Subject:** Some of your wines might be peaking
+
+- [ ] Renew CellarTracker subscription within 20 days to avoid losing access
+- [ ] Review wine collection to check which bottles are at or near their drinking window
+
+**From:** HDH Auctions <no-reply@hdhwine.com>  
+**Subject:** Dazzling Champagnes in HDH’s May Auction
+
+- [ ] Review and consider bidding on Champagne lots in HDH's May Auction (May 13-14-15, 2026) at bid.hdhauctions.com
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Funds
+
+- [ ] Reply to Geoffrey to express interest in buying Paul Pillot (2022 and/or 2023 vintages) and place an order if desired
+
+**From:** New York State DMV eServices <eservices@messages.dmv.ny.gov>  
+**Subject:** Notification — Inspection Expired
+
+- [ ] Schedule a vehicle inspection appointment as soon as possible — NY State inspection has expired
+
