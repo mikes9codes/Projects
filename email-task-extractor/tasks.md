@@ -1507,3 +1507,31 @@ New items are appended below with the date they were found.
 
 - [ ] Schedule a vehicle inspection appointment as soon as possible — NY State inspection has expired
 
+
+## 2026-05-03
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Funds
+
+- [ ] Review the list of wines Geoffrey will send and decide which to purchase
+- [ ] Decide whether to buy Paul Pillot 2022 and/or 2023 vintages
+- [ ] Follow up if Geoffrey's wine list does not arrive soon
+- [ ] Follow up on proceeds from the live sale at Zach's if funds do not arrive
+
+**From:** "Manhattan Wine Company" <shop@mwcwine.com>  
+**Subject:** 🍾 Stock Your Cellar Out East: Temp-Controlled Delivery & Summer Essentials!
+
+- [ ] Decide whether to place a wine order for Hamptons delivery (orders must be placed at least 1 week before each delivery date: May 15, June 19, July 24, August 14)
+- [ ] Consider ordering $1,500+ to waive the $130 delivery fee
+- [ ] Reply to shop@mwcwine.com if interested in personal wine recommendations or a custom 5-case summer survival pack
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** ⚡  Coche-Dury: Why Collect Anything Else?
+
+- [ ] Review Coche-Dury wine offerings and decide whether to purchase any bottles before stock sells out
+
+**From:** Member for a Day <info@memberforaday.com>  
+**Subject:** ENDING SOON: ALS 100 Auction
+
+- [ ] Check the ALS 100 Auction at memberforaday.com/auctions before it ends soon
+
