@@ -1535,3 +1535,49 @@ New items are appended below with the date they were found.
 
 - [ ] Check the ALS 100 Auction at memberforaday.com/auctions before it ends soon
 
+
+## 2026-05-04
+
+**From:** Todd Deutsch <todd.deutsch@gmail.com>  
+**Subject:** Socratic
+
+- [ ] Send paperwork to Jim and Christian tomorrow
+- [ ] Send funds to Jim and Christian tomorrow
+- [ ] Reach out to Jim and Christian at Socratic
+
+**From:** Christian Gallagher <christian@socratic.vc>  
+**Subject:** RE: Socratic
+
+- [ ] Review the Socratic fund deck attached by Christian Gallagher
+- [ ] Contact investor@raptorgroup.com to get set up in the portal to execute LP paperwork
+- [ ] Complete LP portal execution and paperwork by end of day tomorrow
+- [ ] Decide whether to proceed with $100k investment in Socratic fund
+- [ ] Consider scheduling a call with Christian Gallagher to discuss collaboration and sharing semi startup deal flow
+
+**From:** Investor <investor@raptorgroup.com>  
+**Subject:** Socratic Partners I LP – Raptor Investor Portal
+
+- [ ] Complete onboarding as a Socratic Partners I LP investor via the Raptor Investor Portal (https://raplink.templummarkets.com/)
+- [ ] Complete Subscription Documents through the Raptor Investor Portal
+- [ ] Contact investor@raptorgroup.com if assistance is needed with the onboarding process
+
+**From:** Investor <investor@raptorgroup.com>  
+**Subject:** RE: Socratic
+
+- [ ] Check email inbox for activation email from investor@raptorgroup.com to begin onboarding
+- [ ] Complete onboarding application on the Raptor Group investor portal
+- [ ] Place subscription order on the investor portal
+- [ ] Complete subscription documents on the investor portal
+- [ ] Complete all portal steps by end of day Monday May 4, 2026
+- [ ] Review the Socratic fund deck attached to Christian's email
+
+**From:** What's Up in NY This Week? <whatsupinnyc@substack.com>  
+**Subject:** What's Up in NY This Week?
+
+- [ ] Visit 'Sapphic In The Field' by Joline Kwakkenbos before it closes on the 12th
+- [ ] Consider attending 'Research Out Loud: Met Fellows Present' starting Thursday
+- [ ] Check out Quad Cinema's American Elsewhere Series kicking off this week
+- [ ] Visit 'Fancy & Flourish' at Jacqueline Sullivan Gallery
+- [ ] Visit 'DALÍ: THE GREAT YEARS' at Di Donna gallery uptown
+- [ ] Consider upgrading to paid subscription for full weekly newsletter access
+
