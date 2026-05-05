@@ -1581,3 +1581,52 @@ New items are appended below with the date they were found.
 - [ ] Visit 'DALÍ: THE GREAT YEARS' at Di Donna gallery uptown
 - [ ] Consider upgrading to paid subscription for full weekly newsletter access
 
+
+## 2026-05-05
+
+**From:** Porsche Southampton <donotreply@servicebookpro.com>  
+**Subject:** Appointment Reminder
+
+- [ ] Attend Porsche Southampton service appointment (check email for date/time details)
+
+**From:** Brendan Brown <brendan@fpaol.com>  
+**Subject:** Re: Steinberg Outdoor Kitchen Coordination
+
+- [ ] Review attached Hestan grill and warming drawer specs sent by Brendan
+- [ ] Confirm or follow up on the installation date for BBQ equipment so Cesar (electrician) can be on-site the same day
+- [ ] Confirm whether cement should only go under the actual BBQ or cover a wider area before Ed begins hardscaping work
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** 2023 paul pillot
+
+- [ ] Reply to Geoffrey Troy about 2023 Paul Pillot pricing (confirm or negotiate the 5% discount)
+- [ ] Follow up with Geoffrey Troy to discuss purchasing hard-to-get bottles
+
+**From:** Kemora Johnson <kjohnson@uovo.wine>  
+**Subject:** Re: Shipment
+
+- [ ] Email the shipping label to NY Service at nyservice@domainestorage.com
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: Comp Invite to Henry Street Gala Preview at Independent
+
+- [ ] RSVP for two complimentary tickets to the Henry Street Gala Preview at Independent by visiting https://henrystreetsettlement.artsvp.com/1c6d28/link/carmen-zita
+- [ ] Add event to calendar: Henry Street Gala Preview at Independent, Thursday May 14 at Pier 36, 5–8PM
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: Comp Invite to Henry Street Gala Preview at Independent
+
+- [ ] RSVP for two complimentary tickets to the Henry Street Gala Preview at Independent on Thursday May 14 at Pier 36 (5-8PM) via https://henrystreetsettlement.artsvp.com/1c6d28/link/carmen-zita
+- [ ] Watch for recommendations from Carmen about interesting booths/artists at Frieze, Independent, and TEFAF fairs
+
+**From:** The Spence Alumnae Association <paperlesspost@paperlesspost.com>  
+**Subject:** Parents of Spence Alumnae Annual Gathering
+
+- [ ] RSVP to the Parents of Spence Alumnae Annual Gathering (Tue May 12, 6:00-8:00pm EDT at The Spence School, 412 E 90th St, New York, NY 10128)
+
+**From:** "The Dieterich Family (Paperless Post)"
+	<paperlesspost@paperlesspost.com>  
+**Subject:** CGPS Class of '26 Graduation Party
+
+- [ ] RSVP to the Dieterich Family's CGPS Class of '26 Graduation Party (Friday, June 5th, 7:30-10:30pm at Ascent Lounge, 10 Columbus Circle, New York)
+
