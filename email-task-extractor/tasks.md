@@ -1630,3 +1630,93 @@ New items are appended below with the date they were found.
 
 - [ ] RSVP to the Dieterich Family's CGPS Class of '26 Graduation Party (Friday, June 5th, 7:30-10:30pm at Ascent Lounge, 10 Columbus Circle, New York)
 
+
+## 2026-05-06
+
+**From:** Investor <investor@raptorgroup.com>  
+**Subject:** RE: Socratic
+
+- [ ] Complete onboarding on the Raptor Group investor portal today (final day)
+- [ ] Place order for $200,000 investment in Socratic fund today
+- [ ] Complete and sign subscription agreement today
+- [ ] Check attached activation email to access the investor portal
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Review Stu's annotated document with blue highlights showing proposed changes to lot estimates
+- [ ] Decide whether the proposed reserves (set at low estimates, ~80% of listed price) are acceptable for the highlighted lots
+- [ ] Reply to Stu with thoughts on the proposed changes to confirm or negotiate reserves
+- [ ] Arrange pickup of wines if reserve terms are agreed upon for the select lots with low reserves
+
+**From:** Investor <investor@raptorgroup.com>  
+**Subject:** RE: Socratic
+
+- [ ] Complete subscription agreement and onboard via the investor portal today (May 5, 2026 is the final day)
+- [ ] Place order for $200,000 investment in Socratic fund before end of day
+- [ ] Access the investor portal using the activation email attachment from Andrew
+- [ ] Note that ~27% of capital (not 30%) will be called up front plus interest, and plan liquidity accordingly
+
+**From:** Investor <investor@raptorgroup.com>  
+**Subject:** RE: Socratic
+
+- [ ] Log in to the investor portal using the activation email to complete onboarding
+- [ ] Place an order under Socratic on the investor portal
+- [ ] Complete subscription agreements on the investor portal
+- [ ] Review the attached LPA document
+- [ ] Be aware that today (May 5, 2026) is the final deadline to subscribe without interest
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: White Cube at Frieze
+
+- [ ] Review White Cube's Frieze preview featuring Marina Rheingantz and Emmi Whitehorse paintings
+- [ ] Reply to Carmen indicating whether the Marina Rheingantz and Emmi Whitehorse paintings are of interest
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Reply to Stu confirming which Uovo location (Port Chester or other)
+- [ ] Provide Stu with exact beneficiary name and address for the sales contract and proceeds check
+- [ ] Notify Uovo to start pulling the wines once logistics are confirmed
+
+**From:** Investor <investor@raptorgroup.com>  
+**Subject:** RE: Socratic
+
+- [ ] Reply to Katie at Raptor Group confirming she can send the W-9 via DocuSign for EIN and signature completion
+- [ ] Complete and sign the W-9 form via DocuSign when received from Katie
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Update Stu Jakub with corrected logistics: wines are at Uovo in Edison (not LIC), and Uovo in Port Chester is next door to Zachys
+- [ ] Decide whether to have Uovo deliver wines to Zachys in Port Chester or arrange pickup from Edison location
+- [ ] Provide Stu Jakub with exact beneficiary name and address for the sales contract and proceeds check
+- [ ] Review the auction lot estimates/reserves document Stu sent with blue highlights and confirm or respond with thoughts
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: White Cube at Frieze
+
+- [ ] Show Liz the Rheingantz, Whitehorse, and Tungi paintings tonight
+- [ ] Decide if Rheingantz is too dark for the dining room after reviewing again
+- [ ] Let Carmen know which pieces are of interest
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Fw: John Armleder
+
+- [ ] Reply to Carmen confirming when he can go see the John Armleder exhibition (New York, May 7 – June 13, 2026)
+
+**From:** Mike Hoagland <mike@particularcellar.com>  
+**Subject:** RE: Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27,
+ 2026 Deadline
+
+- [ ] Decide by tomorrow 5/6 whether to accept any of the additional CLB 2019 bottle offers (1 btl NSG Villages @ $365, 1 btl NSG 1er Clos des Grandes Vignes Blanc @ $675, 1 btl Clos de Vougeot @ $1950, 1 magnum Clos de Vougeot @ $4050)
+- [ ] Reply to Mike Hoagland at Particular Cellar ASAP with decision on additional allocation offer
+- [ ] If accepting offer, ensure total 750ml bottles increase by 3 for casing purposes
+- [ ] If accepting offer, coordinate with Emily to receive and pay additional invoice
+
+**From:** Stephanie Reckler <stephaniereckler885@gmail.com>  
+**Subject:** CPOLHN - Your Check Came Today
+
+- [ ] Add June 3 to calendar: 885 Annual Meeting in the Lobby
+- [ ] Add June 9 to calendar: Town hall meeting re lawsuit against Northwell Health, the City, and Lenox Hill Hospital at Mary Mount on East 71st St (also electronic)
+
