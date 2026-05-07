@@ -1720,3 +1720,84 @@ New items are appended below with the date they were found.
 - [ ] Add June 3 to calendar: 885 Annual Meeting in the Lobby
 - [ ] Add June 9 to calendar: Town hall meeting re lawsuit against Northwell Health, the City, and Lenox Hill Hospital at Mary Mount on East 71st St (also electronic)
 
+
+## 2026-05-07
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Provide Stu with the exact beneficiary name and address for the consignment agreement and check
+- [ ] Confirm with Uovo in Edison the delivery date/timeframe to Zachys in Port Chester and relay that information to Stu
+- [ ] Review and sign the consignment agreement Stu will draft
+
+**From:** Cheng San Tan <m@mail4.veracross.com>  
+**Subject:** Fwd: Coverd Booking Complete - Your Photos are Ready!
+
+- [ ] Share Senior Night golf photos with players and parents via gallery link: http://gallery.coverdphoto.com/0200769
+
+**From:** Chris Greene <chris.greene@jjbuckley.com>  
+**Subject:** White Burgundy Availability
+
+- [ ] Review the White Burgundy availability list from Chris Greene at JJ Buckley
+- [ ] Decide which White Burgundies to order (both in-stock and pre-arrival options)
+- [ ] Reply to Chris Greene with selected wines as soon as possible, noting that limited quantities may be claimed before order is processed
+
+**From:** "Vacca, Adrianna (PARKS)" <Adrianna.Vacca@parks.ny.gov>  
+**Subject:** Bethpage State Park Duplicate Accounts
+
+- [ ] Reply to Adrianna Vacca's email to specify which account to keep (esteinberg7@gmail.com or mikes9@verizon.net)
+- [ ] Decide which Bethpage reservation account to keep: esteinberg7@gmail.com or mikes9@verizon.net
+
+**From:** "Raptor Accounting Group via Docusign" <dse_NA4@docusign.net>  
+**Subject:** Corrected: Complete with Docusign: W-9.pdf
+
+- [ ] Contact Raptor Accounting Group to obtain the corrected W-9 document and complete signing
+
+**From:** Investor <investor@raptorgroup.com>  
+**Subject:** RE: Socratic
+
+- [ ] Check Protonmail inbox for DocuSign from Katie Valley (Raptor Group) regarding W-9 with EIN and signature
+- [ ] Sign and return the W-9 DocuSign document with EIN and signature
+- [ ] Follow up with Katie if DocuSign is not received at Protonmail
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Reply to Geoffrey Troy about whether you know Michael Milstein who moved into your building (PH)
+- [ ] Confirm with Uovo whether they can deliver any weekday to Stu Jakub at Zachys in Port Chester
+- [ ] Provide Stu Jakub with exact beneficiary name and address for the consignment agreement check
+- [ ] Review and sign consignment agreement that Stu Jakub will draft
+
+**From:** John Kapon <jkapon@ackerwines.com>  
+**Subject:** Yodelay-hee-hoo: Great Old Bottles This Weekend in Switzerland!!
+
+- [ ] Review the Acker Switzerland auction lots and place bids before the auction this weekend
+- [ ] Decide whether to use sea freight (USD 75/box, departs early June, arrives early August) or air shipping (USD 150/box, departs late May, arrives mid-June)
+- [ ] Confirm payment and shipping details by May 22, 2026
+
+**From:** Antonio Polcaro <apolcaro@uovo.wine>  
+**Subject:** Re: Wine Delivery Request Confirmation
+
+- [ ] Confirm or acknowledge the 5/15 delivery date with Antonio Polcaro at UOVO Wine if any issues arise, otherwise ensure someone is available to receive the wine delivery on May 15
+
+**From:** MS <MSS999@protonmail.com>  
+**Subject:** Fw: 6 750ml salon 96 please forward this to domaine for them to ship please thanks
+
+- [ ] Forward request to Domaine to ship 6 x 750ml of Salon 96 to Evan Malik
+
+**From:** Antonio Polcaro <apolcaro@uovo.wine>  
+**Subject:** Re: Wine Delivery Request Confirmation (& details on new one)
+
+- [ ] Reply to Antonio confirming the required ship date for the new 6-bottle delivery to California
+- [ ] Finish inputting the new 6-bottle delivery order in the UOVO system
+
+**From:** "Sotheby's" <updates@email.sothebys.com>  
+**Subject:** Auctions Closing Soon
+
+- [ ] Consider placing a bid on the 'Wine Atlas | Quintessential Burgundy, Bordeaux, Italy & Napa' auction before it closes on May 8, 2026 at 10:00 AM EDT
+
+**From:** Antonio Polcaro <apolcaro@uovo.wine>  
+**Subject:** Re: Wine Delivery Request Confirmation (& details on new one)
+
+- [ ] Confirm whether Monday shipping date for the Salon wine works, or communicate a preferred ship date to Antonio
+
