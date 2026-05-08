@@ -1801,3 +1801,28 @@ New items are appended below with the date they were found.
 
 - [ ] Confirm whether Monday shipping date for the Salon wine works, or communicate a preferred ship date to Antonio
 
+
+## 2026-05-08
+
+**From:** George Tegashvili <gtegashvili@audiporsche.sixsigmaauto.net>  
+**Subject:** Your upcoming service
+
+- [ ] Let service advisor know if interested in trading or selling vehicle at upcoming service appointment
+
+**From:** Mike Hoagland <mike@particularcellar.com>  
+**Subject:** RE: Domaine du Comte Liger-Belair 2019 Allocation | PCC | April 27,
+ 2026 Deadline
+
+- [ ] Watch for a second invoice from The Particular Cellar for the additional Domaine du Comte Liger-Belair 2019 bottles and pay it promptly
+
+**From:** Christine Cuppett <ccuppett@cgps.org>  
+**Subject:** Re: Graduation Tickets
+
+- [ ] Have Zachary pick up the 4 extra graduation tickets from Ms. Cuppett's office (3rd Floor, Prep School Building)
+
+**From:** Wine Cellarage <gdec@winecellarage.com>  
+**Subject:** Spot Offer: Ramonet & Roulot - Recent Vintages at Sharp Prices
+
+- [ ] Review Ramonet & Roulot spot offer wines and decide whether to place an order
+- [ ] Reply to gdec@winecellarage.com or call 212-991-5700 x316 to place an order if interested (orders subject to confirmation, ETA Early Fall)
+
