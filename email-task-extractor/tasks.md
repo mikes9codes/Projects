@@ -1826,3 +1826,22 @@ New items are appended below with the date they were found.
 - [ ] Review Ramonet & Roulot spot offer wines and decide whether to place an order
 - [ ] Reply to gdec@winecellarage.com or call 212-991-5700 x316 to place an order if interested (orders subject to confirmation, ETA Early Fall)
 
+
+## 2026-05-09
+
+**From:** Porsche Southampton <donotreply@servicebookpro.com>  
+**Subject:** Appointment Reminder
+
+- [ ] Attend Porsche Southampton service appointment (check email for date/time details)
+
+**From:** Antonio Polcaro <apolcaro@uovo.wine>  
+**Subject:** Re: Wine Delivery Request Confirmation (& details on new one)
+
+- [ ] Reply to Antonio deciding whether to include the empty OWC box in the shipment or discard it (note: including it will require a second shipping label)
+
+**From:** Sotheby's <no-reply@sothebys.com>  
+**Subject:** You have been outbid | Lot 445, Wine Atlas | Quintessential Burgundy,
+ Bordeaux, Italy & Napa
+
+- [ ] Review outbid status on Lot 445 (Wine Atlas | Quintessential Burgundy, Bordeaux, Italy & Napa) at Sotheby's and decide whether to place a higher bid
+
