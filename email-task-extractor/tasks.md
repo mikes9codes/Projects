@@ -1845,3 +1845,43 @@ New items are appended below with the date they were found.
 
 - [ ] Review outbid status on Lot 445 (Wine Atlas | Quintessential Burgundy, Bordeaux, Italy & Napa) at Sotheby's and decide whether to place a higher bid
 
+
+## 2026-05-10
+
+**From:** Mendes Wood DM New York <newyork@mendeswooddm.com>  
+**Subject:** Frieze New York
+
+- [ ] Consider requesting a preview of Frieze New York 2026 from Mendes Wood DM (Booth B07, May 13–17, The Shed)
+- [ ] Consider attending the Kishio Suga Exhibition Walkthrough on Friday May 15 at 1pm at 47 Walker Street
+- [ ] Consider visiting the Kishio Suga exhibition at Mendes Wood DM New York (open through May 23, 2026)
+- [ ] Consider visiting 'New Humans: Memories of the Future' at the New Museum
+- [ ] Consider visiting the Whitney Biennial 2026 at the Whitney Museum of American Art
+- [ ] Consider visiting 'The Completionists – Maureen Dougherty' at Germantown (open through Jun 14, 2026)
+- [ ] Consider visiting the Kishio Suga exhibition at Dia Beacon
+
+**From:** hamptonsviewlandscaping@gmail.com  
+**Subject:** Landscaping Estimate
+
+- [ ] Review the landscaping estimate attachment from Hamptons View Landscaping
+- [ ] Contact Hamptons View Landscaping at 516-356-0314 or reply to email if there are questions about the estimate
+
+**From:** hamptonsviewlandscaping@gmail.com  
+**Subject:** Landscaping Estimate
+
+- [ ] Review the landscaping estimate attachment from Hamptons View Landscaping
+- [ ] Contact Hamptons View Landscaping at 516-356-0314 or hamptonsviewlandscaping@gmail.com with any questions about the estimate
+- [ ] Decide whether to accept or decline the landscaping estimate
+
+**From:** hamptonsviewlandscaping@gmail.com  
+**Subject:** Landscaping Estimate
+
+- [ ] Review the attached landscaping estimate from Hamptons View Landscaping
+- [ ] Contact Hamptons View Landscaping at 516-356-0314 or hamptonsviewlandscaping@gmail.com with any questions about the estimate
+
+**From:** RotoViz <RotoVizStaff@18800623.mailchimpapp.com>  
+**Subject:** Mid-Round Best Ball Values
+
+- [ ] Consider purchasing the 2026 RotoViz Rookie Draft Guide Volume 3 for $29.99
+- [ ] Consider entering the FFPC Best Ball Tournament ($125) or Superflex Best Ball Tournament ($35), using code 25ROTOVIZ for $25 off first team
+- [ ] Review article on mid-round best ball values highlighting eight players with potentially overcorrected ADPs
+
