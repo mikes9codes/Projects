@@ -1885,3 +1885,43 @@ New items are appended below with the date they were found.
 - [ ] Consider entering the FFPC Best Ball Tournament ($125) or Superflex Best Ball Tournament ($35), using code 25ROTOVIZ for $25 off first team
 - [ ] Review article on mid-round best ball values highlighting eight players with potentially overcorrected ADPs
 
+
+## 2026-05-12
+
+**From:** Andre <hamptonsviewlandscaping@gmail.com>  
+**Subject:** Re: Landscaping Estimate
+
+- [ ] Review the updated shared estimate for plantings split between 273 and 279 Mitchells Lane
+- [ ] Review the separate estimate for plantings only on Mike's property
+- [ ] Reply to Andre with any questions or approval of the estimates
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Bench
+
+- [ ] Review the three bench options Monica sent from 1stdibs and evaluate them against requirements (min 84" length, no red tint wood)
+- [ ] Decide on preferred bench option (or reject all three) and reply to Monica with feedback or approval
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Bench
+
+- [ ] Decide whether to reconsider using 1stDibs to find a bench (Monica is suggesting it despite Mike's dislike of the platform)
+- [ ] Reply to Monica about the 1stDibs suggestion and next steps for finding a bench (minimum 84" length)
+
+**From:** Chris Greene <chris.greene@jjbuckley.com>  
+**Subject:** RE: White Burgundy Availability
+
+- [ ] Review the white Burgundy availability list from Chris Greene at JJ Buckley and decide which wines to purchase
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: 273 Mitchell Lane
+
+- [ ] Review pool service agreement (Estimate 1184.pdf) from Shinnecock Pools for 273 Mitchell Lane
+- [ ] Sign and return pool service agreement to Shinnecock Pools (max@shinnecockpools.com)
+- [ ] Complete and return Credit Card Authorization Form 2026.pdf to Shinnecock Pools
+
+**From:** Andre <hamptonsviewlandscaping@gmail.com>  
+**Subject:** Additional Tree Options
+
+- [ ] Review attached pictures of White Oak, Scarlet Oak, and Pin Oak tree options from Andre
+- [ ] Decide on preferred tree option(s) and reply to Andre with thoughts
+
