@@ -1925,3 +1925,65 @@ New items are appended below with the date they were found.
 - [ ] Review attached pictures of White Oak, Scarlet Oak, and Pin Oak tree options from Andre
 - [ ] Decide on preferred tree option(s) and reply to Andre with thoughts
 
+
+## 2026-05-13
+
+**From:** Laura Picard <ldpicard3@gmail.com>  
+**Subject:** • TOMORROW (5/13) - “Senior Walk Out Day”
+
+- [ ] Decide whether to attend Senior Walk Out Day on Wednesday, May 13th at 11:45am
+
+**From:** Shinnecock Pools <quickbooks@notification.intuit.com>  
+**Subject:** Estimate 1184 from Shinnecock Pools
+
+- [ ] Review Estimate 1184 from Shinnecock Pools and decide whether to approve or reject it
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** For Your Approval - Estimate for Delivery and Installation of the
+ Bruce Richards at 273 Mitchell Lane
+
+- [ ] Decide whether to approve the $1,602.43 Crozier Fine Arts estimate for delivery and installation of the Bruce Richards artwork
+- [ ] Confirm whether Friday, May 22, 10:00am - 11:00am works for delivery and installation at 273 Mitchell Lane
+- [ ] Identify and provide the best on-site contact for the May 22 delivery
+- [ ] Determine if any works need to be deinstalled, collected, or relocated at 273 Mitchell Lane to make space for the Richards piece
+- [ ] Reply to Barbara Banchik at The Heller Group with answers to all three questions
+
+**From:** Jon Visser <jon.visser@grapesthewineco.com>  
+**Subject:** One Of Burgundy's Rarest Bottlings!
+
+- [ ] Decide whether to purchase any bottles of Vosne-Romanée Cros Parantoux (2022 Rouget at $1899/btl, 2023 Rouget at $1799/btl, or 2023 Méo-Camuzet at $2199/btl) before stock sells out
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Sign and return the consignment agreement attached to Stu's email
+- [ ] Provide Stu with exact beneficiary name and address for the payment check
+- [ ] Arrange wine delivery from Edison (Uovo) to Zachys in Port Chester by May 15
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: HDH
+
+- [ ] Decide whether to bid on HDH auction items (Leflaive 2020s, Ente whites, Ramonet grand crus 2022, Lamy HD, Tremblay, Duroche, Roulot 15s and 20s) since Geoffrey does not carry any of them - auction deadline is tomorrow through Friday
+
+**From:** "Frieze VIP" <vip@mailing.frieze.com>  
+**Subject:** Your Frieze New York 2026 Invitation
+
+- [ ] Confirm attendance for himself and guest at Frieze New York 2026 by clicking invitation link (https://app.frieze.com/invite?id=c80814fdf0) or using code c80814fdf0
+- [ ] Decide whether to bring a guest and enter guest details (can be done now or later)
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Review the draft that Stu sent and confirm whether the updates look correct
+- [ ] Confirm or correct Stu's decision to set all consignment reserves equal to the low estimates
+
+**From:** Murphy Wimer <mwimer@uovo.wine>  
+**Subject:** Re: Wine Delivery Request Confirmation
+
+- [ ] Decide whether to send 12 or all 24 bottles from case MSTEI-00671 (375ml) and reply to Murphy Wimer at UOVO Wine
+
+**From:** Murphy Wimer <mwimer@uovo.wine>  
+**Subject:** Re: Wine Delivery Request Confirmation
+
+- [ ] Confirm with Murphy Wimer whether to send 12 or all 24 bottles of the 2009 Chateau Malescot St. Exupery Margaux (375ml) for the Zachy's delivery
+
