@@ -1987,3 +1987,86 @@ New items are appended below with the date they were found.
 
 - [ ] Confirm with Murphy Wimer whether to send 12 or all 24 bottles of the 2009 Chateau Malescot St. Exupery Margaux (375ml) for the Zachy's delivery
 
+
+## 2026-05-14
+
+**From:** Independent <contact@independenthq.com>  
+**Subject:** Independent’s VIP Preview Opens Tomorrow
+
+- [ ] Purchase tickets in advance for Independent art fair at Pier 36 (VIP preview May 14, public May 15-17) to avoid lines at entrance
+
+**From:** "Artnet Auctions" <Auctions@email.artnet.com>  
+**Subject:** Live Now: Tillmans, Sherman, Mapplethorpe & More
+
+- [ ] Review and bid on Contemporary Photographs auction closing today
+- [ ] Review and bid on Post-War & Contemporary Art auction closing May 20
+- [ ] Explore Private Sales platform before June 9 deadline
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** Blain Gagnard & Marc Antonin Gagnard- Wonderful wines from this
+ address.
+
+- [ ] Review wine offerings from Blain Gagnard and Marc Antonin Blain and decide which bottles to purchase
+- [ ] Note that inventory is subject to remaining unsold and act promptly if interested
+- [ ] Consider purchasing Bâtard-Montrachet as Geoffrey specifically recommends it for Mike's cellar
+- [ ] Reply to Geoffrey Troy at gtroy@nywines.com with order or pass decision
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** Duroche
+
+- [ ] Review Duroche wine offerings from Geoffrey Troy at New York Wine Warehouse and decide whether to purchase any bottles
+- [ ] Note limited availability items that may require prompt decision: Charmes Chambertin 1985 (1 bottle at $395), Charmes Chambertin 2023 (12 bottles at $550), Gevrey Chambertin Aux Etelois 2023 (3 bottles at $285), Gevrey Chambertin Lavaux Saint Jacques 2018 600cl (1 bottle at $4700), Latricieres Chambertin 2018 300cl (1 bottle at $6400)
+- [ ] Reply to Geoffrey Troy at gtroy@nywines.com with order decision or any questions
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** A Selection of Late Release Domaine Leflaive Grand Crus!
+
+- [ ] Decide whether to purchase any Domaine Leflaive Grand Crus (2017/2018/2020 vintages) from Envoyer Fine Wines
+- [ ] Reply to greg@envoyerfinewines.com to place order if interested (pre-arrival, ETA Q2 2026)
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** 5/11/26 UOVO Wine pull request - M. Steinberg
+
+- [ ] Monitor for update from UOVO Wine with full bottle inventory results (expected by end of next week)
+- [ ] Decide how to proceed with the Zachys sale of 6 bottles of 2004 Ferrando Carema given the missing box situation
+- [ ] Consider reaching out to Rick Heinlein to discuss resolution options if bottles cannot be located
+- [ ] Review what financial compensation or replacement UOVO Wine would offer for the potentially missing 6 bottles of Domaine Armand Rousseau Chambertin Grand Cru 2002 and 6 bottles of Ferrando Carema 2004
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** Special Allocation from Hundred Acre ║ The Pinnacle of Napa Valley Cabernet
+
+- [ ] Respond promptly if interested in purchasing the 2021 Hundred Acre Ark Vineyard Cabernet and/or Dark Ark allocation
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Estimate Summary for Ludlow Delivery and
+ Installation at 885 Park Avenue
+
+- [ ] Pay Maquette invoice for Ludlow delivery and installation at 885 Park Avenue (wire transfer per invoice instructions)
+- [ ] Pay Canada Gallery invoice for additional NYC sales tax due for the Ludlow
+- [ ] Notify Barbara Banchik once each payment has been remitted
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** RE: 5/11/26 UOVO Wine pull request - M. Steinberg
+
+- [ ] Wait for UOVO to complete full bottle inventory (expected by end of next week)
+- [ ] Decide whether to accept replacement, cash payment, or account credit if bottles cannot be found
+- [ ] Review and sign release form if compensation is ultimately offered
+
+**From:** Bailey Klink <bailey@morrellwine.com>  
+**Subject:** Rare Dagueneau Bottles Available
+
+- [ ] Decide whether to order any Dagueneau wines and reply to Bailey Klink with selections (Silex, Buisson Renard, Jurançon, ETC Blanc, Pur Sang, and/or Sancerre available; note all orders subject to confirmation and wines arrive in August)
+
+**From:** Ana Pena <ana@monicafrieddesign.com>  
+**Subject:** Steinberg / Basement Rug
+
+- [ ] Review the attached invoice for additional material costs on the basement rug
+- [ ] Inspect the installed basement rug to confirm satisfaction with the final result
+- [ ] Reply to Ana if there are any questions or concerns about the rug installation or invoice
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** 2022 Domaine Paul Pillot Chassagne Montrachet Clos St. Jean (BH
+ "Outstanding")
+
+- [ ] Decide whether to purchase 2022 Domaine Paul Pillot Chassagne-Montrachet Clos St. Jean at $295/bottle ($1,770/6-pack) before stock sells out
+
