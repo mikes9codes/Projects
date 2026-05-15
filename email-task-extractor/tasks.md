@@ -2070,3 +2070,37 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to purchase 2022 Domaine Paul Pillot Chassagne-Montrachet Clos St. Jean at $295/bottle ($1,770/6-pack) before stock sells out
 
+
+## 2026-05-15
+
+**From:** Boulevard <no-reply@blvd.co>  
+**Subject:** Psst! Your Fellow Barber verification code
+
+- [ ] Enter the verification code 310153 to log in to Fellow Barber
+
+**From:** "UOVO Wine" <whseadmin@uovo.wine>  
+**Subject:** Wine Pull Confirmation from UOVO Wine
+
+- [ ] Check whether the wine pull is being picked up or delivered, and if delivered, watch for a separate email with the scheduled delivery date and time
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Napa Valley Excursion VVVIP Release from David - September 23-27,
+ 2026
+
+- [ ] Reply to David Hamburger (david@ackerwines.com or 917-842-7768) as soon as possible to confirm or decline attendance at the Napa Valley Excursion (September 23-27, 2026)
+- [ ] Review full event details at https://www.ackerwines.com/excursions/a-journey-through-iconic-estates-the-legacy-of-the-judgment-of-paris/ and attached document before deciding
+
+**From:** The University of Texas at Austin <utdevelopment@econnect.utexas.edu>  
+**Subject:** Save the Date: Longhorn Families in the Bay Area Reception
+
+- [ ] Save the date: Longhorn Families in the Bay Area Reception on Thursday, June 25, 2026, 5:00–7:00 PM in Atherton, CA
+- [ ] Watch for the formal invitation and RSVP when it arrives
+- [ ] RSVP when invitation is received (contact: UTRSVP@austin.utexas.edu or 512-471-4000 with questions)
+
+**From:** Anthony Wynn <awynn@uovo.wine>  
+**Subject:** Re: 5/11/26 UOVO Wine pull request - M. Steinberg
+
+- [ ] Wait for UOVO's inventory verification results expected Tuesday or Wednesday next week, then follow up if no response
+- [ ] Decide whether to accept replacement, cash payment, or account credit if bottles cannot be located
+- [ ] Review any release form UOVO may send if compensation is offered
+
