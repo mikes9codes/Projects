@@ -2104,3 +2104,31 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to accept replacement, cash payment, or account credit if bottles cannot be located
 - [ ] Review any release form UOVO may send if compensation is offered
 
+
+## 2026-05-16
+
+**From:** UOVO Wine <info@uovo.wine>  
+**Subject:** Your Signed BOL From UOVO Wine
+
+- [ ] Review the attached signed Bill of Lading from UOVO Wine
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Estimate for Delivery and Installation of the
+ Bruce Richards at 273 Mitchell Lane
+
+- [ ] Reply to Barbara Banchik about whether to proceed with the May 29 delivery and installation of the Bruce Richards at 273 Mitchell Lane for $1,602.43, or opt for the alternative storage option at Crozier's Hamptons facility until June 10
+- [ ] Decide whether someone needs to be present at 273 Mitchell Lane for the delivery and identify the best on-site contact
+- [ ] Decide whether any works need to be deinstalled or relocated at 273 Mitchell Lane to make space for the Bruce Richards
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** Few Ex-Domaine Dujac 1er and Grand Crus!
+
+- [ ] Decide whether to purchase any Dujac wines (2015 Gevrey Chambertin 1er Aux Combottes $499.99, 2015 Clos de la Roche $799.99, 2018 Clos St Denis $799.99, 2019 Clos St Denis $899.99) and reply to greg@envoyerfinewines.com to order
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** Re: Couple q's
+
+- [ ] Wait for Ian's wine suggestions (he said 'be right back')
+- [ ] Arrange for Uovo to drop the 3 Salon 96s at Crush Wine and Spirits warehouse during their next delivery there
+- [ ] Decide whether to pursue Gagnard Batard wines (Ian suggests not necessary unless Mike really enjoyed them)
+
