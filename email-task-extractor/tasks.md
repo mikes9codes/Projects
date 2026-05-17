@@ -2132,3 +2132,11 @@ New items are appended below with the date they were found.
 - [ ] Arrange for Uovo to drop the 3 Salon 96s at Crush Wine and Spirits warehouse during their next delivery there
 - [ ] Decide whether to pursue Gagnard Batard wines (Ian suggests not necessary unless Mike really enjoyed them)
 
+
+## 2026-05-17
+
+**From:** "Woodland Hills Wine Co. (David Russell)" <wine@email.whwc.com>  
+**Subject:** Just Arrived: 96pt Domaine des Chézeaux Griotte-Chambertin
+
+- [ ] Consider purchasing the 2023 Griotte-Chambertin from Domaine des Chézeaux at $575 before it sells out
+
