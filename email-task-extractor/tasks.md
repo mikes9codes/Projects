@@ -2140,3 +2140,26 @@ New items are appended below with the date they were found.
 
 - [ ] Consider purchasing the 2023 Griotte-Chambertin from Domaine des Chézeaux at $575 before it sells out
 
+
+## 2026-05-18
+
+**From:** Liz Lee <liz@sagesociety.com>  
+**Subject:** #1 requested white Burgundy producer: 2023 Pierre-Yves Colin-Morey Special Cuvées offer
+
+- [ ] Decide whether to purchase 2023 Pierre-Yves Colin-Morey Chassagne-Montrachet 1er Cru Abbaye de Morgeot Cuvée Clement Emma at $268.99/bottle (max 3 bottles)
+- [ ] Decide whether to purchase 2023 Pierre-Yves Colin-Morey Saint-Aubin 1er Cru En Remilly Cuvée Nicholas et Mathis at $159.99/bottle (max 3 bottles)
+- [ ] Reply to Liz Lee at liz@sagesociety.com with order decision before wines sell out (arriving next Friday)
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** Magical Margaux - Triple 100-Point 2018
+
+- [ ] Decide whether to purchase 2018 Château Margaux at $699.95/bottle (limited availability, mailing list only)
+- [ ] Reply to gerard@tcwc.ccsend.com to place order if interested (must order via email, not available online)
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Wire Request
+
+- [ ] Review attached wire instructions from Elizabeth Steinberg
+- [ ] Approve or reject the wire request
+- [ ] Reply to Elizabeth Steinberg with any questions or confirmation
+
