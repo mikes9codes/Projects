@@ -2163,3 +2163,24 @@ New items are appended below with the date they were found.
 - [ ] Approve or reject the wire request
 - [ ] Reply to Elizabeth Steinberg with any questions or confirmation
 
+
+## 2026-05-19
+
+**From:** Casey Lynfield <caseylynfield@gmail.com>  
+**Subject:** Re: Summer night(s)
+
+- [ ] Reply to Casey confirming whether June 6th or June 20th works for a Saturday night in Bridgehampton
+- [ ] Decide which of Casey's available dates (June 6th or June 20th) to choose
+- [ ] Schedule a phone call with Casey once a date is confirmed
+
+**From:** Casey Lynfield <caseylynfield@gmail.com>  
+**Subject:** Re: Summer night(s)
+
+- [ ] Confirm June 6th date with wife
+- [ ] Reply to Casey to schedule a call (she is available tomorrow at 3/3:30pm or any time in the evening)
+
+**From:** New York State DMV eServices <eservices@messages.dmv.ny.gov>  
+**Subject:** Notification — Registration Expired
+
+- [ ] Renew expired vehicle registration with the New York State DMV
+
