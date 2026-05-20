@@ -2184,3 +2184,39 @@ New items are appended below with the date they were found.
 
 - [ ] Renew expired vehicle registration with the New York State DMV
 
+
+## 2026-05-20
+
+**From:** Ian Dorin <idorin@uovo.wine>  
+**Subject:** Still On Top: Quartet of Top Vintages of Allemand’s Reynard
+
+- [ ] Decide whether to purchase any vintages of Thierry Allemand Cornas Reynard (2015 at $395, 2016 at $395, 2019 at $375, 2020 at $350) before they sell out
+- [ ] Reply to Ian Dorin if you want to be removed from future emails
+
+**From:** "Kimberly Cavoores" <shop@mwcwine.com>  
+**Subject:** Fresh off a tasting: The insanely delicious 2023s from Philippe
+ Jouan
+
+- [ ] Email shop@mwcwine.com to order Philippe Jouan 2023 wines before they sell out (first come, first served)
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** 🍷Epic  2021 Barolo, Rare Canonica, Roulot Perrieres, and 2014 DRC!
+
+- [ ] Review wine offerings and decide which bottles/vintages to purchase before they sell out
+- [ ] Consider buying 2021 Canonica Barolo Paiagallo (96 VN, $169) and/or 2021 Canonica Barolo Grinzane Cavour (95.3 CT, $159) while available
+- [ ] Decide whether to purchase 2014 DRC lineup as a cellar investment
+- [ ] Decide whether to purchase 2017 Roulot Perrieres in magnum or jeroboam format
+- [ ] Visit SommPicks shop to complete any purchases before inventory runs out
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** An Exceptional Vintage of Dujac Clos de la Roche!
+
+- [ ] Decide whether to purchase 2022 Domaine Dujac Clos de la Roche at $699.99/bottle (only 3 bottles available, pre-arrival with ETA Q2 2026)
+- [ ] Reply to greg@envoyerfinewines.com to place order if interested
+
+**From:** John Kapon <jkapon@ackerwines.com>  
+**Subject:** Wait - Another Auction?  $10 Million YESSES Wed and Thurs 5/20-21 9am
+ ET!!!
+
+- [ ] Review auction lots and place bids before the May 20-21 auction starting at 9am ET
+
