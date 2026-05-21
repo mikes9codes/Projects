@@ -2220,3 +2220,43 @@ New items are appended below with the date they were found.
 
 - [ ] Review auction lots and place bids before the May 20-21 auction starting at 9am ET
 
+
+## 2026-05-21
+
+**From:** CellarTracker <hello@email.cellartracker.com>  
+**Subject:** Your CellarTracker subscription expires tomorrow!
+
+- [ ] Renew CellarTracker subscription before it expires tomorrow at cellartracker.com/payment.asp
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: Kamrooz Aram Available Works - Frieze NY 2026
+
+- [ ] Review available Kamrooz Aram works via the updated link: https://privateviews.artlogic.net/2/89a0d041aa4da84093b88d/
+- [ ] Decide whether to pursue any of the available Kamrooz Aram works
+- [ ] Reply to Carmen Zita indicating interest or lack thereof in the available works
+
+**From:** Reception <reception@skyframe.com>  
+**Subject:** Invoice 156595
+
+- [ ] Pick up order (Invoice 156595) on Friday 5/22 from Skyframe (NYC: 141 W28th Street or NJ: 28 Evans Terminal Road)
+
+**From:** Jon Visser <jon.visser@grapesthewineco.com>  
+**Subject:** Dominus Vertical!
+
+- [ ] Decide whether to purchase any of the available Dominus wines (limited quantities, first come first serve): 2004 Dominus (2 btl/$339, 1 mag/$679), 2015 Dominus (2 btl/$379), 2020 Dominus (7 half btl/$179, 2 mag/$629), 2021 Dominus (3 btl/$339)
+- [ ] Reply to Jon Visser at Grapes The Wine Company if interested in purchasing
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** Edison audit complete - M. Steinberg
+
+- [ ] Review full report from Rick Heinlein (expected tomorrow)
+- [ ] Decide on remuneration option after reviewing report
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Fw: Pace Prints Visit 5/9/26
+
+- [ ] Visit Pace Prints and ask for Sabrina to be shown around
+- [ ] Review attached information on available Alex Israel, Kahn, Wood, and Frankenthaler works
+- [ ] Check availability of the Scott Kahn piece Carmen liked
+- [ ] Decide on any pieces of interest from Pace Prints
+
