@@ -2260,3 +2260,103 @@ New items are appended below with the date they were found.
 - [ ] Check availability of the Scott Kahn piece Carmen liked
 - [ ] Decide on any pieces of interest from Pace Prints
 
+
+## 2026-05-22
+
+**From:** Kristin Buma <kristin@ackerwines.com>  
+**Subject:** Payment for invoice #263DE / Auction date: 4/17/2026
+
+- [ ] Review attached invoice #263DE
+- [ ] Decide on payment method (credit card, wire transfer, or check) for invoice #263DE
+- [ ] Submit payment for invoice #263DE before it becomes overdue to avoid 1.5% monthly interest
+- [ ] Reply to Kristin Buma at kristin@ackerwines.com to advise chosen payment method
+
+**From:** craig greissman <greissman@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Reply to Jordan and the group confirming whether you want to move forward with the Kohler golf trip before January 2nd deposit deadline
+- [ ] Decide whether the Sept 30 - Oct 3 dates work or if you prefer the Thursday-Sunday option
+- [ ] Check if Sept 30 - Oct 3 conflicts with any college parents weekends or other commitments
+- [ ] Decide whether to share a room (~$4k) or have a single room (~$5k)
+
+**From:** craig greissman <greissman@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Reply to Jordan confirming whether you want to move forward with the Kohler golf trip (Sept 30–Oct 3, 2026)
+- [ ] Decide on room sharing preference ($4k shared vs $5k solo per person)
+- [ ] Check your calendar for conflicts with the Sept 30–Oct 3 weekend
+- [ ] Be aware of the deposit deadline of January 2nd to secure rooms and tee times
+- [ ] Confirm to Craig whether the trip is firm so he can adjust his daughter's parents weekend visit accordingly
+
+**From:** Jon Kono <jon@colonialtagandlabel.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm whether you want to move forward with the Kohler golf trip (Sept 30–Oct 3, 2026)
+- [ ] Check if the Kohler trip dates conflict with any college parents weekends or other commitments
+- [ ] Decide on room preference: shared (~$4k/person) or single occupancy (~$5k/person)
+- [ ] Reply to the group with your availability and decision to join the trip
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Fw: Follow-up on Michael Steinberg Visit
+
+- [ ] Measure walls to determine which Israel works and Kagan collages to move forward with
+- [ ] Follow up with Carmen Zita regarding the specific works to proceed with
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm to Jordan whether you are in or out for the Kohler golf trip (Sept 30 – Oct 3, 2026)
+- [ ] Provide your credit card details in June for the trip deposit
+- [ ] Note deadline: credit card info needed in June
+
+**From:** craig greissman <greissman@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Confirm to Jordan whether you are in or out for the Kohler golf trip (Sept 30 – Oct 3)
+- [ ] Provide your credit card for the booking in June if you are in
+- [ ] Check flight options to Milwaukee (Delta 8:35am departure on Sept 30th) and return flight (Delta last direct at 2pm)
+- [ ] Reply to Craig's question about which return flight you are considering
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm to Jordan whether you are in or out for the golf trip (Sept 30 – Oct 3, 2026)
+- [ ] Provide credit card details in June for the trip deposit
+- [ ] Book flight to Milwaukee (Delta 8:35am option) if confirmed attending
+
+**From:** Jon Kono <jon@colonialtagandlabel.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm to Jordan Leber whether you are in for the Kohler golf trip (Sept 30 – Oct 3, 2026)
+- [ ] Provide credit card details in June for the trip deposit
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm whether you are in or out for the golf trip (Sept 30 – Oct 3, 2026)
+- [ ] Provide your credit card information to Jordan Leber in June for the trip deposit
+
+**From:** Chloé Geary  <cg@hellergroupllc.com>  
+**Subject:** Brittany Miller purchase
+
+- [ ] Review attached invoice from Ruttkowski;68 for Brittany Miller's 'Hollow' (2025)
+- [ ] Review attached commission invoice for the work
+- [ ] Send payment to Ruttkowski;68 using verbally confirmed wire instructions
+- [ ] Send commission payment
+- [ ] Notify Chloé Geary once both payments have been sent
+
+**From:** Jon Kono <jon@colonialtagandlabel.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Confirm to Jordan whether he is in for the Kohler golf trip (Sept 30 – Oct 3, 2026)
+- [ ] Provide credit card details to Jordan in June for the Kohler trip deposit
+- [ ] Book flight to Milwaukee (Delta 8:35am suggested) for Sept 30th
+- [ ] Decide whether to stop in Madison on Saturday night per Jon's suggestion
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Provide credit card information to Jordan in June for the golf trip deposit
+- [ ] Consider whether to stop in Madison on a football weekend during the Wisconsin golf trip (Sept 30 - Oct 3, 2026)
+- [ ] Book flight to Milwaukee for September 30th (Delta 8:35am flight noted as an option)
+
