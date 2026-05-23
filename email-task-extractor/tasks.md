@@ -2360,3 +2360,83 @@ New items are appended below with the date they were found.
 - [ ] Consider whether to stop in Madison on a football weekend during the Wisconsin golf trip (Sept 30 - Oct 3, 2026)
 - [ ] Book flight to Milwaukee for September 30th (Delta 8:35am flight noted as an option)
 
+
+## 2026-05-23
+
+**From:** Order Update <orderupdate@ackerwines.com>  
+**Subject:** Acker Auctions DE - Congratulations - Winning Bids Are Attached! -
+ Invoice #264DE - 5/21/2026
+
+- [ ] Review attached winning bid receipt and comprehensive bid result sheet
+- [ ] Pay invoice #264DE within 30 days of 5/21/2026 to avoid interest (deadline: ~6/20/2026)
+- [ ] Decide on payment method: wire transfer, check, or credit card (note credit card fees: 2% up to $15,000, 3% over $15,000)
+- [ ] Decide within 5 days whether to arrange pickup or overseas delivery, otherwise lots transfer to Acker Storage and storage fees apply
+- [ ] If shipping domestically, contact Acker Storage logistics team at Shipping@AckerStorage.com to arrange shipment
+- [ ] Review Acker Storage agreement at https://www.ackerstorage.com/StorageAgreement if storage will be needed
+- [ ] Contact Kristin Buma at Kristin@AckerWines.com or 302-525-8601 (Mon-Wed, 9am-4pm) with any questions
+
+**From:** Liz Lee <liz@sagesociety.com>  
+**Subject:** Re: #1 requested white Burgundy producer: 2023 Pierre-Yves Colin-Morey Special Cuvées offer
+
+- [ ] Decide whether to purchase 2023 Pierre-Yves Colin-Morey Chassagne-Montrachet 1er Cru Abbaye de Morgeot Cuvée Clement Emma at $268.99/bottle (max 3 bottles)
+- [ ] Decide whether to purchase 2023 Pierre-Yves Colin-Morey Saint-Aubin 1er Cru En Remilly Cuvée Nicholas et Mathis at $159.99/bottle (max 3 bottles)
+- [ ] Reply to Liz Lee at liz@sagesociety.com with order decision before wines sell out
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm whether you are 'in' for the golf trip (Sept 30 – Oct 3, 2026) and reply to Jordan
+- [ ] Let Jordan know if you plan to fly in on Sept 29th so rooms can be adjusted
+- [ ] Provide your credit card to Jordan in June for the trip deposit
+
+**From:** Jon Kono <jon@colonialtagandlabel.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Decide whether to fly in on Sept 29th (early arrival) or Sept 30th and notify Jordan so rooms can be adjusted
+- [ ] Decide whether to join Jon and Parker in Chicago on Saturday night after Kohler
+- [ ] Book flight to Milwaukee (Jordan booked 8:35 Delta LGA to Milwaukee on Sept 30th as reference)
+
+**From:** Liz Lee <liz@sagesociety.com>  
+**Subject:** Re: #1 requested white Burgundy producer: 2023 Pierre-Yves Colin-Morey Special Cuvées offer
+
+- [ ] Decide whether to purchase the 2023 Pierre-Yves Colin-Morey Special Cuvées in 750ml format and reply to Liz Lee at liz@sagesociety.com
+
+**From:** Daniel Posner <daniel@grapesthewineco.com>  
+**Subject:** 400 point Chateau Pichon Lalande!
+
+- [ ] Decide whether to purchase 2016 Chateau Pichon Lalande at $349/bottle (only 2 cases available)
+- [ ] If purchasing, reply to daniel@grapesthewineco.com or click the wine link to secure allocation
+- [ ] Note: Wine Collector's Dinner is in 3 weeks - consider if this wine is intended for that event
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** FW: Edison audit complete - M. Steinberg
+
+- [ ] Reply to Rick confirming receipt of the audit report
+- [ ] Decide whether to request replacement bottles, reimbursement, account credit, or a combination for the $22,295 in losses/missing inventory
+- [ ] Notify Rick of preference regarding the missing Box 00522 bottles (6x 2004 Ferrando Carema and 6x 2002 Domaine Armand Rousseau Chambertin Grand Cru)
+- [ ] Notify Rick of preference regarding the 2 missing bottles from Box 01876 (2015 Chateau Le Tertre Roteboeuf)
+- [ ] Notify Rick of preference regarding the damaged/stained bottles in Box 00519 (2001 Chateau Lafaurie Peyraguey Sauternes)
+- [ ] Verify that the 2 added bottles of 2001 Luciano Sandrone Cannubi Boschis Barolo in Box 00131 are now correctly reflected in your Wine Owners inventory
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** RE: Edison audit complete - M. Steinberg
+
+- [ ] Review the full audit report attached by Rick
+- [ ] Decide between replacement, reimbursement, account credit, or a combination for the $22,295 in discrepancies
+- [ ] Reply to Rick with preferred resolution (replacement and/or reimbursement/credit) for the missing and damaged bottles
+
+**From:** Emma Weinstein <dinexgroup--emma-weinstein-@discussions.tripleseat.com>  
+**Subject:** Steinberg Graduation Dinner on June 7, 2026 at La Tête d’Or  by Daniel
+
+- [ ] Review attached documents: La Tête d'Or Events Deck, Prix Fixe Dinner Menus (Butcher's Table and Salon versions), and Private Events Wine List
+- [ ] Decide between the Butcher's Table (~$5,500 min at 6PM, or $4,000 min at 5PM or 8:30PM) and the Salon private dining room (~$10,000 min at 6PM)
+- [ ] Decide on preferred seating time (5:00PM, 6:00PM, or 8:30PM) if choosing Butcher's Table
+- [ ] Reply to Emma Weinstein with preferred table/room and seating time to reconfirm availability
+- [ ] Sign contract and pay 50% deposit to secure the booking once contract is sent
+- [ ] Note: table/space is NOT currently on hold — act promptly to avoid losing availability for June 7, 2026
+
+**From:** "Terra Management" <donotreply@clickpay.com>  
+**Subject:** Brown Harris Stevens Management - Electronic Statement Available
+
+- [ ] Review electronic statement from Brown Harris Stevens Management via ClickPay
+
