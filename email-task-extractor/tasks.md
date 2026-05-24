@@ -2440,3 +2440,17 @@ New items are appended below with the date they were found.
 
 - [ ] Review electronic statement from Brown Harris Stevens Management via ClickPay
 
+
+## 2026-05-24
+
+**From:** Daniel Posner <daniel@grapesthewineco.com>  
+**Subject:** Rare Echezeaux by Rouget!
+
+- [ ] Decide whether to purchase 2023 Emmanuel Rouget Echezeaux ($599/btl or $549/btl for 3-pack) for the Wine Collector Dinner on Friday, June 12th
+- [ ] If purchasing, reply to Daniel Posner at daniel@grapesthewineco.com or click the wine link to secure allocation before it sells out
+
+**From:** "Manhattan Wine Company" <shop@mwcwine.com>  
+**Subject:** MWC is on the Jury: The 50th Anniversary Re-Judgment of Paris
+
+- [ ] Decide whether to purchase tickets for the 50th Anniversary Re-Judgment of Paris event at City Winery on Tuesday May 26th at 7:30 PM
+
