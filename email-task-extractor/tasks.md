@@ -2454,3 +2454,11 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to purchase tickets for the 50th Anniversary Re-Judgment of Paris event at City Winery on Tuesday May 26th at 7:30 PM
 
+
+## 2026-05-25
+
+**From:** "UOVO Wine" <portal@uovo.wine>  
+**Subject:** Reset Your Password - UOVO Wine
+
+- [ ] Reset UOVO Wine account password using the link before it expires in 24 hours (if password reset was requested)
+
