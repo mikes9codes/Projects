@@ -2462,3 +2462,18 @@ New items are appended below with the date they were found.
 
 - [ ] Reset UOVO Wine account password using the link before it expires in 24 hours (if password reset was requested)
 
+
+## 2026-05-26
+
+**From:** "Apple Card Support" <no_reply@post.applecard.apple>  
+**Subject:** Your Apple Card payment is due soon
+
+- [ ] Pay Apple Card bill before the due date
+
+**From:** Joseph Kong <joseph.kong@stpi.com.sg>  
+**Subject:** [STPI] Zarina - Annual Special Exhibition | Artwork Preview
+
+- [ ] Review the Zarina artwork preview at https://privateviews.artlogic.net/2/8b63c1a1c1ae83ccfc8562/
+- [ ] Decide whether to attend the exhibition opening on Saturday, 6 June 2026, 3-5 PM at STPI
+- [ ] Reply to Joseph Kong if any artworks are of interest or if there are questions
+
