@@ -2477,3 +2477,58 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to attend the exhibition opening on Saturday, 6 June 2026, 3-5 PM at STPI
 - [ ] Reply to Joseph Kong if any artworks are of interest or if there are questions
 
+
+## 2026-05-27
+
+**From:** Ivan Chorney <ivan@millionluxury.com>  
+**Subject:** RE: Private Zoom Presentation: Mandarin Oriental Residences West Palm Beach
+
+- [ ] Register for the private Zoom presentation on Mandarin Oriental Residences West Palm Beach using the provided link
+- [ ] Decide whether to attend the Zoom presentation or follow up with Ivan Chorney at +13052031324 for more information
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** An Excellent Puligny Folatieres Best Buy From An Under The Radar
+ Address!
+
+- [ ] Decide whether to purchase the 2023 Sylvain Bzikot Puligny-Montrachet 1er Cru Les Folatières at $119.99 before limited stock sells out (Pre-Arrival, ETA Q3 2026)
+
+**From:** Kristin Buma <kristin@ackerwines.com>  
+**Subject:** RE: Payment for invoice #263DE / Auction date: 4/17/2026
+
+- [ ] Pay all 3 outstanding balances to Acker Wines in full (Mike committed to paying tomorrow, May 22, 2026)
+- [ ] Review the 3 open balance invoices sent by Kristin to verify amounts owed
+- [ ] Choose payment method (credit card, wire transfer, or check) to settle all outstanding invoices with Acker Auction DE LLC
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: Brittany Miller purchase
+
+- [ ] Send check to Canada Gallery for $21.06 (tax payment)
+- [ ] Send check to Maquette for $874 (Ludlow installation payment)
+- [ ] Send check to Heller Group for $400 (commission)
+- [ ] Send wire from Citi for $4,893.75 (new piece payment)
+- [ ] Await invoice from Pace Prints for Alex Israel piece and review before paying
+- [ ] Confirm with Barbara once all payments have been remitted
+
+**From:** Kristin Buma <kristin@ackerwines.com>  
+**Subject:** RE: Payment for invoice #263DE / Auction date: 4/17/2026
+
+- [ ] Send wire transfer of $25,998.90 to Acker Auction DE LLC using the wire transfer details provided
+- [ ] Send a copy of the payment slip to Kristin at kristin@ackerwines.com once the wire is sent
+
+**From:** Laura Picard <ldpicard3@gmail.com>  
+**Subject:** Senior Graduation Party - Photos
+
+- [ ] Upload 20 photos of student to https://photos.app.goo.gl/XpFD7JNW9zvwaXBGA by May 28th
+
+**From:** Katie Steinberg <katiesteinbergg@gmail.com>  
+**Subject:** Hi
+
+- [ ] Reply to Katie Steinberg about whether her email sign-off is appropriate or if she should send it another way
+
+**From:** "mikes9codes" <notifications@github.com>  
+**Subject:** [mikes9codes/Projects] Run failed: Daily Dining Chair Search - main
+ (5106ecf)
+
+- [ ] Investigate and fix the failed 'Search for 12-Chair Sets' job in the Daily Dining Chair Search GitHub Actions workflow (2 annotations to review)
+- [ ] Check the workflow run details at https://github.com/mikes9codes/Projects/actions/runs/26508914451
+
