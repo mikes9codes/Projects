@@ -2532,3 +2532,55 @@ New items are appended below with the date they were found.
 - [ ] Investigate and fix the failed 'Search for 12-Chair Sets' job in the Daily Dining Chair Search GitHub Actions workflow (2 annotations to review)
 - [ ] Check the workflow run details at https://github.com/mikes9codes/Projects/actions/runs/26508914451
 
+
+## 2026-05-28
+
+**From:** "Scores, Alexandra" <alexandra.scores@ADP.com>  
+**Subject:** RE:
+
+- [ ] Decide whether to schedule a conversation with Ally Scores at ADP about payroll, HR, and benefits services
+
+**From:** Andrew Chappell <achappell@cgps.org>  
+**Subject:** Six Flags info and Permission Slip
+
+- [ ] Sign the permission slip for the Six Flags trip
+- [ ] Email the signed permission slip to Mr. Buckingham at jbuckingham@cgps.org by Monday 6/1 at 3 PM
+- [ ] Review the CGPS Community Handbook rules for the trip
+- [ ] Ensure student is ready for bus departure at 9:30 AM on Tuesday June 2nd
+- [ ] Remind student to bring sunscreen, layers, and a water bottle
+
+**From:** Patrick Larson <patrick@ackerwines.com>  
+**Subject:** 23 Releases of Pappy Van Winkle Going Back To 2009!!!!
+
+- [ ] Review Pappy Van Winkle bourbon offerings from Acker Wines and decide whether to purchase (first come, first served — time-sensitive)
+- [ ] Reply to Patrick Larson at patrick@ackerwines.com to claim any desired bottles before they sell out
+- [ ] Note that Pappy Van Winkle 23 Year Old bottles have a 1-week availability window — act quickly if interested
+
+**From:** "Gagne, Robert (DFS)" <Robert.Gagne@dfs.ny.gov>  
+**Subject:** RE: 2025-L-044279
+
+- [ ] Wait a few days for Robert Gagne (DFS) to look into the matter before following up
+- [ ] Follow up with Robert Gagne if no response received after a couple of days (contact: Robert.Gagne@dfs.ny.gov, 646-899-0348)
+- [ ] Confirm with Julie Clancy that the third document submission was successfully uploaded into the DFS system
+- [ ] Monitor for any response from consumer@dfs.ny.gov regarding case 2025-L-044279
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: Steinberg / Basement Rug
+
+- [ ] Review attached invoice for additional material costs
+- [ ] Inspect the installed basement rug and confirm satisfaction
+- [ ] Reply to Ana if there are any questions or concerns about the rug or invoice
+
+**From:** <Sabrina.Hall@morganstanleypwm.com>  
+**Subject:** RE: [EXTERNAL] Wire Request - re: Basement Rug
+
+- [ ] Approve the wire transfer of $3,446.02 to Monica Fried Design LLC (Invoice #301398) via eAuthorization
+
+**From:** CellarTracker <hello@account.cellartracker.com>  
+**Subject:** Your CellarTracker Drinkability Report is Here
+
+- [ ] Consider drinking or decanting the 1998 Bruno Giacosa Barolo Le Rocche del Falletto soon as it may be past peak
+- [ ] Decant the 2008 Domaine Dujac Clos de la Roche for an extended period if opening, or continue cellaring
+- [ ] Decant the 2009 Domaine Jean Grivot Clos Vougeot for several hours if opening, or continue cellaring for additional years
+- [ ] Review full drinkability report on CellarTracker for complete recommendations on all wines
+
