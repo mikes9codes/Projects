@@ -2584,3 +2584,44 @@ New items are appended below with the date they were found.
 - [ ] Decant the 2009 Domaine Jean Grivot Clos Vougeot for several hours if opening, or continue cellaring for additional years
 - [ ] Review full drinkability report on CellarTracker for complete recommendations on all wines
 
+
+## 2026-05-29
+
+**From:** Emma Weinstein <dinexgroup--emma-weinstein-@discussions.tripleseat.com>  
+**Subject:** Steinberg Graduation  Dinner at La Tête d’Or by  Daniel 6/7/2026
+
+- [ ] Reply to Emma Weinstein at La Tête d'Or to confirm whether you are still interested in booking the Steinberg Graduation Dinner on June 7, 2026
+- [ ] Decide whether to proceed with booking the event (table/space is not currently on hold)
+- [ ] If proceeding, sign the contract and provide a 50% deposit to secure the booking
+
+**From:** Christine Cuppett <m@mail3.veracross.com>  
+**Subject:** Final Transcripts
+
+- [ ] Send AP scores and/or official test scores to colleges if requested (via College Board or ACT account)
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** Clos de Beze and Chambertin From Rousseau!
+
+- [ ] Decide whether to purchase 2022 Domaine Armand Rousseau Chambertin-Clos de Bèze at $2,695/6 bottles
+- [ ] Decide whether to purchase 2023 Domaine Armand Rousseau Chambertin at $2,695/6 bottles
+- [ ] Reply to greg@envoyerfinewines.com to place order if interested (limited availability)
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Estimate for Delivery and Installation of the
+ Bruce Richards at 273 Mitchell Lane
+
+- [ ] Request an 11am arrival time with Crozier Fine Arts for the May 29 delivery and installation of the Bruce Richards at 273 Mitchell Lane
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Estimate for Delivery and Installation of the
+ Bruce Richards at 273 Mitchell Lane
+
+- [ ] Be available at 273 Mitchell Lane on May 29 at 11:00am for Crozier Fine Arts delivery and installation of the Bruce Richards
+- [ ] Expect a call from the Crozier crew 30 minutes before their arrival
+
+**From:** DoNotReply@AckerStorage.com  
+**Subject:** Acker - Your wines are scheduled to move to storage on 6/2/2026
+
+- [ ] Decide whether to ship wines from lots 261DE,3256 / 263DE,3256 / 264DE,3256 before they move to storage on 6/2/2026
+- [ ] If shipping is desired, submit shipping request at https://www.ackerwines.com/my-account/auction-shipping/ before 6/2/2026
+
