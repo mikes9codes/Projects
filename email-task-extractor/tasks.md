@@ -2625,3 +2625,14 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to ship wines from lots 261DE,3256 / 263DE,3256 / 264DE,3256 before they move to storage on 6/2/2026
 - [ ] If shipping is desired, submit shipping request at https://www.ackerwines.com/my-account/auction-shipping/ before 6/2/2026
 
+
+## 2026-05-30
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Estimate for Delivery and Installation of the
+ Bruce Richards at 273 Mitchell Lane
+
+- [ ] Be available at 273 Mitchell Lane on May 29 between 10:00am - 11:00am for the Bruce Richards delivery and installation
+- [ ] Expect a call from the Crozier Fine Arts crew 30 minutes prior to their arrival
+- [ ] Reply to Barbara with the best on-site contact for the May 29 delivery if not already done
+
