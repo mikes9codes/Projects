@@ -2636,3 +2636,30 @@ New items are appended below with the date they were found.
 - [ ] Expect a call from the Crozier Fine Arts crew 30 minutes prior to their arrival
 - [ ] Reply to Barbara with the best on-site contact for the May 29 delivery if not already done
 
+
+## 2026-05-31
+
+**From:** Google <no-reply@accounts.google.com>  
+**Subject:** Urgent: Sign in to your Google Account if you want to keep it
+
+- [ ] Sign in to Google Account (mikes9@verizon.net) before July 4, 2026 to prevent account deletion
+- [ ] Consider downloading Google data before account is deleted if account will not be used
+
+**From:** no_reply@phillips.com  
+**Subject:** Phillips account email verification
+
+- [ ] Verify Phillips account email by clicking the verification link in the email
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** 🌸Tempier  Season is Here: 2025 Rose, Blanc, and the Epic Bandol Reds
+
+- [ ] Review Domaine Tempier wine offerings and decide whether to purchase
+- [ ] Consider ordering 2025 Tempier Bandol Rosé at $43/bottle ($40.85 on 12-packs) before it sells out - ETA late July
+- [ ] Consider ordering 2024 Tempier Bandol Rosé at $44 (94pts) while limited stock lasts - more arriving July
+- [ ] Decide on white and red Tempier selections (Blanc, Cabassaou, Migoua, 1990 Tourtine) if interested
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** One of The Best Sakes We Have Ever Tasted!
+
+- [ ] Decide whether to purchase Yuki No Bosha Chosetsu Junmai Daiginjo 'The Sound of Snow' sake at $399.99 (only 6 bottles available)
+
