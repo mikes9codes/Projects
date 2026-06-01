@@ -2663,3 +2663,52 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to purchase Yuki No Bosha Chosetsu Junmai Daiginjo 'The Sound of Snow' sake at $399.99 (only 6 bottles available)
 
+
+## 2026-06-01
+
+**From:** Todd Deutsch <todd.deutsch@gmail.com>  
+**Subject:** Re: Fwd: Fw: [EXTERNAL] $PURR - Gamma Squeeze
+
+- [ ] Contact Kevin Barry at Morgan Stanley (Kevin.Barry@morganstanley.com) regarding $PURR gamma squeeze analysis
+- [ ] Review the Capital Flows Substack report on $PURR gamma squeeze thesis
+- [ ] Reply to Todd Deutsch about whether he has seen a gamma squeeze before
+
+**From:** Lorien Wroten <lwroten@winvian.com>  
+**Subject:** Winvian Experiences Menu & Fly Fishing
+
+- [ ] Review attached Winvian Experiences menu
+- [ ] Decide if any additional experiences should be booked at Winvian
+- [ ] Await follow-up from Rachel regarding Fly Fishing confirmation for Wednesday
+
+**From:** Rachel Kozak <rkozak@winvian.com>  
+**Subject:** Fly Fishing Experience: June 3
+
+- [ ] Reply to Rachel with preferred start time for June 3rd fly fishing experience
+- [ ] Reply to Rachel with shoe size, build size, and prior fly fishing experience for each guest
+- [ ] Review attached experiences menu and spa services menu
+- [ ] Decide whether to book a cooking/pasta making class with Chef Chris Eddy
+
+**From:** Rachel Kozak <rkozak@winvian.com>  
+**Subject:** RE: Fly Fishing Experience: June 3
+
+- [ ] Decide whether 11:30am Thursday yoga works for you and Katie
+- [ ] Decide whether you want mat pilates on Thursday morning instead of yoga
+- [ ] Decide whether you want experiences before departing on Thursday or plan to leave after check-out
+
+**From:** Todd Deutsch <todd.deutsch@gmail.com>  
+**Subject:** Re: Fwd: Fw: [EXTERNAL] $PURR - Gamma Squeeze
+
+- [ ] Reply to Todd about whether Mike has ever seen a gamma squeeze
+- [ ] Review the $PURR gamma squeeze analysis from Capital Flows Substack
+- [ ] Consider researching $PURR options positioning and potential gamma squeeze opportunity
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: Van Bart - Basel
+
+- [ ] Reply to Carmen Zita regarding interest in the Van Bart landscape going to Basel
+
+**From:** "Gray, James" <James.Gray@sothebys.com>  
+**Subject:** Sotheby's Whisky Sales - Open for Bidding
+
+- [ ] Review Sotheby's Finest Whisky auction lots and decide whether to place any bids before the Friday 5th June 14:00 deadline
+
