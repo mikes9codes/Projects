@@ -2712,3 +2712,47 @@ New items are appended below with the date they were found.
 
 - [ ] Review Sotheby's Finest Whisky auction lots and decide whether to place any bids before the Friday 5th June 14:00 deadline
 
+
+## 2026-06-02
+
+**From:** Danielle Carey <danielle@ackerstorage.com>  
+**Subject:** Delivery request
+
+- [ ] Reply to Danielle confirming whether Wednesday June 17th works for the LI delivery
+
+**From:** Rachel Kozak <rkozak@winvian.com>  
+**Subject:** RE: Fly Fishing Experience: June 3
+
+- [ ] Reply to Rachel about preferred arrival time on Tuesday June 2nd
+- [ ] Decide whether to book painting for Tuesday afternoon (Wednesday not available)
+- [ ] Decide whether to book horseback riding on Wednesday afternoon
+- [ ] Follow up with Rachel on llama walk availability and scheduling
+- [ ] Follow up with Rachel on yoga style details (vinyasa vs hot yoga) for Thursday 10am
+- [ ] Follow up with Rachel on whether Pilates is reformer or mat-based
+
+**From:** Rachel Kozak <rkozak@winvian.com>  
+**Subject:** RE: Fly Fishing Experience: June 3
+
+- [ ] Reply to Rachel confirming or declining the painting class on Tuesday June 2nd at 5:00pm
+- [ ] Reply to Rachel about horseback riding on Wednesday afternoon (note: it is ~10-15 minutes from the property)
+
+**From:** Rachel Kozak <rkozak@winvian.com>  
+**Subject:** Treehouse June 2nd -June 4th
+
+- [ ] Wait for Rachel's response about artist Scott's availability for Wednesday afternoon or Thursday morning art class
+- [ ] Confirm preferred time for art class (Wednesday afternoon or Thursday morning) once Rachel provides update
+
+**From:** Experiences <experiences@winvian.com>  
+**Subject:** Fly-Fishing Confirmation
+
+- [ ] Pick up boxed lunch from front desk before departing for fly fishing on 06/03/2026 at 9:00 AM
+- [ ] Obtain valid Connecticut fishing license for any participants age 16 or older before 06/03/2026 (see https://ct.aspirafocus.com/internetsales)
+- [ ] Note cancellation deadline: must cancel at least 24 hours before 9:00 AM on 06/03/2026 by calling the front desk (860.567.9600) to avoid a 50% cancellation fee
+
+**From:** Joseph Kong <joseph.kong@stpi.com.sg>  
+**Subject:** [STPI] Art Basel 2026 Artwork Preview | Booth S15
+
+- [ ] Review STPI Art Basel 2026 artwork presentation at https://privateviews.artlogic.net/2/f3cfc78904a316eccb37cf
+- [ ] Decide whether to attend Art Basel in Basel (June 16-21) at Booth S15
+- [ ] Reply to Joseph Kong if any works are of interest or if more information is needed
+
