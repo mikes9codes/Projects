@@ -2756,3 +2756,26 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to attend Art Basel in Basel (June 16-21) at Booth S15
 - [ ] Reply to Joseph Kong if any works are of interest or if more information is needed
 
+
+## 2026-06-03
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Top Vintage Bordeaux from 1982 to 1990
+
+- [ ] Review the Top Vintage Bordeaux inventory list from David Hamburger at Acker Wines and decide if any bottles/magnums are of interest to purchase
+- [ ] Contact David Hamburger at david@ackerwines.com or 212-787-1624 if interested in ordering any wines
+- [ ] Note upcoming HK Auction on Saturday June 6 and decide if you want to participate
+- [ ] Note upcoming US Auction on Wednesday June 24 and decide if you want to participate
+
+**From:** Danielle Carey <danielle@ackerstorage.com>  
+**Subject:** Re: Delivery request
+
+- [ ] Reply to Danielle to confirm whether July 1st or July 15th works for LI delivery, or if collecting from NYC retail store is preferred
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** 2005 Bordeaux ║ A Vintage for the Record Books
+
+- [ ] Reply to gerard@tcwc.ccsend.com to express interest in 2005 Bordeaux cases if desired (orders processed in the order received)
+- [ ] Decide whether to purchase any 2005 Bordeaux cases or split cases before they sell out
+- [ ] Review the curated wine list and pricing to determine which bottles/cases to order
+
