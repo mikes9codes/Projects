@@ -2779,3 +2779,59 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase any 2005 Bordeaux cases or split cases before they sell out
 - [ ] Review the curated wine list and pricing to determine which bottles/cases to order
 
+
+## 2026-06-04
+
+**From:** Rachel Kozak <rkozak@winvian.com>  
+**Subject:** Horseback Riding 3:00pm Today
+
+- [ ] Show up for horseback riding at Lee's Riding Stable (57 E Litchfield Rd, Litchfield, CT 06759) at 3:00pm today with Katie
+
+**From:** K&L Wine Merchants <wine@klwines.com>  
+**Subject:** 95-Point Sonoma Chardonnay, $19.95 While It Lasts
+
+- [ ] Consider purchasing the 2023 Ernest Sonoma Coast Chardonnay at $19.95 before it sells out (limited stock)
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Joseph Drouhin Collection Featuring Petits Monts, Musigny,
+ Montrachet, and Amoureuses
+
+- [ ] Review Joseph Drouhin wine offerings and decide whether to purchase any bottles
+- [ ] Contact David Hamburger at david@ackerwines.com or 212-787-1624 if interested in placing an order
+- [ ] Note upcoming HK Auction on Saturday June 6 and decide whether to participate
+- [ ] Note upcoming US Auction on Wednesday June 24 and decide whether to participate
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** 🍷New  This Week: 89 Haut Brion, 01 Allemand, Leflaive Jeros, Coche Rougeots, Rayas and More!
+
+- [ ] Review the new SommPicks weekly offer list (available in Excel, PDF, or online)
+- [ ] Consider purchasing 1989 Haut Brion original case
+- [ ] Consider purchasing 12-pack of Coche Rougeots
+- [ ] Consider purchasing 2001 Thierry Allemand Chaillot six-packs
+- [ ] Consider purchasing Leflaive jeroboams (Chevalier, Batard, BBM)
+- [ ] Consider purchasing rare Valentini Trebbiano from the 80s and 90s
+- [ ] Consider purchasing Ulysse Collin 2019 60 months Rose
+- [ ] Consider purchasing In Stock Rayas
+- [ ] Reply to SommPicks with any purchase requests
+
+**From:** Reservations <reservations@winvian.com>  
+**Subject:** Winvian: Breakfast Menu for Thursday June 4th, 2026
+
+- [ ] Review attached breakfast menu
+- [ ] Decide whether to place a room service order by dialing 807 (note: $7.50 fee per person)
+
+**From:** Ana Pena <ana@monicafrieddesign.com>  
+**Subject:** Re: wine room stool upholstery
+
+- [ ] Wait for Ana's revised proposal (expected tomorrow) and review it when received
+- [ ] Confirm whether the previous bill for the wine room stool upholstery was ever paid
+
+**From:** The UVA Family Hub <families@virginia.campusespmail.com>  
+**Subject:** The UVA Family Hub Newsletter
+
+- [ ] Customize UVA Family Hub account to personalize newsfeed at https://virginia.campusesp.com/join
+- [ ] Consider attending free virtual event 'Reimagining the Declaration of Independence' on June 17, 3:00-4:15 p.m. EDT
+- [ ] Review 'Managing Financial Life at UVA' article for student financial aid information
+- [ ] Note fall arrival and welcome dates: August 20-24
+- [ ] Note first day of classes: August 25
+
