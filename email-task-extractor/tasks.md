@@ -2835,3 +2835,35 @@ New items are appended below with the date they were found.
 - [ ] Note fall arrival and welcome dates: August 20-24
 - [ ] Note first day of classes: August 25
 
+
+## 2026-06-05
+
+**From:** "Fowle, Jonny" <Jonny.Fowle@sothebys.com>  
+**Subject:** Sotheby's Whisky Auction - Closing Soon!
+
+- [ ] Review Sotheby's London Whisky Auction before it closes
+- [ ] Decide whether to bid on any lots (e.g. Macallan Tree of Life, Dalmore Cask #3871, Bowmore Arc 54 Year Old, Karuizawa Geisha 35 Year Old, Glenfarclas 60 Year Old)
+- [ ] Contact Jonny Fowle at Jonny.Fowle@sothebys.com if assistance is needed with the auction
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** For Your Approval - Brittany Miller - Estimate for Delivery and
+ Installation at 273 Mitchell Lane
+
+- [ ] Confirm approval of Crozier Fine Arts estimate ($1,497.00) for delivery and installation of Brittany Miller artwork
+- [ ] Respond to Barbara Banchik TODAY to confirm June 5 collection date (urgent)
+- [ ] Decide whether any works need to be deinstalled or relocated at 273 Mitchell Lane to make space for the new artwork (note: this would increase the estimate)
+- [ ] Schedule/confirm delivery and installation appointment for Monday, June 15
+
+**From:** SommPicks Team <team@sommpicks.com>  
+**Subject:** Re: 🍷New This Week: 89 Haut Brion, 01 Allemand, Leflaive Jeros, Coche Rougeots, Rayas and More!
+
+- [ ] Review the attached invoice from SommPicks for the 2014 Roumier Cras order
+- [ ] Follow up with Evan Malik to confirm details of the joint 2014 Roumier Cras order
+
+**From:** Flo by Moen <no-reply@meetflo.com>  
+**Subject:** Critical Alarm - Water System Shutoff
+
+- [ ] Check the Flo by Moen app or device — a Critical Alarm has triggered a water system shutoff at your home
+- [ ] Investigate the cause of the water shutoff (possible leak or water emergency)
+- [ ] Restore water system if the shutoff was a false alarm or the issue has been resolved
+
