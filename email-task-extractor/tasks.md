@@ -2867,3 +2867,28 @@ New items are appended below with the date they were found.
 - [ ] Investigate the cause of the water shutoff (possible leak or water emergency)
 - [ ] Restore water system if the shutoff was a false alarm or the issue has been resolved
 
+
+## 2026-06-06
+
+**From:** Chloé Geary  <cg@hellergroupllc.com>  
+**Subject:** Alex Israel purchase
+
+- [ ] Review attached invoice from Pace Prints for Alex Israel 'Self Portrait (Misty Morning), 2026'
+- [ ] Review attached commission invoice for the Alex Israel work
+- [ ] Send wire payment to Pace Prints using verbally confirmed wire instructions
+- [ ] Send commission payment
+- [ ] Notify Chloé Geary once both payments have been sent
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** Two Top 2022 Meursault 1er Crus from Comtes Lafon!
+
+- [ ] Decide whether to purchase 2022 Domaine des Comtes Lafon Meursault 1er Cru Charmes at $399.99/bottle (x9) and/or Les Perrières at $699.99/bottle (x6)
+- [ ] Reply to greg@envoyerfinewines.com or call 949-861-8440 to place order if interested
+
+**From:** "Bridge Investment Group" <no-reply@icapitalnetwork.com>  
+**Subject:** ACTION REQUIRED: Capital Call Due on 22-Jun-2026 - Bridge Multifamily Fund V LP
+
+- [ ] Fund capital call for Bridge Multifamily Fund V LP (account: Michael Steinberg) by 22-Jun-2026
+- [ ] Download and review capital call documents from iCapital
+- [ ] Contact investorrelations@bridgeig.com if assistance is needed
+
