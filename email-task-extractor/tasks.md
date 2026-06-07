@@ -2892,3 +2892,29 @@ New items are appended below with the date they were found.
 - [ ] Download and review capital call documents from iCapital
 - [ ] Contact investorrelations@bridgeig.com if assistance is needed
 
+
+## 2026-06-07
+
+**From:** "Bespoke Hamptons" <portfoliomanager@bespokerealestate.com>  
+**Subject:** Open Houses | Saturday, June 6th - Sunday, June 7th
+
+- [ ] Decide whether to attend open house at 675 Pauls Lane, Bridgehampton ($12,499,000) on Saturday June 6th, 10:30–11:30AM
+- [ ] Decide whether to attend open house at 16 Gould Street, East Hampton ($6,250,000) on Saturday June 6th, 11:00AM–12:00PM
+- [ ] Decide whether to attend open house at 19 Elishas Path, Wainscott ($7,250,000) on Saturday June 6th, 12:00–1:00PM
+- [ ] Decide whether to attend open house at 15 North Neck Lane, Montauk ($13,995,000) on Saturday June 6th, 12:30–2:00PM
+- [ ] Email portfoliomanager@bespokerealestate.com to inquire about 16 Gould Street, East Hampton if interested (temporarily off-market, motivated seller)
+- [ ] Email portfoliomanager@bespokerealestate.com to inquire about 15 North Neck Lane, Montauk if interested
+
+**From:** Whoop Support <support@whoop.com>  
+**Subject:** RE: Lost whoop
+
+- [ ] Reply to WHOOP Support (Karen) with shipping address and phone number to receive replacement sensor
+
+**From:** Bailey Klink <bailey@morrellwine.com>  
+**Subject:** Invitation: Winemaker dinner in NYC & Portchester Event
+
+- [ ] Decide whether to attend the St-Julien winemaker dinner hosted by Marc Bouffard
+- [ ] Decide whether to attend the Comando G winemaker dinner
+- [ ] Reply to Bailey Klink (bailey@morrellwine.com or 914-552-1267) as soon as possible if interested in either event to secure tickets
+- [ ] Review attached event details for more information on both dinners
+
