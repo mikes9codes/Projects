@@ -2918,3 +2918,42 @@ New items are appended below with the date they were found.
 - [ ] Reply to Bailey Klink (bailey@morrellwine.com or 914-552-1267) as soon as possible if interested in either event to secure tickets
 - [ ] Review attached event details for more information on both dinners
 
+
+## 2026-06-09
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** 2020 and 2022 White Burgundy two top Vintages
+
+- [ ] Review the list of 2020 and 2022 White Burgundy wines from Acker Wines and decide which bottles to purchase
+- [ ] Contact David Hamburger at david@ackerwines.com or 212-787-1624 if interested in ordering any of the listed wines
+- [ ] Note upcoming Acker auctions: HK Auction on Sat June 6 and US Auction on Wed June 24 if interested in participating
+
+**From:** Joe Bryant <bryant@footballguys.com>  
+**Subject:** 🏆  Jahmyr Gibbs - Believe It or Not?
+
+- [ ] Consider reading the Footballguys article on Jahmyr Gibbs to inform fantasy draft decisions
+- [ ] Optionally watch the Trivia Night LIVE event on YouTube on Tuesday June 9th at 7:00 PM ET
+
+**From:** Ana Pena <ana@monicafrieddesign.com>  
+**Subject:** Re: wine room stool upholstery
+
+- [ ] Decide whether to proceed with the current leather selection or wait for Ana to find an alternative smaller-size option to reduce costs
+
+**From:** "UOVO Wine" <whseadmin@uovo.wine>  
+**Subject:** Your New Wine Has Arrived!
+
+- [ ] Review new wine arrival details in UOVO account at https://wineowners.uovo.wine
+- [ ] Verify condition note 'sSCL' on the Luciano Sandrone Cannubi Boschis Barolo DOCG 2001 (750ml) and determine if any action is needed regarding the condition
+
+**From:** Michael Steinberg <mikes@recvc.com>  
+**Subject:** To do
+
+- [ ] Handle wine task by Thursday
+- [ ] Take/manage doses (medication or similar)
+- [ ] Meet with or contact Nick on Wednesday
+- [ ] Credit Zach (issue a credit or payment to Zach)
+- [ ] Follow up with or contact Mom
+- [ ] Follow up with or contact Evan
+- [ ] Review or process wine inventory
+- [ ] Follow up with or contact Dixon
+
