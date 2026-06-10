@@ -2957,3 +2957,50 @@ New items are appended below with the date they were found.
 - [ ] Review or process wine inventory
 - [ ] Follow up with or contact Dixon
 
+
+## 2026-06-10
+
+**From:** "Sotheby's" <updates@email.sothebys.com>  
+**Subject:** Modern & Contemporary Discoveries
+
+- [ ] Bid in the 'Modern & Contemporary Discoveries' online auction before it closes on 10 June 2026 (Hong Kong)
+- [ ] Review and consider bidding in the 'Of Form and Color: Art and Design from the Emmanuel de Bayser Collection' live auction — starts in one day
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** A Selection of Late Release 2019s From Bouchard!﻿
+
+- [ ] Decide whether to purchase any 2019 Bouchard Père et Fils wines before stock sells out
+- [ ] If interested, reply to greg@envoyerfinewines.com to place order (wines are limited/pre-arrival ETA Q3 2026)
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Van Bart at Basel
+
+- [ ] Reply to Carmen indicating whether you are still interested in Van Bart at Basel
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** ⚡Comtes  Lafon: Irresistible Meursault, Montrachet, and More
+
+- [ ] Review the Comtes Lafon wine list (Excel or PDF) and consider purchasing before stock sells out
+- [ ] Decide whether to buy any of the featured wines: 2022 Lafon Montrachet ($3599), 2023 Meursault 1er Cru Charmes ($409), 2023 Meursault Clos de la Barre ($259 or $529 magnum), 2023 Volnay Clos des Chenes ($169), or 2023 Volnay Santenots-Du-Milieu ($169)
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Brittany Miller - Estimate for Delivery and
+ Installation at 273 Mitchell Lane
+
+- [ ] Review delivery-only estimates to 885 Park Avenue when Barbara sends them
+- [ ] Decide whether to have the artwork delivered to NYC, picked up, or delivered to 273 Mitchell Lane
+- [ ] Be aware that an additional $5.63 in NYC sales tax will be due if delivered to the city
+
+**From:** "WIRED" <WIRED@e-mail.condenast.com>  
+**Subject:** WIRED - Important Subscriber Status
+
+- [ ] Update WIRED subscription credit card information at wired.com/customerservice or by calling 1-800-769-4733 to avoid interruption of delivery
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: Albert Oehlen | Preview
+
+- [ ] Review Albert Oehlen works on paper preview (Carmen flagged interest)
+- [ ] View preview link or PDF: Oehlen_GMH_Berlin_Exhibition_Preview_2026
+- [ ] Note exhibition opens June 12 at Galerie Max Hetzler, Berlin
+- [ ] Follow up with Carmen about whether to pursue any of the Oehlen works on paper
+
