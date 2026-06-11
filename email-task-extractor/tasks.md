@@ -3004,3 +3004,48 @@ New items are appended below with the date they were found.
 - [ ] Note exhibition opens June 12 at Galerie Max Hetzler, Berlin
 - [ ] Follow up with Carmen about whether to pursue any of the Oehlen works on paper
 
+
+## 2026-06-11
+
+**From:** Lauren Emr <lauren@fpaol.com>  
+**Subject:** Request for final payment from FPAOL
+
+- [ ] Review and pay the invoice from FPAOL promptly: https://connect.intuit.com/portal/app/CommerceNetwork/view/scs-v1-a71e3c23c0f14c2ab18aa09576200f39e786b0c3930a42a19e649908bb112c442e6b962c8b2c484191cbd0780b81e6cb?locale=en_US&utm_source=sharelink
+
+**From:** Maria Paula Suarez <maria@marcstraus.com>  
+**Subject:** A Personal Note – Following up on Lucia Hierro
+
+- [ ] Review the attached Lucia Hierro Preview 2026 PDF (11.5 MB)
+- [ ] Decide whether to reply to Maria Paula Suarez about Lucia Hierro's available works
+- [ ] Consider whether to share details about your collection with Maria Paula
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Cotat
+
+- [ ] Decide whether to purchase any of the available Cotat wines and reply to Geoffrey with order quantities: 18x 2023 Francois Cotat Chavignol Rose @ $50, 60x 2024 Pascal Cotat Chavignol La Grande Cote @ $100, 60x 2024 Pascal Cotat Chavignol Mont Damnes @ $100, 11x 2024 Pascal Cotat Chavignol Rose @ $83.50
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Cotat
+
+- [ ] Confirm or await delivery of wines Geoffrey is bringing out east tomorrow night
+- [ ] Verify order details are correct: 12x 2024 Pascal Cotat Chavignol Mont Damnes at $100 each and 6x 2024 Pascal Cotat Chavignol Rose at $83.50 each
+- [ ] Note: only 11 bottles of 2024 Pascal Cotat Chavignol Rose are available but 6 were ordered - no issue there
+- [ ] Listen to Geoffrey's Spain trip details when he delivers the wines
+- [ ] Consider researching Madrid restaurants/wines for daughter's potential trip next summer
+
+**From:** Lauren Emr <lauren@fpaol.com>  
+**Subject:** Re: Request for final payment from FPAOL
+
+- [ ] Review and sign the attached ST124 tax exempt form from Lauren Emr (FPAOL) to avoid being charged sales tax on the invoice
+
+**From:** Lauren Emr <lauren@fpaol.com>  
+**Subject:** Re: Request for final payment from FPAOL
+
+- [ ] Review the attached document(s) forwarded by Lauren Emr regarding the final payment request from FPAOL
+- [ ] Determine if a response or action is needed regarding the final payment to FPAOL
+
+**From:** Lauren Emr <lauren@fpaol.com>  
+**Subject:** Re: Request for final payment from FPAOL
+
+- [ ] Review and pay the invoice from FPAOL sent by Lauren Emr via the provided Intuit link
+
