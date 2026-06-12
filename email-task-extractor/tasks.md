@@ -3049,3 +3049,50 @@ New items are appended below with the date they were found.
 
 - [ ] Review and pay the invoice from FPAOL sent by Lauren Emr via the provided Intuit link
 
+
+## 2026-06-12
+
+**From:** "Manhattan Wine Company" <shop@mwcwine.com>  
+**Subject:** 🧊Chilled Red & Dark Hued Rosé🍷
+
+- [ ] Decide whether to purchase 6 wines (mix or same) to receive 10% discount before Saturday, June 13th at 11:59 PM
+
+**From:** Daniel Posner <daniel@grapesthewineco.com>  
+**Subject:** A Great Meursault of Many Names!
+
+- [ ] Decide whether to purchase any of the Douhairet Porcheret Meursault wines (2022 Charmes $139, 2023 Charmes $169, 2023 Goutte D'Or $149, 2023 Perrieres $249)
+- [ ] If interested, reply to Daniel Posner or click wine links to secure allocation before it sells out
+
+**From:** "RANGE ROVER" <rangerover@us.email-landrover.com>  
+**Subject:** Your complimentary Range Rover Experience
+
+- [ ] Book complimentary two-hour off-road Experience at a Land Rover Experience Center (California, North Carolina, or Vermont) by contacting them via email or phone
+- [ ] Have VIN ready when contacting the Experience Center to make a reservation
+- [ ] Decide whether to upgrade to a half-day or full-day Experience for an additional fee
+
+**From:** "World of Hyatt" <worldofhyatt@loyalty.hyatt.com>  
+**Subject:** You Have Enough Points for Vegas—Last Chance to Get Points Back
+
+- [ ] Register for World of Hyatt 20% Bonus Points promotion for Las Vegas stays by July 31
+- [ ] Book and complete Las Vegas Hyatt stay by July 31, 2026 to earn 20% points back on redemptions
+
+**From:** Ana Pena <ana@monicafrieddesign.com>  
+**Subject:** Re: Re office ottoman
+
+- [ ] Decide whether to approve adding a second matching ottoman as proposed by Ana
+- [ ] Reply to Ana confirming whether to proceed with placing the order for the two ottomans
+- [ ] Review the image of the proposed second ottoman layout included in Ana's email
+- [ ] Confirm oak legs are acceptable for the ottomans
+
+**From:** Monica Fried <monica@monicafrieddesign.com>  
+**Subject:** Re: Re office ottoman
+
+- [ ] Reply to Monica (and/or Liz) with a decision: either approve getting a second matching ottoman to fill the space or suggest an alternative solution for the office ottoman
+
+**From:** Ana Pena <ana@monicafrieddesign.com>  
+**Subject:** Re: wine room stool upholstery
+
+- [ ] Review the revised quote attachment from Ana for the wine room stool upholstery
+- [ ] Decide whether to proceed with the current leather hide (~$800), wait for suede pricing and samples, or explore other color alternatives with smaller minimums
+- [ ] Reply to Ana with how you would like to proceed
+
