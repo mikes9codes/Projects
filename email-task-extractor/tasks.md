@@ -3096,3 +3096,24 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to proceed with the current leather hide (~$800), wait for suede pricing and samples, or explore other color alternatives with smaller minimums
 - [ ] Reply to Ana with how you would like to proceed
 
+
+## 2026-06-13
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** Emailing: WW_OEI_STEINBERGM_106688
+
+- [ ] Reply to Geoffrey Troy with a convenient time for drop-off
+- [ ] Review attached document WW_OEI_STEINBERGM_106688
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Emailing: WW_OEI_STEINBERGM_106688
+
+- [ ] Be available at 170 Wainscott Harbor Road for wine delivery today
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** 🚀Friday  Heavyweights: Emmanuel Rouget, Coche, PYCM, Ente, Monfortino!
+
+- [ ] Review the Friday Heavyweights wine offer and decide whether to purchase any bottles
+- [ ] Use code ROUGET at checkout if purchasing 6+ wines to get an extra 3% off
+- [ ] Visit SommPicks website to see the full offer including Coche, Armand Rousseau, Arnaud Ente, PYCM, and 2019 Monfortino Jeroboams
+
