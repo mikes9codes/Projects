@@ -3117,3 +3117,23 @@ New items are appended below with the date they were found.
 - [ ] Use code ROUGET at checkout if purchasing 6+ wines to get an extra 3% off
 - [ ] Visit SommPicks website to see the full offer including Coche, Armand Rousseau, Arnaud Ente, PYCM, and 2019 Monfortino Jeroboams
 
+
+## 2026-06-14
+
+**From:** Rocky <rocky@directdudomaine.com>  
+**Subject:** Domaine Génot-Boulanger: An Inaugural Offer, as Guillaume Visits the States
+
+- [ ] Review the Domaine Génot-Boulanger offer PDF
+- [ ] Decide whether to purchase any wines from the inaugural allocation
+- [ ] Consider attending the dinner with Guillaume Lavollée in Southampton on June 19th
+- [ ] Reply to Rocky at rocky@directdudomaine.com to place an order if interested
+- [ ] Monitor tariff situation before deciding on shipping timing
+
+**From:** "Kimberly Cavoores" <kcavoores@mwcwine.com>  
+**Subject:** A Private Cellar!
+
+- [ ] Review the private cellar wine offerings from MWC Wine
+- [ ] Decide whether to purchase any wines (first-come, first-served basis)
+- [ ] If interested, act quickly and use the product links to purchase: 2015 Alain Graillot Saint-Joseph (2 bottles @ $70/btl) and/or 2016 Alain Graillot Saint-Joseph (6 bottles @ $60/btl)
+- [ ] Contact shop@mwcwine.com with any questions about the offerings
+
