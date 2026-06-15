@@ -3137,3 +3137,30 @@ New items are appended below with the date they were found.
 - [ ] If interested, act quickly and use the product links to purchase: 2015 Alain Graillot Saint-Joseph (2 bottles @ $70/btl) and/or 2016 Alain Graillot Saint-Joseph (6 bottles @ $60/btl)
 - [ ] Contact shop@mwcwine.com with any questions about the offerings
 
+
+## 2026-06-15
+
+**From:** donotreply@passportinc.com  
+**Subject:** Verify your email address
+
+- [ ] Verify email address for Passport account by clicking the verification link
+
+**From:** noreply-ciam@jaguarlandrover.com  
+**Subject:** Your Land Rover account needs a new password
+
+- [ ] Reset Land Rover account password
+
+**From:** Gozney <inquiries@gozney.com>  
+**Subject:** Hyper limited run launches tomorrow
+
+- [ ] Sign up for Gozney + Tonester limited drop at us.gozney.com/pages/tonester before drops begin
+- [ ] Decide whether to purchase Arc Lite 'High at the Gala' on June 15 at 9am MT
+- [ ] Decide whether to purchase Tread 'Car Coat' on June 16 at 9am MT
+- [ ] Decide whether to purchase Arc XL 'London House' on June 17 at 9am MT
+- [ ] Decide whether to purchase Dome XL (Gen 2) 'Black Orange' on June 18 at 9am MT
+
+**From:** Morrell Wine <customerservice@morrellwine.com>  
+**Subject:** 100pt Comando G Just Arrived
+
+- [ ] Consider reserving a seat at the Comando G winemaker dinner at Peasant by Marc Forgione before it sells out (https://morrellwine.com/events)
+
