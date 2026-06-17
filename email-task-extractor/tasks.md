@@ -3164,3 +3164,33 @@ New items are appended below with the date they were found.
 
 - [ ] Consider reserving a seat at the Comando G winemaker dinner at Peasant by Marc Forgione before it sells out (https://morrellwine.com/events)
 
+
+## 2026-06-17
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Account
+
+- [ ] Review Geoffrey Troy's account breakdown ($10,990 e-auction + $81,150 live auction = $92,140 total) and decide on next steps regarding the 70-75% proceeds request
+- [ ] Reply to Geoffrey Troy confirming or adjusting the requested 70-75% payout from Zachy's proceeds
+
+**From:** Brett Parker <bparker0272@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Reply if flying in on Sept 29th so Jordan can adjust the rooms
+- [ ] Book flight to Milwaukee (Delta 8:35am LGA to Milwaukee on Sept 30th suggested)
+- [ ] Consider recommending a moving company for Brett (Jersey to Long Island)
+
+**From:** Jon Kono <jon@colonialtagandlabel.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Reply to Brett about whether you can recommend a moving company from Jersey to Long Island
+- [ ] Confirm with Jordan whether you plan to fly in on September 29th so rooms can be adjusted
+- [ ] Book flight to Milwaukee for the golf trip (consider the 8:35 Delta flight from LGA on Sept 30th)
+- [ ] Check on updated tee times for Saturday to determine return flight options
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Account
+
+- [ ] Decide whether to accept Geoffrey's recommendation of $20K (likely as a payment/settlement amount)
+- [ ] Reply to Geoffrey Troy regarding the account and next steps
+
