@@ -3194,3 +3194,13 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to accept Geoffrey's recommendation of $20K (likely as a payment/settlement amount)
 - [ ] Reply to Geoffrey Troy regarding the account and next steps
 
+
+## 2026-06-18
+
+**From:** Julien's Auctions <info@juliensauctions.com>  
+**Subject:** Announcing | On Air: A Celebration of Ann Miller
+
+- [ ] Review Terms & Conditions for the June 29 Ann Miller auction
+- [ ] Request condition reports from Julien's Auctions for items of interest
+- [ ] Register/prepare to bid in the June 29 auction if interested
+
