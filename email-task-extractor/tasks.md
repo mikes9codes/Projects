@@ -3204,3 +3204,11 @@ New items are appended below with the date they were found.
 - [ ] Request condition reports from Julien's Auctions for items of interest
 - [ ] Register/prepare to bid in the June 29 auction if interested
 
+
+## 2026-06-19
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Re: Estimate 26-5301 from C.E. King & Sons, Inc.
+
+- [ ] Check if Elina sent new planters that are in stock and forward them to Elizabeth Steinberg
+
