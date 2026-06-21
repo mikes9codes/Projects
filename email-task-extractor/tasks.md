@@ -3212,3 +3212,13 @@ New items are appended below with the date they were found.
 
 - [ ] Check if Elina sent new planters that are in stock and forward them to Elizabeth Steinberg
 
+
+## 2026-06-21
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** Two Standout Grand Crus from 2018
+
+- [ ] Decide whether to purchase 2018 Drouhin-Laroze Chambertin Clos de Bèze ($229.95/bottle or $219.95 with 6+)
+- [ ] Decide whether to purchase 2018 Drouhin-Laroze Bonnes Mares ($229.95/bottle or $219.95 with 6+)
+- [ ] Reply to gerard@tcwc.ccsend.com or order online if interested in purchasing
+
