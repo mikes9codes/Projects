@@ -3222,3 +3222,18 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase 2018 Drouhin-Laroze Bonnes Mares ($229.95/bottle or $219.95 with 6+)
 - [ ] Reply to gerard@tcwc.ccsend.com or order online if interested in purchasing
 
+
+## 2026-06-22
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** ​"A Cabernet to Melt a Pinot Noir Addict’s Heart"
+
+- [ ] Decide whether to purchase 2020 Moss Wood Cabernet Sauvignon ($99.95/bottle or $94.95/bottle for a 6-pack) before it sells out
+- [ ] Reply to email or visit TCWC website to place order if interested
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Review attached confirmed inventory spreadsheet from Stu
+- [ ] Decide whether to return or discard the white Burgundy and CdP bottles that were held due to poor condition
+
