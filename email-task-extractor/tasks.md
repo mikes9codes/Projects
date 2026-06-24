@@ -3237,3 +3237,119 @@ New items are appended below with the date they were found.
 - [ ] Review attached confirmed inventory spreadsheet from Stu
 - [ ] Decide whether to return or discard the white Burgundy and CdP bottles that were held due to poor condition
 
+
+## 2026-06-24
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** FW: Account
+
+- [ ] Confirm or respond to Geoffrey's plan: $20,000 store credit + remaining balance transferred to MS's checking account
+- [ ] Verify the total auction proceeds figures ($10,990 e-auction + $81,150 live auction = $92,140) and confirm accuracy
+- [ ] Provide checking account details to Geoffrey if not already done (Geoffrey says he has it on his phone)
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Brittany Miller - Estimate for Delivery and
+ Installation at 273 Mitchell Lane
+
+- [ ] Decide between Crozier Fine Arts ($1,046, available Wednesday June 24) or Maquette ($1,107, available Tuesday June 23) for delivery of the Brittany Miller piece to 885 Park Avenue and reply to Barbara Banchik with the decision
+
+**From:** Elina Gabitova <gabitovaelina93@gmail.com>  
+**Subject:** Re: 2026 Steinberg residence updates
+
+- [ ] Review and process payment for Elina Gabitova's May 2026 invoice
+- [ ] Reply to Elina confirming payment status or if any additional information is needed
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Review the attached confirmed inventory spreadsheet from Stu
+- [ ] Decide what to do with the returned white burg and CdP bottles that didn't pass inspection (return or discard)
+- [ ] Wait until after the auction to consolidate shipment of returned/unsold bottles, per Stu's suggestion — confirm this plan if needed
+- [ ] Follow up with Stu to find out the auction date/commencement schedule
+
+**From:** "Kimberly Cavoores" <shop@mwcwine.com>  
+**Subject:** The Evolution of Domaine Génot-Boulanger: 2023 Releases
+
+- [ ] Email shop@mwcwine.com with wine requests and destination to order 2023 Domaine Génot-Boulanger wines (limited quantities available)
+
+**From:** The Particular Cellar Co. <info@particularcellar.com>  
+**Subject:** Domaine Pierre Vincent 2024 Vintage Offering | PCC | July 12, 2026
+ Deadline
+
+- [ ] Review attached Domaine Pierre Vincent 2024 Vintage Offering document (quantities and pricing)
+- [ ] Decide whether to purchase any wines from the Domaine Pierre Vincent 2024 offering
+- [ ] If ordering, reply to info@particularcellar.com with desired items and quantities by July 12, 2026
+- [ ] Consider placing a balanced request across the wine range to improve allocation chances on limited items
+- [ ] Optionally, fill out the fillable PDF order form as an alternative to email reply
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: FW: Account
+
+- [ ] Confirm with Jane Troy that the wire transfer was completed successfully
+- [ ] Verify the $20,000 store credit and the remaining balance transfer to his checking account were processed correctly
+- [ ] Decide on 2024 white wine allocations — Geoffrey has Thierry Pillot and Paul Pillot available, respond with interest or pass
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: FW: Account
+
+- [ ] Decide whether to accept the 10% discount offer from Geoffrey Troy
+- [ ] Confirm whether the transfer Jane did went through correctly
+- [ ] Decide how much of the Thierry Pillot and Paul Pillot 2024 allocation to purchase given the higher prices
+- [ ] Verify that the account balance and wire transfer details are correct (the $20,000 store credit and remainder to checking account)
+
+**From:** Patricia Smith <patriciasmith@hilbgroup.com>  
+**Subject:** Michael & Elizabeth Steinberg - 273 Mitchells LLC Chubb policy
+ renewal
+
+- [ ] Review attached Chubb renewal quotes for 273 Mitchells LLC policy
+- [ ] Decide which quote option to proceed with (deductible amount and contents limit)
+- [ ] Reply to Patricia Smith advising whether to move forward with the rewrite and which deductible/contents limit option to select
+- [ ] Note policy renewal deadline of 7/31/26
+
+**From:** Barbara Banchik <bb@hellergroupllc.com>  
+**Subject:** Re: For Your Approval - Brittany Miller - Estimate for Delivery and
+ Installation at 273 Mitchell Lane
+
+- [ ] Reply to Barbara with a day next week to pick up the packed Miller from the gallery
+
+**From:** Samuel Schiff <sammy@ipfall.com>  
+**Subject:** RE: Steinberg Doctors
+
+- [ ] Review the annotated doctor list attached to Samuel Schiff's email
+- [ ] Decide which doctors to use based on UnitedHealthcare (U), Anthem/BCBS (A), or out-of-network (X) status
+- [ ] Discuss dental plan and out-of-network dental benefits separately with Samuel Schiff
+
+**From:** Patricia Smith <patriciasmith@hilbgroup.com>  
+**Subject:** RE: Michael & Elizabeth Steinberg - 273 Mitchells LLC Chubb policy
+ renewal
+
+- [ ] Decide on personal property limit for 273 Mitchells LLC Chubb policy renewal
+- [ ] Decide on deductible for 273 Mitchells LLC Chubb policy renewal
+- [ ] Reply to Patricia Smith with chosen personal property limit and deductible
+
+**From:** Patricia Smith <patriciasmith@hilbgroup.com>  
+**Subject:** RE: Michael & Elizabeth Steinberg - 273 Mitchells LLC Chubb policy
+ renewal
+
+- [ ] Reply to Patricia Smith with desired contents/personal property limit for the 273 Mitchells LLC Chubb policy renewal
+
+**From:** Patricia Smith <patriciasmith@hilbgroup.com>  
+**Subject:** RE: Michael & Elizabeth Steinberg - 273 Mitchells LLC Chubb policy
+ renewal
+
+- [ ] Review the contents limit coverage details provided by Patricia (covers furniture, clothing, shoes, TV, pots, pans, dishes, etc.) and confirm if the current limit is adequate
+- [ ] Verify that the separately scheduled art items are properly listed and covered under the Chubb policy renewal
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Domaine Dujac collection featuring some top Premier Cru's
+
+- [ ] Review Domaine Dujac wine offerings and decide whether to purchase any bottles
+- [ ] Contact David Hamburger at david@ackerwines.com or 212-787-1624 if interested in placing an order
+- [ ] Note deadline: US Auction is Friday June 26 if interested in bidding
+
+**From:** Ana Pena <ana@monicafrieddesign.com>  
+**Subject:** Re: Re office ottoman
+
+- [ ] Review material samples arriving Thursday at 273 Mitchell Lane
+- [ ] Decide on leather material selection for office ottoman as soon as possible
+
