@@ -3353,3 +3353,40 @@ New items are appended below with the date they were found.
 - [ ] Review material samples arriving Thursday at 273 Mitchell Lane
 - [ ] Decide on leather material selection for office ottoman as soon as possible
 
+
+## 2026-06-25
+
+**From:** "Upper East Orthopaedics, PC" <no-reply@eclinicalmail.com>  
+**Subject:** Portal login information from your doctor's office
+
+- [ ] Set up patient portal account at Upper East Orthopaedics using username MikeS9@verizon.net
+
+**From:** "Oggero, Walter" <Walter.Oggero@sothebys.com>  
+**Subject:** Final Reminder and Bid Suggestions | Finest & Rarest Wines |
+ Collecting the Extraordinary
+
+- [ ] Review the Sotheby's 'Finest & Rarest Wines | Collecting the Extraordinary' sale catalog before the auction closes
+- [ ] Decide whether to bid on Lot 10 - Romanée St. Vivant 2020 Domaine de la Romanée-Conti (3 BT)
+- [ ] Decide whether to bid on Lot 76 - Echézeaux 2020 Domaine Duroché (6 BT)
+- [ ] Decide whether to bid on Lot 263 - Clos de la Roche 1996 Georges Lignier (6 BT)
+- [ ] Decide whether to bid on Lot 280 - Château Margaux 1986 (2 BT)
+- [ ] Decide whether to bid on Lot 390 - Château Haut Bailly 2015 (1 IMP)
+- [ ] Decide whether to bid on Lot 438 - Côte Rôtie, La Belle Hélène 2009 Michel et Stéphane Ogier (6 BT)
+- [ ] Decide whether to bid on Lot 440 - Château de Beaucastel, Hommage à Jacques Perrin 2009 (3 BT)
+- [ ] Decide whether to bid on Lot 521 - Dunn Vineyards, Cabernet Sauvignon 2011 (6 BT)
+- [ ] Decide whether to bid on Lot 564 - Taittinger, Comtes de Champagne, Blanc de Blancs 'Vertical' (5 BT)
+- [ ] Place any bids before the auction deadline (final day of sale)
+
+**From:** Independent VIP <vip@independenthq.com>  
+**Subject:** VIP Accreditation
+
+- [ ] Complete VIP Accreditation Form at https://50268106.hs-sites.com/vipregistation to register for Independent 20th Century preview invitations
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Fwd: 885 PARK AVENUE - 8A - Kitchen unit Diagnostic
+
+- [ ] Review LTB Mechanical's diagnostic findings on the kitchen unit compressor at 885 Park Ave 8A
+- [ ] Decide on next steps: whether to repair the existing system (reclaim refrigerant, replace expansion valve and filter drier) or replace the entire system with a new R-454B split system
+- [ ] Follow up with Elizabeth Steinberg to discuss the situation and determine preferred course of action
+- [ ] Request proposals from LTB Mechanical (Spencer Casey) for both repair and full system replacement options
+
