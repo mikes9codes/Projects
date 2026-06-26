@@ -3390,3 +3390,43 @@ New items are appended below with the date they were found.
 - [ ] Follow up with Elizabeth Steinberg to discuss the situation and determine preferred course of action
 - [ ] Request proposals from LTB Mechanical (Spencer Casey) for both repair and full system replacement options
 
+
+## 2026-06-26
+
+**From:** John Kapon <jkapon@ackerwines.com>  
+**Subject:** Summer Restaurant Hopping
+
+- [ ] Review auction lots 1-294 and 305-809 from Acker Wines before the 9AM ET Friday deadline
+- [ ] Decide whether to bid in tomorrow's Acker Wines auction featuring the Nobiskällaren (Royal Opera House Stockholm) and European restaurant collections
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Matt Saunders
+
+- [ ] Review Matt Saunders show at Marian Goodman and send feedback to Carmen
+- [ ] Await and review previews of Almine shows from Carmen, then provide feedback
+
+**From:** Amanda Opromolla <aopromolla@hdhauctions.com>  
+**Subject:** HDH Summer Auctions!
+
+- [ ] Browse the HDH June Finest and Rarest auction currently in progress at bid.hdhauctions.com
+- [ ] Decide whether to consign wines for the HDH August Fine and Rare sale
+
+**From:** "Terra Management" <donotreply@clickpay.com>  
+**Subject:** Brown Harris Stevens Management - Electronic Statement Available
+
+- [ ] Review electronic statement from Brown Harris Stevens Management via ClickPay
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** A Nice Selection of Ermitage and Côte-Rôtie from Chapoutier!
+
+- [ ] Decide whether to purchase any Chapoutier wines from Envoyer Fine Wines and reply to greg@envoyerfinewines.com to order
+
+**From:** "Price, Forrest" <Forrest.Price@sothebys.com>  
+**Subject:** Sotheby's Spirits Auction Closing June 26 in New York
+
+- [ ] Review Sotheby's Whisky & Whiskey auction lots before closing on June 26 at 11:00 AM EDT
+- [ ] Consider placing bids on undervalued Macallan lots currently below recent hammer prices
+- [ ] Review highlighted lots: Pappy Van Winkle 15 Year Old Single Barrel #002 (Lot 325) and Macallan 12 Year Old Sherry Oak 9 Bottles (Lot 59)
+- [ ] Check out Karuizawa 'The Last Masterpiece' Cask #6017 50 Year Old duo listing
+- [ ] Review Springbank lots which Forrest flags as being overlooked
+
