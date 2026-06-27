@@ -3430,3 +3430,19 @@ New items are appended below with the date they were found.
 - [ ] Check out Karuizawa 'The Last Masterpiece' Cask #6017 50 Year Old duo listing
 - [ ] Review Springbank lots which Forrest flags as being overlooked
 
+
+## 2026-06-27
+
+**From:** Order Update <orderupdate@ackerwines.com>  
+**Subject:** Acker Auctions DE - Congratulations - Winning Bids Are Attached! -
+ Invoice #265DE - 6/26/2026
+
+- [ ] Review attached winning bid receipt and comprehensive bid result sheet
+- [ ] Choose payment method: wire transfer, check, ACH via Plaid, or credit card (note: credit card incurs 2-3% fee)
+- [ ] Submit payment to Acker Auction DE LLC within 30 days of 6/26/2026 to avoid interest
+- [ ] Decide within 5 days whether to arrange pickup or overseas delivery, otherwise lots transfer to Acker Storage and storage fees apply
+- [ ] If shipping domestically, contact Acker Storage logistics team at Shipping@AckerStorage.com to arrange shipment
+- [ ] If using ACH payment, log into Acker account and add bank information under 'Payment Methods'
+- [ ] Review Acker Storage agreement at https://www.ackerstorage.com/StorageAgreement if storage will be needed
+- [ ] Contact Kristin Buma at Kristin@AckerWines.com or 754-331-169 (Mon-Fri 9am-4pm) with any questions
+
