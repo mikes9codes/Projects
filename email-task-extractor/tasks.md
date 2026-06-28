@@ -3446,3 +3446,19 @@ New items are appended below with the date they were found.
 - [ ] Review Acker Storage agreement at https://www.ackerstorage.com/StorageAgreement if storage will be needed
 - [ ] Contact Kristin Buma at Kristin@AckerWines.com or 754-331-169 (Mon-Fri 9am-4pm) with any questions
 
+
+## 2026-06-28
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** 2012 Salon: Ripping Deal + New Drop: Ente, Lafon, Raveneau, Keller,
+ Rougeard
+
+- [ ] Decide whether to purchase 2012 Salon Champagne at $1025/bottle (6+ bottles) before the 30-bottle parcel sells out
+- [ ] Review new wine arrivals (Ente, Lafon, Keller, Coche, Rougeard, Monfortino, etc.) on SommPicks and purchase any desired bottles before they sell out
+
+**From:** Delta Air Lines <DeltaAirLines@g.delta.com>  
+**Subject:** Important Update: Flight Schedule Change
+
+- [ ] Review flight schedule change from Delta Air Lines
+- [ ] Decide whether to update flight itinerary on Delta's website
+
