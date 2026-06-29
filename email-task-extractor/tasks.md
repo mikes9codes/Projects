@@ -3462,3 +3462,28 @@ New items are appended below with the date they were found.
 - [ ] Review flight schedule change from Delta Air Lines
 - [ ] Decide whether to update flight itinerary on Delta's website
 
+
+## 2026-06-29
+
+**From:** Fubo <stream@newsletters.fubo.tv>  
+**Subject:** The knockout stages begin  🔥
+
+- [ ] Consider redeeming the $70 Fubo offer for the Pro Plan to watch the Round of 32 (South Africa vs. Canada)
+
+**From:** Joe Bryant <bryant@footballguys.com>  
+**Subject:** 🏆  This RB Just Got $64 Million. We're Still Out.
+
+- [ ] Read the De'Von Achane player spotlight article before next draft
+- [ ] Consider pre-ordering the 2026 Footballguys Draft Guide to get discount and free shipping before it sells out
+
+**From:** Todd Deutsch <todd.deutsch@gmail.com>  
+**Subject:** Tether
+
+- [ ] Connect with Jim (colleague of Todd) to chat about Tether
+
+**From:** "Gagne, Robert (DFS)" <Robert.Gagne@dfs.ny.gov>  
+**Subject:** RE: 2025-L-044279
+
+- [ ] Wait for DFS to follow up regarding the agency determination on complaint 2025-L-044279
+- [ ] If no response is received soon, consider sending another follow-up to Robert Gagne at Robert.Gagne@dfs.ny.gov or calling 646-899-0348
+
