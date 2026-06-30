@@ -3487,3 +3487,37 @@ New items are appended below with the date they were found.
 - [ ] Wait for DFS to follow up regarding the agency determination on complaint 2025-L-044279
 - [ ] If no response is received soon, consider sending another follow-up to Robert Gagne at Robert.Gagne@dfs.ny.gov or calling 646-899-0348
 
+
+## 2026-06-30
+
+**From:** "Sotheby's" <updates@email.sothebys.com>  
+**Subject:** Musique & Vin au Clos Vougeot
+
+- [ ] Decide whether to bid in the 'Musique & Vin au Clos Vougeot' online auction before it closes on 30 June 2026
+- [ ] Decide whether to bid in the 'Old Master & 19th Century Paintings and Sculpture Evening Auction' live auction on 1 July 2026 in London (2 days away)
+
+**From:** Nicholas Kapon <nicholas@ackerwines.com>  
+**Subject:** Coche Dury! King of Meursault
+
+- [ ] Reply to nicholas@ackerwines.com if interested in purchasing any Coche-Dury wines (first come first served)
+- [ ] Decide whether to purchase any of the available in-stock wines (1995 Corton Charlemagne, 2012 Corton Charlemagne, 2013 Corton Charlemagne, 2009 Meursault, 2012 Meursault, 2013 Meursault)
+- [ ] Decide whether to purchase any pre-arrival wines arriving in approximately two months (2002, 2007, 2010, 2016 Corton Charlemagne; 2001, 2005, 2007 Meursault)
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** Domaine Leflavie 2019-2023
+
+- [ ] Review Domaine Leflaive bottle and magnum inventory list from Geoffrey Troy at NY Wine Warehouse
+- [ ] Decide whether to purchase any Domaine Leflaive wines before stock sells out (limited quantities available, especially 2019/2020 vintages)
+- [ ] Reply to Geoffrey Troy at gtroy@nywines.com or call 718-784-8776 to place order if interested
+
+**From:** Todd Deutsch <todd.deutsch@gmail.com>  
+**Subject:** Steinberg /cantor
+
+- [ ] Reply to Todd about grabbing dinner in the Hamptons
+- [ ] Schedule dinner with Todd, Pascal (Co-CEO, Cantor), and Eric (Senior Partner)
+
+**From:** Sandra Matos <smatos-wong@hilbgroup.com>  
+**Subject:** Windshield claim-  NEED INFO TO REPORT LOSS TO CARRIER
+
+- [ ] Reply to Sandra Matos (smatos-wong@hilbgroup.com) with windshield claim details: vehicle involved, date of damage, facts of the loss, description of damage, and name & phone number of contact person Chubb can call
+
