@@ -3521,3 +3521,41 @@ New items are appended below with the date they were found.
 
 - [ ] Reply to Sandra Matos (smatos-wong@hilbgroup.com) with windshield claim details: vehicle involved, date of damage, facts of the loss, description of damage, and name & phone number of contact person Chubb can call
 
+
+## 2026-07-01
+
+**From:** "Lastres, Eric" <Eric.Lastres@cantor.com>  
+**Subject:** RE: Steinberg /cantor
+
+- [ ] Reply to Eric Lastres to acknowledge his introduction and express interest in connecting
+- [ ] Schedule dinner with Todd Deutsch, Pascal Bandelier, and Eric Lastres in the Hamptons this summer
+
+**From:** Wine Cellarage <gdec@winecellarage.com>  
+**Subject:** Rare Gems Offer: Dom  Pérignon,  Roumier, Giacosa, Jamet & More
+
+- [ ] Decide whether to purchase any wines from Wine Cellarage's Rare Gems offer (limited quantities, some down to single bottles)
+- [ ] Reply to gdec@winecellarage.com to place order if interested
+- [ ] Request photos of bottles if desired before ordering
+
+**From:** <Sabrina.Hall@morganstanleypwm.com>  
+**Subject:** RE: [EXTERNAL] Wire Request
+
+- [ ] Call Sabrina Hall at Morgan Stanley (212) 893-7609 to approve the wire transfer of $20,002.01 to Hamptons View Landscaping and free up the necessary cash
+
+**From:** Google <no-reply@accounts.google.com>  
+**Subject:** Your Google Account is being deleted
+
+- [ ] Decide whether to keep or delete Google Account mikes9@verizon.net
+- [ ] If keeping the account, visit Google account recovery page to restore access before January 1, 2027
+
+**From:** Christine Cuppett <ccuppett@cgps.org>  
+**Subject:** Zach’s Final Transcript
+
+- [ ] Review Zach's attached final transcript
+- [ ] Contact Ms. Cuppett with any questions before 7/1 when transcripts are submitted to colleges
+
+**From:** "Citi Priority" <CitiPriorityService@info6.citi.com>  
+**Subject:** Tier Acceleration expires soon
+
+- [ ] Review Citi Priority Tier Acceleration offer before it expires by visiting the provided link
+
