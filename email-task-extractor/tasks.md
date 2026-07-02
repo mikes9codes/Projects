@@ -3559,3 +3559,41 @@ New items are appended below with the date they were found.
 
 - [ ] Review Citi Priority Tier Acceleration offer before it expires by visiting the provided link
 
+
+## 2026-07-02
+
+**From:** Danielle Carey <danielle@ackerstorage.com>  
+**Subject:** Re: Delivery request
+
+- [ ] Reply to Danielle confirming whether the July 15th LI delivery works for him
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Re: 885 PARK AVENUE - 8A - Kitchen unit Diagnostic
+
+- [ ] Review the email thread to understand the kitchen unit diagnostic situation and Spencer's recommendation to replace the compressor
+- [ ] Participate in a scheduled call with Spencer Casey (LTB Mechanical Corp., 646-672-5190) to discuss the compressor replacement recommendation before moving forward
+
+**From:** Spencer Casey <scasey@ltbny.com>  
+**Subject:** Re: 885 PARK AVENUE - 8A - Kitchen unit Diagnostic
+
+- [ ] Decide whether to schedule a call with Spencer Casey (LTB Mechanical) now, tomorrow at 10AM, or after the holiday to discuss the kitchen AC unit compressor issue and replacement recommendation
+
+**From:** Spencer Casey <scasey@ltbny.com>  
+**Subject:** Re: 885 PARK AVENUE - 8A - Kitchen unit Diagnostic
+
+- [ ] Confirm mobile number for Spencer Casey's call (clarify if 516-578-0989 is correct)
+- [ ] Be available for call with Spencer Casey tomorrow (July 2) at 10 AM
+- [ ] Decide whether to replace the kitchen AC compressor or replace the entire split system after speaking with Spencer
+
+**From:** Spencer Casey <scasey@ltbny.com>  
+**Subject:** Re: 885 PARK AVENUE - 8A - Kitchen unit Diagnostic
+
+- [ ] Be available for a call with Spencer Casey (LTB Mechanical Corp.) on July 2, 2026 at 10 AM at 516-316-1023
+- [ ] Make a decision on whether to approve the compressor replacement for the kitchen unit at 885 Park Avenue 8A after the call with Spencer
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** Domaine Ramonet
+
+- [ ] Decide whether to purchase Domaine Ramonet Montrachet (2018, 2019, 2020, 2022, or 2023) at $3,600/bottle
+- [ ] Reply to Geoffrey Troy at gtroy@nywines.com with purchase decision or request for more information
+
