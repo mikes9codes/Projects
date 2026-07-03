@@ -3597,3 +3597,33 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase Domaine Ramonet Montrachet (2018, 2019, 2020, 2022, or 2023) at $3,600/bottle
 - [ ] Reply to Geoffrey Troy at gtroy@nywines.com with purchase decision or request for more information
 
+
+## 2026-07-03
+
+**From:** hamptonsviewlandscaping@gmail.com  
+**Subject:** Landscaping Invoice
+
+- [ ] Review attached landscaping invoice and note payment due date
+- [ ] Reply to hamptonsviewlandscaping@gmail.com to confirm receipt of invoice
+- [ ] Pay invoice by the due date listed on the invoice
+
+**From:** hamptonsviewlandscaping@gmail.com  
+**Subject:** Landscaping Invoice
+
+- [ ] Review attached landscaping invoice and payment due date
+- [ ] Reply to hamptonsviewlandscaping@gmail.com to confirm receipt of invoice
+- [ ] Pay invoice by the due date listed on the invoice
+
+**From:** Rebecca and David Kekst <paperlesspost@paperlesspost.com>  
+**Subject:** An Evening With the New Chancellor of JTS
+
+- [ ] RSVP to Rebecca and David Kekst's evening with JTS Chancellor Rabbi Mike Uram (Wed. Jul. 29, 7:30pm PDT, Beverly Hills, CA)
+- [ ] Contact Randy Michaels at ramichaels@jtsa.edu with any questions about the event
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** ⚡Guffens-Heynen:  Massive New Drop, Large Formats, and 100-Point Petits-Croux
+
+- [ ] Review the Guffens-Heynen wine list (available in Excel or PDF) and consider purchasing
+- [ ] Decide whether to purchase the top pick: 2023 Guffens-Heynen Macon-Pierreclos Tri de Chavigne at $129 (95 WA)
+- [ ] Browse the full Guffens-Heynen lineup on SommPicks before inventory sells out
+
