@@ -3627,3 +3627,12 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase the top pick: 2023 Guffens-Heynen Macon-Pierreclos Tri de Chavigne at $129 (95 WA)
 - [ ] Browse the full Guffens-Heynen lineup on SommPicks before inventory sells out
 
+
+## 2026-07-04
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: Domaine Ramonet
+
+- [ ] Decide whether to place an order for Domaine Ramonet Montrachet (2018, 2019, 2020, 2022, or 2023) at $3,600 per bottle
+- [ ] Reply to Geoffrey Troy with desired quantity and vintages if ordering
+
