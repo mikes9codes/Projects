@@ -3636,3 +3636,27 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to place an order for Domaine Ramonet Montrachet (2018, 2019, 2020, 2022, or 2023) at $3,600 per bottle
 - [ ] Reply to Geoffrey Troy with desired quantity and vintages if ordering
 
+
+## 2026-07-06
+
+**From:** "UOVO Wine" <portal@uovo.wine>  
+**Subject:** Reset Your Password - UOVO Wine
+
+- [ ] Reset UOVO Wine account password using the link before it expires in 24 hours (if the request was made by Mike)
+
+**From:** Ian Dorin <idorin@uovo.com>  
+**Subject:** Re: Bonus Offer of Roulot: Meursault's Trailblazer
+
+- [ ] Review updated Roulot inventory list from Ian and decide which wines to purchase
+- [ ] Reply to Ian Dorin with any order or pass on available bottles before they sell out
+
+**From:** <Sabrina.Hall@morganstanleypwm.com>  
+**Subject:** RE: [EXTERNAL] Wire Request - re: egress
+
+- [ ] Approve the $950 wire transfer to James Foley (egress flooring) via eAuthorization through Morgan Stanley
+
+**From:** <Sabrina.Hall@morganstanleypwm.com>  
+**Subject:** RE: [EXTERNAL] Wire Request - re: egress
+
+- [ ] Provide beneficiary address for James Foley to Sabrina Hall
+
