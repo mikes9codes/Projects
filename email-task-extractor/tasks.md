@@ -3660,3 +3660,22 @@ New items are appended below with the date they were found.
 
 - [ ] Provide beneficiary address for James Foley to Sabrina Hall
 
+
+## 2026-07-07
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Ramonet Grand Cru Collection
+
+- [ ] Review Ramonet Grand Cru wine offerings from Acker Wines and decide whether to purchase any bottles or magnums
+- [ ] Contact David Hamburger at david@ackerwines.com or 212-787-1624 if interested in purchasing before stock sells out
+
+**From:** Gerard Meczka <gerard@tcwc.com>  
+**Subject:** Re: The Smartest Purchase in World Class Cabernet
+
+- [ ] Confirm with Gerard whether to proceed with purchasing the 6-pack wood case of 2023 Dominus
+
+**From:** "MORGAN STANLEY" <id@proxyvote.com>  
+**Subject:** Vote now! CEA INDUSTRIES INC Special Meeting
+
+- [ ] Vote in the CEA INDUSTRIES INC Special Meeting proxy — log in to proxyvote.com to cast vote
+
