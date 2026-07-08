@@ -3679,3 +3679,46 @@ New items are appended below with the date they were found.
 
 - [ ] Vote in the CEA INDUSTRIES INC Special Meeting proxy — log in to proxyvote.com to cast vote
 
+
+## 2026-07-08
+
+**From:** Murphy Wimer <mwimer@uovo.com>  
+**Subject:** Re: Wine Delivery Request Confirmation
+
+- [ ] Reply to Murphy Wimer at UOVO Wine confirming whether Monday 7/20 works for the Hamptons wine delivery
+
+**From:** Murphy Wimer <mwimer@uovo.com>  
+**Subject:** Re: Wine Delivery Request Confirmation
+
+- [ ] Reply to Murphy Wimer confirming whether Tuesday 7/21 works for the wine delivery
+
+**From:** "Woodland Hills Wine Co. (David Russell)" <wine@email.whwc.com>  
+**Subject:** Spectacular 2024 White Burgundies from Henri Boillot (pre-arrival)
+
+- [ ] Review Henri Boillot 2024 White Burgundy offerings and decide whether to purchase
+- [ ] Note pre-arrival deadline — wines are ETA December 2026 so order must be placed in advance
+- [ ] Consider purchasing Henri Boillot Meursault 2024 at $108.95/bottle (available in 12-bottle increments)
+- [ ] Visit WHWC website to view full range of available 2024 Henri Boillot white wines and pricing
+
+**From:** "Chambers St Wines" <office@chambersstwines.com>  
+**Subject:** Private Collection - Non-Piemonte Italian Wines featuring Paolo
+ Bea
+
+- [ ] Review the Private Collection of Non-Piemonte Italian wines (featuring Paolo Bea, Le Boncie Le Trame, Emidio Pepe, and others) on the Chambers St Wines website and decide whether to purchase any bottles
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** Domaine Ramonet-Offering
+
+- [ ] Review Domaine Ramonet wine offering from Geoffrey Troy at NY Wine Warehouse
+- [ ] Decide which wines and quantities to purchase before they sell out (offering is subject to remaining unsold)
+- [ ] Reply to Geoffrey Troy at gtroy@nywines.com with any orders or to decline
+
+**From:** Chloé Geary  <cg@hellergroupllc.com>  
+**Subject:** Pae White purchase
+
+- [ ] Review attached invoice from Bortolami for Pae White 'Sightlines, 2021'
+- [ ] Review attached commission invoice for the Pae White work
+- [ ] Send payment to Bortolami using verbally confirmed wire instructions
+- [ ] Send commission payment
+- [ ] Notify Chloé Geary once payments have been sent
+
