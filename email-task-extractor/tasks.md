@@ -3722,3 +3722,67 @@ New items are appended below with the date they were found.
 - [ ] Send commission payment
 - [ ] Notify Chloé Geary once payments have been sent
 
+
+## 2026-07-09
+
+**From:** John Kapon <jk@ackerwines.com>  
+**Subject:** Night Under the Stars 7/22 at Duryea's
+
+- [ ] Decide whether to attend the Night Under the Stars event on July 22 at Duryea's ($1500 donation)
+- [ ] RSVP to John Kapon (jk@ackerwines.com) ASAP if attending, as the boat is limited to 15 people
+- [ ] If not attending, consider donating at https://missionevents.org/
+- [ ] If attending, plan to bring bottles of wine to share
+- [ ] Note event details: Depart Sag Harbor 5:30pm July 22, return ~10:15pm
+
+**From:** Danielle Carey <danielle@ackerstorage.com>  
+**Subject:** Re: Delivery request
+
+- [ ] Pay the unpaid invoice immediately (deadline is today at noon) to potentially include recent purchase in the July 15th delivery
+- [ ] Confirm with Danielle whether the July 15th Bridgehampton delivery should proceed for already-paid items
+
+**From:** Carmen Burns <carmen@espasso.com>  
+**Subject:** Re: Estimate #44487 for Michael Steinberg from Espasso
+
+- [ ] Reply to Carmen at Espasso with budget for the large table to receive alternative options
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** FW: Print of the Week | Dana Schutz's Beat Out The Sun
+
+- [ ] Review Dana Schutz's Strangers etchings and drypoints sent by Carmen to determine if they are of interest
+- [ ] Let Carmen Zita know whether the Dana Schutz black and white etchings/drypoints are of interest
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: Print of the Week | Dana Schutz's Beat Out The Sun
+
+- [ ] Decide whether to purchase the Dana Schutz 'Strangers' etchings
+
+**From:** Lisa Sindt <account@tcwc.com>  
+**Subject:** Re: Open Invoice 11828188 from The Chicago Wine Company
+
+- [ ] Update credit card on file with The Chicago Wine Company — log in and add a new card under My Account > Saved Card, or call 630-594-2972 to provide card information
+- [ ] Pay open invoice 11828188 from The Chicago Wine Company
+
+**From:** Danielle Carey <danielle@ackerstorage.com>  
+**Subject:** Re: Delivery request
+
+- [ ] Review the attached document from Danielle Carey
+- [ ] Pay the unpaid invoice for the recent purchase from last month (note: deadline of noon on July 8, 2026 has passed — confirm with Danielle if payment can still be applied to a future delivery)
+- [ ] Confirm receipt and details of the July 15 delivery to Bridgehampton
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Re: 885 PARK AVENUE - 8A - Kitchen unit Diagnostic
+
+- [ ] Follow up with Spencer Casey (LTB Mechanical Corp.) on next steps for replacing the kitchen unit at 885 Park Ave 8A, including timeline and scheduling
+
+**From:** Danielle Carey <danielle@ackerstorage.com>  
+**Subject:** Re: Delivery request
+
+- [ ] Reply to Danielle confirming whether Wednesday August 5th works for the LI delivery
+
+**From:** "Woodland Hills Wine Co. (David Russell)" <wine@email.whwc.com>  
+**Subject:** Dugat-Py Burgundies: Breathtaking Collection Spanning the Past Decade (in-stock & pre-arrival)
+
+- [ ] Review the Dugat-Py red Burgundy collection offering from Woodland Hills Wine Co.
+- [ ] Decide whether to purchase any of the listed Dugat-Py wines (in-stock and pre-arrival with October ETA)
+- [ ] Reply to wine@email.whwc.com or order online if interested in purchasing
+
