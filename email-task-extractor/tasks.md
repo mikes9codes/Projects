@@ -3786,3 +3786,19 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase any of the listed Dugat-Py wines (in-stock and pre-arrival with October ETA)
 - [ ] Reply to wine@email.whwc.com or order online if interested in purchasing
 
+
+## 2026-07-10
+
+**From:** "Sotheby's" <updates@email.sothebys.com>  
+**Subject:** Landmark Domaine du Comte Liger‑Belair
+
+- [ ] Review and decide whether to bid on 'Landmark Domaine du Comte Liger-Belair' auction (closes July 10, 2026, Paris)
+- [ ] Review and decide whether to bid on 'Materiality' auction (closes July 10, 2026, Abu Dhabi)
+
+**From:** Kelly Sidley <Kelly.Sidley@Bonhams.com>  
+**Subject:** 'Photographs Now' @ Bonhams NY until July 14
+
+- [ ] Review the Bonhams 'Photographs Now: The Collector's Edition' auction lots before the July 14th bidding deadline
+- [ ] Decide whether to place bids on any lots of interest
+- [ ] Contact Kelly Sidley at kelly.sidley@bonhams.com or +1 646 837 8132 if more information is needed about specific lots
+
