@@ -3802,3 +3802,18 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to place bids on any lots of interest
 - [ ] Contact Kelly Sidley at kelly.sidley@bonhams.com or +1 646 837 8132 if more information is needed about specific lots
 
+
+## 2026-07-11
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** Hubert Lamy: Three Michelin Stars (Grapes)
+
+- [ ] Review Hubert Lamy wine offerings and decide which bottles to purchase
+- [ ] If purchasing 6+ bottles from the red section, apply code LAMY at checkout for 5% off the entire Lamy collection
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** More Guigal From 1988 In Stock Now!
+
+- [ ] Decide whether to purchase any 1988 Guigal Côte-Rôtie bottles (La Landonne $749.99, La Turque $799.99, La Mouline $899.99)
+- [ ] Reply to greg@envoyerfinewines.com or call 949-861-8440 to place order if interested (limited quantities available: 9, 8, and 6 bottles respectively)
+
