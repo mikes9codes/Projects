@@ -3817,3 +3817,11 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to purchase any 1988 Guigal Côte-Rôtie bottles (La Landonne $749.99, La Turque $799.99, La Mouline $899.99)
 - [ ] Reply to greg@envoyerfinewines.com or call 949-861-8440 to place order if interested (limited quantities available: 9, 8, and 6 bottles respectively)
 
+
+## 2026-07-12
+
+**From:** "Woodland Hills Wine Co. (David Russell)" <wine@email.whwc.com>  
+**Subject:** 2023 Paul Pernot Puligny-Montrachet 1er Cru Folatières (pre-arrival)
+
+- [ ] Decide whether to purchase the 2023 Paul Pernot Puligny-Montrachet 1er Cru Folatières at $119.95 per bottle (pre-arrival, claimed lowest price in the U.S.)
+
