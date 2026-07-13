@@ -3825,3 +3825,18 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to purchase the 2023 Paul Pernot Puligny-Montrachet 1er Cru Folatières at $119.95 per bottle (pre-arrival, claimed lowest price in the U.S.)
 
+
+## 2026-07-13
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** 2023 MAGNUMS OF DOMAINE LEFLAIVE'S- in stock
+
+- [ ] Review pricing and availability for 2023 Domaine Leflaive Magnums from Geoffrey Troy
+- [ ] Decide whether to purchase any of the following: Bourgogne Blanc ($425/magnum, 6 available), Bienvenues Batard Grand Cru ($4,324/magnum, 2 available), Batard Montrachet Grand Cru ($4,925/magnum, 1 available), Chevalier Montrachet ($6,165/magnum, 2 available)
+- [ ] Reply to Geoffrey Troy at gtroy@nywines.com with order decision or questions
+
+**From:** "NADS" <support@nadsunder.com>  
+**Subject:** Your Store Credit Is Expiring Soon
+
+- [ ] Use $10 NADS store credit (code: CREDIT-N10DSP) before it expires in a few days
+
