@@ -3840,3 +3840,47 @@ New items are appended below with the date they were found.
 
 - [ ] Use $10 NADS store credit (code: CREDIT-N10DSP) before it expires in a few days
 
+
+## 2026-07-14
+
+**From:** Francine Silberer <fsilberer@ayam-nyc.com>  
+**Subject:** AYAM information
+
+- [ ] Review enclosed information about AYAM's practice and policies
+- [ ] Prepare payment in cash or check for appointment (estimated $1310-$1510 including blood draw and urinalysis)
+- [ ] Be aware that some specialty labs may not accept insurance and be prepared to discuss options at appointment
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** RE: Edison audit complete - M. Steinberg
+
+- [ ] Reply to Rick Heinlein at UOVO Wine regarding the Edison audit findings and choose a resolution: replacement bottles, reimbursement, account credit, or a combination for the $22,295 total discrepancy
+- [ ] Decide whether to seek replacement for any of the missing/damaged bottles (Box 00522 and Box 01876 items) subject to availability and provenance
+- [ ] Review the full audit report attached to Rick's May 22 email detailing inventory discrepancies
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** 2020 MAGNUMS OF DOMAINE LEFLAIVE PULIGNY MONTRACHET
+
+- [ ] Decide whether to purchase 2020 Domaine Leflaive Puligny-Montrachet Magnums at $725/magnum (18 available)
+- [ ] Reply to Geoffrey Troy at New York Wine Warehouse with purchase decision
+
+**From:** Jon Visser <jon.visser@grapesthewineco.com>  
+**Subject:** 100 Point La Mission Haut Brion Blanc!
+
+- [ ] Decide whether to purchase 2021 Chateau La Mission Haut Brion Blanc at $679/btl (2 bottles available)
+- [ ] Decide whether to purchase 2018 Chateau Haut Brion Blanc at $899/btl (2 bottles available)
+- [ ] Reply to Jon Visser or click wine links to secure allocation before stock runs out
+
+**From:** Collectible Fine Wine <ashley@collectiblefinewine.com>  
+**Subject:** White Burgundy Icons
+
+- [ ] Review White Burgundy wine list from Collectible Fine Wine and decide if any bottles are worth purchasing
+- [ ] Visit collectiblefinewine.com to purchase any desired bottles before they sell out
+- [ ] Contact Ashley at (602) 738-7063 or ashley@collectiblefinewine.com if interested in selling part of wine collection
+
+**From:** Alina for NY <campaign@alinabonsell.com>  
+**Subject:** I'm the First Real Republican Challenger Our State Senate District Has Had in 20 Years
+
+- [ ] Decide whether to donate to Alina for NY campaign (donations from District 28 residents are matched 10x, up to $250, deadline 7/15/2026)
+- [ ] Decide whether to volunteer for canvassing, earned media, fundraising, or in-kind contributions
+- [ ] Consider forwarding the email to moderate Democrat friends in District 28
+
