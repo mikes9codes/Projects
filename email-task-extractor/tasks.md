@@ -3884,3 +3884,129 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to volunteer for canvassing, earned media, fundraising, or in-kind contributions
 - [ ] Consider forwarding the email to moderate Democrat friends in District 28
 
+
+## 2026-07-15
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Dom Pérignon, Jacques Selosse, Krug, Cristal, Salon
+
+- [ ] Review the Champagne offerings from Acker Wines and decide whether to purchase any bottles or magnums
+- [ ] Reply to David Hamburger at david@ackerwines.com if interested in purchasing
+- [ ] Note upcoming auction deadlines: HK Auction on July 25, US Auction on September 12
+- [ ] Consider registering for a web auction that opens every Monday on ackerwines.com
+
+**From:** "IHG One Rewards" <IHGOneRewards@mc.ihg.com>  
+**Subject:** Don’t let your IHG One Rewards points expire
+
+- [ ] Prevent 21,765 IHG One Rewards points from expiring before August 13, 2026 by making a qualifying transaction or activity
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: 2023 MAGNUMS OF DOMAINE LEFLAIVE'S- in stock
+
+- [ ] Decide whether to order a few magnums of Leflaive 2020 Puligny-Montrachet and 2023 Bienvenues-Bâtard Grand Cru (Geoffrey confirmed it's not too late)
+- [ ] Reply to Geoffrey to place the Leflaive magnum order before the offering closes
+- [ ] Ask Geoffrey about ordering the '24 Pillots (his question went unanswered in Geoffrey's reply)
+- [ ] Confirm with Liz whether she can host dinner on Saturday July 25 for the Danelys
+- [ ] Follow up with Geoffrey and Jane about dinner availability on July 25
+
+**From:** Juice Generation Online Ordering <noreply@olo.com>  
+**Subject:** Juice Generation Order Received
+
+- [ ] Pick up Juice Generation order at 1190 Broadway (Nomad location) by 12:16 PM today (Tuesday, 7/14/2026) - order ready at 12:01 PM, must arrive within 15 minutes
+
+**From:** Francine Silberer <fsilberer@ayam-nyc.com>  
+**Subject:** Re: AYAM information
+
+- [ ] Submit paid coded claim form from AYAM to insurance carrier for reimbursement after appointment
+- [ ] Prepare payment in check or cash for initial appointment (estimated $1,310–$1,510 including blood draw and urinalysis)
+- [ ] Review AYAM website (ayam-nyc.com) for more fee information
+- [ ] Await invoice email from Francine before making payment
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** RE: Dom Pérignon, Jacques Selosse, Krug, Cristal, Salon
+
+- [ ] Decide whether to purchase 1 bottle and 2-3 magnums of 2008 Dom Pérignon from David (bottles are loose, magnums are in cardboard 3-packs, good provenance implied)
+- [ ] Reply to David Hamburger to confirm order or ask follow-up questions once he has restocked
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** RE: Edison audit complete - M. Steinberg
+
+- [ ] Send Rick the details of the other 1-2 examples of missing inventory (beyond the Roumier Amoureuses) so UOVO can research them
+- [ ] Review the spreadsheet Rick shared, specifically the rightmost tab, to understand the inventory data pulled on 5/13/26
+- [ ] Verify whether the 6 bottles of Roumier Amoureuses discrepancy aligns with UOVO's finding of 3 bottles on rows 388 and 389
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** RE: Dom Pérignon, Jacques Selosse, Krug, Cristal, Salon
+
+- [ ] Review and confirm the order for 1x three-pack case of 2008 Dom Pérignon Magnum at $649.00 each placed by David Hamburger
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Re: Dom Pérignon, Jacques Selosse, Krug, Cristal, Salon
+
+- [ ] Confirm order details with David/Jesse for 1x 750ml bottle + 1x three-pack of 2008 Dom Pérignon magnums
+- [ ] Verify payment and shipping arrangements with Acker Wines for the order
+
+**From:** Stu Jakub <sjakub@zachys.com>  
+**Subject:** RE: Follow on sales
+
+- [ ] Review the attached lot detail report showing estimates, reserves, and lot numbers for the July auction
+- [ ] Contact Stu Jakub at 917-750-9477 or by email if there are any questions about the lot detail report
+- [ ] Monitor the auction results - sale closes 7/27
+- [ ] Await Stu's post-auction results communication after 7/27
+- [ ] Decide what to do with the white burg and CdP bottles that were held from sale (return or discard)
+
+**From:** Elizabeth Steinberg <esteinberg7@gmail.com>  
+**Subject:** Re: Fw: Don’t let your IHG One Rewards points expire
+
+- [ ] Decide whether to use IHG One Rewards points (possibly adding cash) to book a hotel stay or purchase before they expire on August 13, 2026
+- [ ] Reply to Elizabeth about whether to proceed with redeeming the 21,765 IHG points
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** RE: Edison audit complete - M. Steinberg
+
+- [ ] Review email archives/pull lists from UOVO for the 6 bottles of 2006 Roumier Amoureuses pulled for Acker in Oct 2020
+- [ ] Review email archives/pull lists from UOVO for the 5 bottles of 2000 La Mission Haut Brion pulled for Acker in Oct 2017
+- [ ] Reconcile 2000 La Mission Haut Brion inventory: started with 10 bottles, removed 2 in 2025, now 7 on record — account for the missing 3 bottles
+- [ ] Check CellarTracker or personal inventory records to verify whether the Roumier Amoureuses and La Mission Haut Brion pulls were previously accounted for
+- [ ] Request copies of the email pull requests/pull lists from UOVO if needed for personal records
+- [ ] Continue reviewing purchased inventory for any additional discrepancies beyond the two wines already identified
+
+**From:** Gerard Meczka - The Chicago Wine Company <gerard@tcwc.com>  
+**Subject:** An "Utterly Profound" 2015 From the Northern Rhône
+
+- [ ] Reply to gerard@tcwc.com to order the 2015 Domaine Courbis Cornas 'Les Eygats' ($129.95/bottle) if interested, before limited quantities run out
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm with Jordan if your room assignment (Steinberg - King room at $5,000 plus tax) is correct
+- [ ] Decide if you plan to fly in on Sept 29th and notify Jordan so rooms can be adjusted
+- [ ] Complete and submit the Kohler payment link when it arrives in the next week
+- [ ] Book return flight home from Chicago International Airport (8:14pm flight to LGA on Oct 3rd)
+
+**From:** Andy Heller <aheller1@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Confirm room assignment (King room at $5,000 total plus tax) is correct with Jordan
+- [ ] Complete payment link from Kohler when it arrives via email
+- [ ] Book flights to/from Kohler (consider 8:14pm flight from Chicago O'Hare to LGA on Oct 3rd)
+- [ ] Decide whether to fly in on Sept 29th and notify Jordan so rooms can be adjusted
+- [ ] Note tee times: Sept 30 Meadows Valley 1:38-2:04, Oct 1 River Course 11:28-11:54, Oct 2 Straits Course 9:31-9:57 (walking only), Oct 3 Irish Course 12:46-1:12
+
+**From:** Jon Kono <jon@colonialtagandlabel.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Confirm room assignment with Jordan Leber (currently listed as Milman/? for double sharing room - unclear if Mike has a roommate)
+- [ ] Watch for payment link from Kohler and complete payment when received
+- [ ] Respond to Jon Kono about whether you want to spend Saturday night in Chicago
+- [ ] Confirm or deny attendance details with Jordan Leber if anything in the room/tee time list is incorrect
+- [ ] Check flight options home from Chicago O'Hare (8:14pm flight to LGA on Oct 3rd) and book return flight once tee times are confirmed
+
+**From:** Andy Heller <aheller1@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Confirm room assignment (King room at $5,000 total plus tax) with Jordan Leber if incorrect
+- [ ] Complete payment link from Kohler when it arrives via email
+- [ ] Decide whether to spend Saturday night in Chicago (per Jon Kono's question)
+- [ ] Book flights to/from Milwaukee for the golf trip (Sept 30 - Oct 3)
+
