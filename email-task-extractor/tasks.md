@@ -4010,3 +4010,106 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to spend Saturday night in Chicago (per Jon Kono's question)
 - [ ] Book flights to/from Milwaukee for the golf trip (Sept 30 - Oct 3)
 
+
+## 2026-07-16
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Reply to Jordan confirming room assignment (King room at $5,000 total plus tax) is correct
+- [ ] Watch for payment link from Kohler and complete payment when received
+- [ ] Decide whether to stay Saturday night in Chicago or leave Sunday morning
+- [ ] Book return flight from Chicago (ORD/MDW) - note 8:14pm flight to LGA on Oct 3rd
+
+**From:** craig greissman <greissman@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Review room assignment (King room at $5,000 total plus tax) and confirm if correct
+- [ ] Complete payment link from Kohler when received
+- [ ] Decide whether to fly home Saturday night or stay in Chicago and leave Sunday morning
+- [ ] Check the 8:14pm flight from Chicago to LGA on Oct 3rd as a potential return flight option
+
+**From:** craig greissman <greissman@gmail.com>  
+**Subject:** Re: Golf trip 2026
+
+- [ ] Reply to confirm room assignment is correct (currently listed in King room at $5,000 total plus tax)
+- [ ] Fill out and return Kohler payment link when received (arriving within the next week)
+- [ ] Decide whether to support inviting Chernoff to join the golf trip
+- [ ] Check return flight options from Chicago International Airport (8:14pm flight to LGA on Oct 3rd) and confirm travel plans once tee times are finalized
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Confirm room assignment (King room at $5,000 plus tax) is correct with Jordan
+- [ ] Complete Kohler payment link when it arrives from Kohler within the next week
+- [ ] Book flight to Milwaukee (departing Sept 30th) and return flight from Chicago (8:14pm to LGA on Oct 3rd)
+- [ ] Decide whether to invite Chernoff to join the trip
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Decide whether to invite Lee Heiss to the golf trip and inform the group
+- [ ] Confirm room assignment and attendance for the Kohler golf trip
+- [ ] Be prepared to provide credit card info for payment to Jordan Leber soon
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Decide whether to invite Lee Heiss on the golf trip and follow up with the group
+
+**From:** Jon Kono <jon@colonialtagandlabel.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Book the HoJo hotel for the golf trip as requested by Jon Kono
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** A Legendary 2008 Champagne, 18 Years On
+
+- [ ] Decide whether to purchase 2008 Bollinger Champagne R.D. Extra Brut ($289/bottle, or $274.55/bottle for 6+)
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: 2023 MAGNUMS OF DOMAINE LEFLAIVE'S- in stock
+
+- [ ] Decide whether to order 2023 Leflaive Bourgogne Blanc magnums and confirm quantity
+- [ ] Decide whether to order 2023 Leflaive Bienvenues Batard, Batard Montrachet, and Chevalier Montrachet magnums and confirm quantities
+- [ ] Clarify with Geoffrey whether the Paul Pillot order is for 2024 or 2023 vintage
+- [ ] Clarify with Geoffrey whether the Thierry Pillot order is for 2024 or 2023 vintage
+- [ ] Confirm or finalize the Paul Pillot order (6 Charmois, 3 Caillerets, 2 Grand Ruchottes, 2 La Romanee)
+- [ ] Confirm or finalize the Thierry Pillot order (6 Narvaux, 2 Corton Charlemagne)
+- [ ] Decide whether to wait for Burghound review before placing Pillot order
+- [ ] Confirm dinner on July 25th with Geoffrey and Jane once Liz confirms hosting
+
+**From:** David Hamburger <david@ackerwines.com>  
+**Subject:** Pierre-Yves Colin Morey Offer
+
+- [ ] Review Pierre-Yves Colin Morey wine offer from Acker Wines and decide which bottles to purchase
+- [ ] Reply to David Hamburger at david@ackerwines.com with any order decisions
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: 2023 MAGNUMS OF DOMAINE LEFLAIVE'S- in stock
+
+- [ ] Confirm final quantities of Leflaive magnums to Geoffrey (20 Puligny-Montrachet and 23 Bourgogne Blanc as proposed)
+- [ ] Place order for Paul Pillot wines (6 Charmois, 3 Caillerets, 2 Grand Ruchottes, 2 La Romanee)
+- [ ] Place order for Thierry Pillot wines (6 Narvaux, 2 Corton Charlemagne)
+- [ ] Confirm with Liz about hosting dinner on July 25th and follow up with Geoffrey and Jane about availability
+
+**From:** Daniel Posner <daniel@grapesthewineco.com>  
+**Subject:** Joseph Drouhin Musigny!
+
+- [ ] Decide whether to purchase 2018 Joseph Drouhin Musigny at $1099/bottle
+- [ ] If interested, reply to Daniel Posner or click the wine link to secure allocation (ships now)
+
+**From:** Geoffrey Troy <gtroy@nywines.com>  
+**Subject:** RE: 2023 MAGNUn the PMMS OF DOMAINE LEFLAIVE'S- in stock
+
+- [ ] Reply to Geoffrey confirming quantities for Domaine Leflaive magnums (considering 2 PM + 2 BB = 4 mags total)
+- [ ] Decide whether to go ahead with Paul Pillot order (6 Charmois, 3 Caillerets, 2 Grand Ruchottes, 2 La Romanee) without waiting for Burghound review
+- [ ] Decide whether to go ahead with Thierry Pillot order (6 Narvaux, 2 Corton Charlemagne)
+- [ ] Note that PM 2020s are good until 2037 (not 2030) according to Burghound
+- [ ] Confirm or decline dinner with Geoffrey on the 25th
+
+**From:** OpenTable | The Ivory Peacock Reservations <no-reply@opentable.com>  
+**Subject:** Let us know you were there
+
+- [ ] Leave a review for The Ivory Peacock on OpenTable
+
