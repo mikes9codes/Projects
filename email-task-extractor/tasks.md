@@ -4113,3 +4113,37 @@ New items are appended below with the date they were found.
 
 - [ ] Leave a review for The Ivory Peacock on OpenTable
 
+
+## 2026-07-17
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** RE: Edison audit complete - M. Steinberg
+
+- [ ] Review and sign the release document when Rick sends it
+- [ ] Identify any additional missing inventory lots to send to Rick for research
+
+**From:** Andrew Fontein <afontein@costapalmas.com>  
+**Subject:** Costa Palms Summer - Four Season, Amanvari & Casa Blake Resort and
+ Residences
+
+- [ ] Review Costa Palmas Club Events Calendar
+- [ ] Watch June Construction Update Video
+- [ ] Decide whether to schedule a call with Andrew Fontein to discuss Costa Palmas in greater detail
+- [ ] Reply to Andrew Fontein if interested in reconnecting
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** 3 Liter Bottles of Clos de la Mouchere From Henri Boillot!
+
+- [ ] Decide whether to purchase 2023 Domaine Henri Boillot Puligny-Montrachet 1er Cru Clos de la Mouchère 3L at $1,095/bottle (pre-arrival, limited availability)
+- [ ] Reply to greg@envoyerfinewines.com to place order if interested
+
+**From:** Greg Koslosky <greg@envoyerfinewines.com>  
+**Subject:** RE: 3 Liter Bottles of Clos de la Mouchere From Henri Boillot!
+
+- [ ] Follow up with Greg in October when the 3 Liter Clos de la Mouchère arrives to confirm shipment to NY and arrange payment
+
+**From:** Greg Koslosky <greg@envoyerfinewines.com>  
+**Subject:** RE: 3 Liter Bottles of Clos de la Mouchere From Henri Boillot!
+
+- [ ] Pay the invoice from Envoyer Fine Wines for the 3L Clos de la Mouchère when it arrives tomorrow
+
