@@ -4147,3 +4147,37 @@ New items are appended below with the date they were found.
 
 - [ ] Pay the invoice from Envoyer Fine Wines for the 3L Clos de la Mouchère when it arrives tomorrow
 
+
+## 2026-07-18
+
+**From:** Nicholas Kapon <nicholas@ackerwines.com>  
+**Subject:** Three MICHELIN Grapes: Domaine Dugat-Py's 2022 & 2023 Releases
+
+- [ ] Decide whether to purchase any Domaine Dugat-Py 2022/2023 three-pack OWCs from Acker
+- [ ] Contact Nicholas Kapon at Acker to reserve bottles if interested
+- [ ] Consider whether to request individual bottles instead of full three-pack OWCs
+
+**From:** "Elise @ CellarTracker" <hello@email.cellartracker.com>  
+**Subject:** Exclusive Invite: Test CellarTracker’s Menu Scan Feature
+
+- [ ] Try out CellarTracker's new Menu Scan feature in the app
+- [ ] Rate the experience after each menu scan submission via the follow-up email
+- [ ] Optionally download and test the sample menu provided in the email
+- [ ] Optionally send direct feedback to Elise about the Menu Scan feature
+
+**From:** Chris Greene <chris.greene@jjbuckley.com>  
+**Subject:** White Burgundy Availability
+
+- [ ] Review the white Burgundy availability list from Chris Greene at JJ Buckley
+- [ ] Decide which wines to order from the list
+- [ ] For any in-stock selections, decide whether to have them shipped or stored
+- [ ] Reply to Chris Greene with wine selections as soon as possible, as limited availability items may be claimed before order is placed
+
+**From:** Amanda Opromolla <aopromolla@hdhauctions.com>  
+**Subject:** Catch Up With HDH!
+
+- [ ] Decide whether to consign wine for the August Fine & Rare sale (deadline approaching soon)
+- [ ] Decide whether to consign wine for the September Finest & Rarest sale
+- [ ] Reply to Amanda Opromolla about interest in consigning or meeting up
+- [ ] Consider scheduling a coffee or meeting with Amanda in NY to discuss wine collecting and consignment options
+
