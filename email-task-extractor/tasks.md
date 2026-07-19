@@ -4181,3 +4181,12 @@ New items are appended below with the date they were found.
 - [ ] Reply to Amanda Opromolla about interest in consigning or meeting up
 - [ ] Consider scheduling a coffee or meeting with Amanda in NY to discuss wine collecting and consignment options
 
+
+## 2026-07-19
+
+**From:** Charitybuzz <noreply@charitybuzz.com>  
+**Subject:** Exclusive Golf Experiences with Westhab
+
+- [ ] Review Westhab Charitybuzz golf auction items before the auction closes on Tuesday, July 28th
+- [ ] Decide whether to bid on any of the exclusive golf rounds at private NY metro area clubs (Winged Foot, Westchester CC, Brae Burn, Whippoorwill, GlenArbor, Metropolis CC)
+
