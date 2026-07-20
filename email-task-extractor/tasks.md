@@ -4190,3 +4190,28 @@ New items are appended below with the date they were found.
 - [ ] Review Westhab Charitybuzz golf auction items before the auction closes on Tuesday, July 28th
 - [ ] Decide whether to bid on any of the exclusive golf rounds at private NY metro area clubs (Winged Foot, Westchester CC, Brae Burn, Whippoorwill, GlenArbor, Metropolis CC)
 
+
+## 2026-07-20
+
+**From:** Envoyer Imports <sales@envoyerfinewines.com>  
+**Subject:** Invoice for Henri Boillot 3 Liter
+
+- [ ] Pay invoice #D77820 for $1,150.93 within 48 hours via https://www.envoyerfinewines.com/4981882951/invoices/06f17a13863e30cfa3bfd1184d9dacb6
+
+**From:** Morrison Hotel Gallery <hello@morrisonhotelgallery.com>  
+**Subject:** NYC ||  You’re  Invited! Sunday, 7/26: MHG 25th Anniversary Open House
+
+- [ ] RSVP for the Morrison Hotel Gallery 25th Anniversary Open House on Sunday, July 26th, 2-5PM in NYC (SoHo) at morrisonhotelgallery.com/pages/nyc-mhg-25th-anniversary-open-house
+- [ ] Decide whether to bring a guest to the open house
+
+**From:** Amanda Opromolla <aopromolla@hdhauctions.com>  
+**Subject:** Re: Catch Up With HDH!
+
+- [ ] Reply to Amanda confirming the 29th or 30th for the catch-up meeting
+
+**From:** Danielle Carey <danielle@ackerstorage.com>  
+**Subject:** Re: Delivery request
+
+- [ ] Reply to Danielle confirming whether Wednesday August 19th works for the LI delivery
+- [ ] Send wire payment for the 265DE invoice this week
+
