@@ -4215,3 +4215,26 @@ New items are appended below with the date they were found.
 - [ ] Reply to Danielle confirming whether Wednesday August 19th works for the LI delivery
 - [ ] Send wire payment for the 265DE invoice this week
 
+
+## 2026-07-21
+
+**From:** Grant from Parcelle Wine <gr@parcellewine.com>  
+**Subject:** Exclusive Invite: Parcelle at Blue Note Jazz Club
+
+- [ ] Decide whether to attend the Parcelle x Blue Note Jazz Club event on September 28th
+- [ ] If interested, add eligible Chase Sapphire Reserve card to OpenTable account to view availability
+- [ ] Book the 5:30pm seating on September 28th via OpenTable before spots fill up (requires Chase Sapphire Reserve, J.P. Morgan Reserve, or Chase Sapphire Reserve for Business card)
+
+**From:** Patrick Larson <patrick@ackerwines.com>  
+**Subject:** Michter's, Bomberger's and Shenk's!!!
+
+- [ ] Review the available Michter's, Bomberger's, and Shenk's whiskey offerings and decide which bottles to purchase
+- [ ] Reply to Patrick Larson quickly with any desired selections, as this is first come, first served
+
+**From:** Victoria Hilley <victoria@fmtvl.com>  
+**Subject:** RE: Fwd: Please Review - Peru/Amazon for Steinberg & Blauner families
+
+- [ ] Wait for Victoria's proposal and review when received
+- [ ] Confirm whether to change the 2nd day at Machu Picchu once revised itinerary options are presented
+- [ ] Decide on final accommodations and boat preferences (including Aqua Nera) once availability is confirmed
+
