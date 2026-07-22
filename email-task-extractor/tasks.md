@@ -4238,3 +4238,22 @@ New items are appended below with the date they were found.
 - [ ] Confirm whether to change the 2nd day at Machu Picchu once revised itinerary options are presented
 - [ ] Decide on final accommodations and boat preferences (including Aqua Nera) once availability is confirmed
 
+
+## 2026-07-22
+
+**From:** Kimberly Cavoores <shop@mwcwine.com>  
+**Subject:** Burgundy Round Up: Undisputed Classics and a Rising Star
+
+- [ ] Review and consider purchasing the 2024 De Villaine Bouzeron
+- [ ] Review and consider purchasing the 2024 De Villaine Rully Premier Cru Margotés
+- [ ] Review and consider purchasing the Domaine des Comtes Lafon Bourgogne Blanc
+- [ ] Review and consider purchasing the 2023 Domaine des Comtes Lafon Meursault Clos de la Baronne
+- [ ] Visit mwcwine.com to complete purchase before stock sells out
+
+**From:** Bailey Klink <bailey@morrellwine.com>  
+**Subject:** Your account status
+
+- [ ] Reply to Bailey about interest in joining private client distribution
+- [ ] If interested, share preferred wine regions or producers with Bailey
+- [ ] If interested, inform Bailey whether buying to drink now, age, or both
+
