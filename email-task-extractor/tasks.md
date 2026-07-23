@@ -4257,3 +4257,31 @@ New items are appended below with the date they were found.
 - [ ] If interested, share preferred wine regions or producers with Bailey
 - [ ] If interested, inform Bailey whether buying to drink now, age, or both
 
+
+## 2026-07-23
+
+**From:** Bailey Klink <bailey@morrellwine.com>  
+**Subject:** Re: Your account status
+
+- [ ] Review attached Burgundy allocation list from Bailey Klink
+- [ ] Decide whether to purchase any of Bailey's recommended wines (Roulot Auxey-Duresses $150, Lamy-Pillot St. Aubin $85, Hubert Lamy Puligny Montrachet $175, Domaine des Lambrays Morey St. Denis $275)
+- [ ] Reply to Bailey Klink to confirm interest in allocations and place any orders before they are spoken for
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** Ultramarine - The West Coast's Most Elusive Sparkling Wine
+
+- [ ] Reply to gerard@tcwc.ccsend.com with interest in purchasing Ultramarine sparkling wines if desired (limited stock, processed in order received)
+
+**From:** Francine Silberer <fsilberer@ayam-nyc.com>  
+**Subject:** invoice
+
+- [ ] Review the attached invoice from Adolescent-Young Adult Medicine
+
+**From:** dtc@xpeditr.com  
+**Subject:** New PCC CLB Allocations have landed into your account!
+
+- [ ] Log in to Xpeditr account to view Comte Liger-Belair 2019 wine allocations at https://dtc.xpeditr.com/web/login?auth_login=mikes9@verizon.net
+- [ ] Review attached PDF for package allocation details, wine list, and storage charge schedule
+- [ ] Decide on long-term storage arrangements before 60-day free storage period expires
+- [ ] Contact Xpeditr at pcc@xpeditr.com or +1 (707) 368-0100 with any questions
+
