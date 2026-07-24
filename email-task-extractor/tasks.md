@@ -4285,3 +4285,45 @@ New items are appended below with the date they were found.
 - [ ] Decide on long-term storage arrangements before 60-day free storage period expires
 - [ ] Contact Xpeditr at pcc@xpeditr.com or +1 (707) 368-0100 with any questions
 
+
+## 2026-07-24
+
+**From:** "Sue Ann Behnke" <Services@sertifi.net>  
+**Subject:** Destination Kohler Documents for E-Signature  Pre Registration Form - Jordan Leber Group - Michael St
+
+- [ ] Complete and sign the Pre Registration Form for the Jordan Leber Group via the Sertifi site: https://www.sertifi.com/destinationkohler/r.ashx?su=JdgLwioCutKdfjKR
+- [ ] Process payment via the Sertifi site for the Jordan Leber Group reservation (RES 975602)
+- [ ] Complete the above by July 31, 2026
+
+**From:** Morrell Wine <customerservice@morrellwine.com>  
+**Subject:** One of Corsica's First 99pt Wines
+
+- [ ] Decide whether to purchase the Clos Canarelli Ile de Beauté Tarra di Sognu Blanc 2025 ($99/bottle) before allocation sells out
+- [ ] If interested, reply to the email or contact Morrell salesperson Jeremy to place an order
+
+**From:** Envoyer Fine Wines <greg@envoyerfinewines.com>  
+**Subject:** Two Great Vintages of Dujac Clos Saint-Denis!
+
+- [ ] Decide whether to purchase 2023 Domaine Dujac Clos Saint-Denis at $679.99
+- [ ] Decide whether to purchase 2024 Domaine Dujac Clos Saint-Denis at $679.99
+- [ ] Reply to greg@envoyerfinewines.com to place order if interested (pre-arrival, ETA Q2 2026)
+
+**From:** Jesse Magnifico <jesse@ackerwines.com>  
+**Subject:** Re: Dom Pérignon, Jacques Selosse, Krug, Cristal, Salon
+
+- [ ] Wait for Acker Wines to confirm delivery of the bottles
+
+**From:** Jordan Leber <jordan@lifestylecomm.com>  
+**Subject:** RE: Golf trip 2026
+
+- [ ] Decide whether to pay $5,000 (King room) or $3,900 (shared room) plus tax for the Kohler golf trip
+- [ ] Make payment via the Kohler link before July 30th deadline
+- [ ] Contact Jordan via text or email if not okay with the updated shared room price of $3,900 per person
+- [ ] Confirm or correct room assignment (currently listed in a King room at $5,000)
+
+**From:** "Sue Ann Behnke" <Services@sertifi.net>  
+**Subject:** Destination Kohler Payment Request for Pre Registration Form - Jordan
+ Leber Group - Michael Steinber
+
+- [ ] Submit Advanced Deposit payment (975602) for Destination Kohler Jordan Leber Group event by 07/31/2026 via https://www.sertifi.com/destinationkohler/r.ashx?su=1nybB3JPdfnuB4Nj
+
