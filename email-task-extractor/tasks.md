@@ -4347,3 +4347,11 @@ New items are appended below with the date they were found.
 - [ ] Track order #FP-1490495 using the Fellow tracking link for updated delivery information
 - [ ] Contact the carrier directly if more information is needed about the shipping delay
 
+
+## 2026-07-27
+
+**From:** The Chicago Wine Company - Gerard <gerard@tcwc.ccsend.com>  
+**Subject:** 100-Point Allemand Reynard ║ One of the Rhône's Most Coveted Wines
+
+- [ ] Decide whether to purchase the 2018 Domaine Thierry Allemand Cornas Reynard ($399.95/bottle or $799.95/magnum) and reply to gerard@tcwc.ccsend.com promptly to place order before limited quantities are gone
+
