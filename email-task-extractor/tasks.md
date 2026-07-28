@@ -4355,3 +4355,21 @@ New items are appended below with the date they were found.
 
 - [ ] Decide whether to purchase the 2018 Domaine Thierry Allemand Cornas Reynard ($399.95/bottle or $799.95/magnum) and reply to gerard@tcwc.ccsend.com promptly to place order before limited quantities are gone
 
+
+## 2026-07-28
+
+**From:** <orders@mail1.astorwines.com>  
+**Subject:** Astor Wines Alert - Your Inquiry Regarding 47168 - Niepoort,
+ Coche Branco 2024
+
+- [ ] Decide whether to purchase Niepoort, Coche Branco 2024 before it sells out
+- [ ] If purchasing, visit https://www.astorwines.com/SearchResultsSingle.aspx?p=0&search=47168&searchtype=Contains to add item to cart
+- [ ] If item is unavailable, call Astor Wines at 212-674-7500 option 2 or email cs@astorwines.com for assistance
+
+**From:** Bailey Klink <bailey@morrellwine.com>  
+**Subject:** Re: Your account status
+
+- [ ] Reply to Bailey specifying how many bottles of wine Mike would like to purchase
+- [ ] Decide whether to buy the Rafael Palacios Sorte Antiga Valdeorras 2023 at $250/bottle (3 in stock)
+- [ ] Consider Bailey's recommendation of the Savennières as the top pick among the three wines she mentioned
+
