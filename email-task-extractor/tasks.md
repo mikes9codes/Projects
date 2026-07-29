@@ -4373,3 +4373,53 @@ New items are appended below with the date they were found.
 - [ ] Decide whether to buy the Rafael Palacios Sorte Antiga Valdeorras 2023 at $250/bottle (3 in stock)
 - [ ] Consider Bailey's recommendation of the Savennières as the top pick among the three wines she mentioned
 
+
+## 2026-07-29
+
+**From:** UOVO Wine <info@uovo.wine>  
+**Subject:** Your Signed BOL From UOVO Wine
+
+- [ ] Review the attached signed Bill of Lading from UOVO Wine
+
+**From:** auction@zachys.com  
+**Subject:** Zachys Wine Auctions Consignor Statement
+
+- [ ] Review preliminary auction consignment results from Zachys
+- [ ] Contact Zachys consignment Specialist with any questions about the consignment
+- [ ] Note payment schedule: first payment in 35 days (rounded to Tuesday or Thursday), balance at 65 days
+- [ ] Decide at 65 days whether any unsold lots should be returned or re-offered if there are unpaid invoices
+
+**From:** Antonio Polcaro <apolcaro@uovo.com>  
+**Subject:** Re: Wine Delivery Request Confirmation
+
+- [ ] Reply to Antonio Polcaro confirming whether 7/31 delivery to the Crush store is okay
+
+**From:** Morrell Wine <customerservice@morrellwine.com>  
+**Subject:** Rose of the Vintage
+
+- [ ] Decide whether to purchase the 2025 Domaine de Terrebrune Bandol Rosé at $43/bottle
+- [ ] Contact Morrell representative or call 212-688-9370 to reserve if interested
+
+**From:** Kristin Buma <kristin@ackerwines.com>  
+**Subject:** Payment for invoice #265DE / Auction date: 6/26/2026
+
+- [ ] Review attached invoice #265DE for auction dated 6/26/2026
+- [ ] Decide on payment method (credit card, wire transfer, or check) for invoice #265DE
+- [ ] Reply to Kristin Buma (kristin@ackerwines.com / 754-331-1669) to confirm chosen payment method
+- [ ] Submit payment promptly to avoid accruing 1.5% monthly interest
+
+**From:** "Hilton Honors" <noreply@h5.hilton.com>  
+**Subject:** Claim up to 4,000 Points now
+
+- [ ] Register for Hilton Honors bonus points promotion before August 15, 2026 to earn up to 4,000 bonus points per stay
+
+**From:** Antonio Polcaro <apolcaro@uovo.com>  
+**Subject:** Re: Wine Delivery Request Confirmation
+
+- [ ] Check in with Ian McFadden to confirm the exact address he wants the wine delivered to (Crush warehouse in Long Island City vs. Crush store in midtown Manhattan)
+
+**From:** "UOVO Wine" <whseadmin@uovo.wine>  
+**Subject:** Wine Pull Confirmation from UOVO Wine
+
+- [ ] Confirm delivery of 3 bottles of 1996 Salon Cuvée S Champagne to Crush Wines (153 East 57th Street, New York, NY) is received in good condition
+
