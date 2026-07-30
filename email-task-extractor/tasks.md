@@ -4423,3 +4423,18 @@ New items are appended below with the date they were found.
 
 - [ ] Confirm delivery of 3 bottles of 1996 Salon Cuvée S Champagne to Crush Wines (153 East 57th Street, New York, NY) is received in good condition
 
+
+## 2026-07-30
+
+**From:** Bailey Klink <bailey@morrellwine.com>  
+**Subject:** Re: Your account status
+
+- [ ] Pay the invoice via the Melio link: https://app.melio.com/melio/ar/meliome/pay/r/qG0dl2MwGOwQ
+- [ ] Reply to Bailey to confirm whether to hold the bottles until weather cools or ship now to NYC on a temp-controlled truck
+
+**From:** "Bespoke Hamptons" <hamptons@bespokerealestate.com>  
+**Subject:** First Look | 3.2 Acre+/- Water Mill Development Opportunity
+
+- [ ] Review the listing for 116 Flying Point Road, Water Mill (3.2 acres, $10,995,000 development opportunity)
+- [ ] Decide whether to inquire about or pursue the 116 Flying Point Road property
+
