@@ -4438,3 +4438,46 @@ New items are appended below with the date they were found.
 - [ ] Review the listing for 116 Flying Point Road, Water Mill (3.2 acres, $10,995,000 development opportunity)
 - [ ] Decide whether to inquire about or pursue the 116 Flying Point Road property
 
+
+## 2026-07-31
+
+**From:** Ian McFadden <ian@crushwineco.com>  
+**Subject:** vino
+
+- [ ] Review the list of 24-bottle cases available for purchase and decide if any are of interest (Lamy St Aubin, Coche Puligny, Coche Meursault, Bonin Genevrieres, Drouhin Laguiche Monty)
+- [ ] Review in-stock inventory list and decide if delivery should be arranged
+- [ ] Confirm awareness of incoming bottles still to arrive (2023 Leflaive Chevalier, 2022 Bonin Charmes Dessus, 2022 Bonin Genevrieres)
+- [ ] Reply to Ian McFadden regarding any purchases or delivery arrangements
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: Alex Israel purchase
+
+- [ ] Wait for update from Carmen/Heller Group on framing completion before scheduling installation
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: Pae White purchase
+
+- [ ] Decide whether to pay 50% now with balance due by Nov 1 or request early release of the artwork and reply to Carmen with your decision
+
+**From:** Janet Roman <JRoman@bhsusa.com>  
+**Subject:** Pied a Terre Tax - 885 Park Avenue
+
+- [ ] Review the DOF notice for 885 Park Avenue regarding non-primary residence tax surcharge
+- [ ] Visit DOF website using the security code on the DOF notice to respond if challenging the determination
+- [ ] Decide whether to appeal the DOF's non-primary resident determination
+- [ ] If appealing, submit supporting documentation directly to the DOF before the August 24, 2026 deadline
+- [ ] Visit https://www.nyc.gov/site/finance/property/non-primary-residence-surcharge.page for eligibility requirements and appeal instructions
+
+**From:** Rick Heinlein <rheinlein@uovo.wine>  
+**Subject:** RE: Edison audit complete - M. Steinberg
+
+- [ ] Wait for Rick to send the release document for review
+- [ ] Review and sign the release document once received from Rick
+- [ ] Check if there are additional missing inventory items beyond the two lots already identified
+
+**From:** Carmen Zita <cz@hellergroupllc.com>  
+**Subject:** Re: Pae White purchase
+
+- [ ] Pay 50% of the Pae White invoice on Monday
+- [ ] Coordinate with Carmen/Heller Group on an early release date for the artwork
+
