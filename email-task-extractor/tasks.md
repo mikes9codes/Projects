@@ -4481,3 +4481,17 @@ New items are appended below with the date they were found.
 - [ ] Pay 50% of the Pae White invoice on Monday
 - [ ] Coordinate with Carmen/Heller Group on an early release date for the artwork
 
+
+## 2026-08-01
+
+**From:** "Tartagni, Nicole" <NicoleTartagni@financialguide.com>  
+**Subject:** Payment Reminder
+
+- [ ] Pay $24,770.00 annual premium for Liz's whole life insurance policy #11482874 (past due as of July 13, 2026) — pay online at massmutual.com/payment-options, by mail, or by calling 1-800-272-2216
+- [ ] If payment has already been mailed, reply to Nicole Tartagni to let her know so she can track it
+
+**From:** Kim Ferreira <kferreira@hilbgroup.com>  
+**Subject:** Michael & Elizabeth Steinberg- Chubb Flood  - renewal date: 8.7.26
+
+- [ ] Ensure payment of $766.00 is submitted for Michael & Elizabeth Steinberg's Chubb Flood policy #A85226320 by 8/7/26 — pay online at www.chubb.com/paymybill or by phone at 1-800-682-4822
+
