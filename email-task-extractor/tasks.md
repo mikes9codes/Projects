@@ -4495,3 +4495,41 @@ New items are appended below with the date they were found.
 
 - [ ] Ensure payment of $766.00 is submitted for Michael & Elizabeth Steinberg's Chubb Flood policy #A85226320 by 8/7/26 — pay online at www.chubb.com/paymybill or by phone at 1-800-682-4822
 
+
+## 2026-08-02
+
+**From:** DOYLE <Marketing@Doyle.com>  
+**Subject:** Your Coins, Medals, Paper Money & Sports Memorabilia Catalogue is Now Online!
+
+- [ ] Review the Doyle auction catalogue for Coins, Medals, Paper Money & Sports Memorabilia at https://doyle.com/auction/search/?au=9205
+- [ ] Decide whether to place bids before or during the auction on Wednesday, August 13 at 10AM EST
+- [ ] If interested in bidding, choose bid method: Absentee Bid, BidLive!, Telephone Bid, or in-person attendance
+- [ ] Schedule a viewing appointment if interested in previewing items before the auction
+
+**From:** Victoria Hilley <victoria@fmtvl.com>  
+**Subject:** Proposal: Peru - Dec 2026- Families Steinberg & Blauner x9
+
+- [ ] Review the attached A&K Peru trip proposal and itinerary for December 2026
+- [ ] Decide whether to stay at the Wyndham airport hotel in Lima or add an extra night in Miraflores (with later flight to Cusco)
+- [ ] Confirm whether the Delfin III Amazon cruise is acceptable for the group
+- [ ] Confirm rooming arrangements for the Amazon cruise single cabin requirement (no triple-share available)
+- [ ] Confirm whether the Vistadome Observatory train is acceptable as a replacement for the unavailable Belmond Hiram Bingham
+- [ ] Review pricing details in the attached proposal (note: the quote appears to be incomplete/cut off)
+- [ ] Coordinate decisions with Liz and Leslie (co-recipients) and reply to Victoria Hilley
+
+**From:** Victoria Hilley <victoria@fmtvl.com>  
+**Subject:** RE: Proposal: Peru - Dec 2026- Families Steinberg & Blauner x9
+
+- [ ] Review the Peru December 2026 proposal from Abercrombie & Kent
+- [ ] Coordinate with Leslie Blauner and Liz Steinberg to discuss feedback on the proposal
+- [ ] Consider whether to request Belmond properties be included in the itinerary
+- [ ] Decide on hotel preference: Wyndham airport hotel vs. staying in Miraflores from the start
+
+**From:** SommPicks <mike@sommpicks.com>  
+**Subject:** 300+ August Arrivals: Selosse, Paul Pillot, Lafon, Soldera, Stella,
+ Roumier
+
+- [ ] Review the full list of 300+ August arrivals via the Excel or PDF links before they sell out (first come, first served)
+- [ ] Decide which wines to purchase from the August arrivals, prioritizing highlighted bottles such as Selosse Substance, Cedric Bouchard Creux d'Enfer, and Paul Pillot Chassagne selections
+- [ ] Browse the full online catalog at SommPicks US to see complete listings including the truncated White Burgundy section
+
