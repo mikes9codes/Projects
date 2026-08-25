@@ -14,23 +14,87 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "694924f925defb",
-      "title": "Regency Stacking Chairs",
-      "price": "$505.00",
-      "price_numeric": 505.0,
+      "id": "3237c5f85ebcad",
+      "title": "12 Modern Grey Chairs",
+      "price": "$120.00",
+      "price_numeric": 120.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDafyvy8fvSqXJEEtOlzbc06E-PaJJL1qaHEk7eo10HFYIKfTW_Tpvxiz0xa3_iaRDIaVfGbVTTy_H4vPq2dtwYEVXTKOH5WR5uGRZqAQr6lIRcehcqfZ5wQ",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIrQj6WqMmrX7kTqqGeQ8t7HCvnb0rqLWrXInybXBtCSBVqXIb9jRyQIJvebKXxzF8hlFdWKa-kCe1l-0iKpfdB-ZPnMXu88pIrmcqo11_5A0QaY0Br6Nyqw",
       "listing_url": "",
-      "source": "Madison Liquidators",
+      "source": "Party On A Cloud",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "db269537cfa606",
+      "title": "Gianna Folding Chair Sturdy Metal Frame",
+      "price": "$181.84",
+      "price_numeric": 181.84,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyDA0T-mVXOUdRscer6KP07KSP66cJu-s-d_eLX9KLTk8Y5E0Xmx2RR4LCEyQ1wiqWcmqOO4u8gtJWADbt66tuSGB4d1kwes2A2UTQqoAh_sxKFWwhTwEo3A",
+      "listing_url": "",
+      "source": "Walmart",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "fcf19b9c863a84",
+      "title": "Jioabl Folding Chairs Sturdy Metal Frame Waterproof Pu Leather",
+      "price": "$191.99",
+      "price_numeric": 191.99,
+      "description": "",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZN-SQm33jj13tKhZKBQGmRJZyhgAzsmXqo0qi2i3IXnM0PIEGvqeYVgkB1DBy2NRMXtQM9Bywxn_wc3Ei36A-SjnW0zZcOKkPEXkZuAXkGV3-sB__w485",
+      "listing_url": "",
+      "source": "Walmart",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "fdd73e220214a4",
+      "title": "Costway Folding Chairs Set of 4/8/12 HDPE Plastic Chairs with Metal",
+      "price": "$299.99",
+      "price_numeric": 299.99,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSzuGMBp-vSQukHFqvh7ZHqtG9lPcVEtEed8kCdA8BVD-oMZp0nPtgK30Xo7B17LIXB6_iCJPaAOGo_VHnLL8o4jHjy_4NQ",
+      "listing_url": "",
+      "source": "Target",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "0b463e81a7c3b0",
+      "title": "VINGLI 350lbs Stackable Chairs Set with Metal Sled Base",
+      "price": "$359.99",
+      "price_numeric": 359.99,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTB49s7DVBlnawYA71WZGaGWFI1LqLJrAXtd8Zc06D6Wi9dhYxLmKzOqGZVlEuqN2aQB1qFH_8d4UurVj9BZ7xrxqb16eMKL41ZZ7v8nnsQ_VHJl2QJU6RN",
+      "listing_url": "",
+      "source": "Vingli",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "860fda82feffeb",
@@ -46,55 +110,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "a6d38d9e90585a",
-      "title": "Black folding metal outdoor dining chair set of 12",
-      "price": "$705.99",
-      "price_numeric": 705.99,
+      "id": "555a13f98507db",
+      "title": "COLAMY NOYA Mid-Century Modern Upholstered Dining Chair",
+      "price": "$645.99",
+      "price_numeric": 645.99,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQngJOaqlU4XFTyJ25SdzpeFY70ozx6tRdBkSfD7_Lyx6yACE0QS7dTBDfab0pZEaqVMLQTSrimFHz8yT8qL8knBlqmMWwBg73mEZo6927MNsnitwUXai3Q",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9TmaDFI_BeACevCtsNSo1L8We2LRyn86xB0NqFr4W-A0QcrJbu64wUy-7Rb8eK_upc6LyZbQXvVvX_WGJITj4LODagF642BgqLwPkspA",
       "listing_url": "",
-      "source": "Home Depot",
+      "source": "Colamy",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "298e24f972e964",
-      "title": "Hokku Designs Curved Back Upholstered Dining Chair Set of 12",
-      "price": "$789.99",
-      "price_numeric": 789.99,
-      "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTT4VtHdBn7oPkteL7nbL0L8rfC8pcIDJVv-lm09YXQfn2ff0WOp7uBzyW6URcRzKvZYuSfUUqMfPoksgHk54ZCWdgsBR1tlDHO6SmSKeXujb331-T8oa7Ikw",
-      "listing_url": "",
-      "source": "Wayfair",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "c7869dab82c459",
-      "title": "Set of 12 Vintage English Walnut Dining Chairs, Circa 1928",
-      "price": "$800.00",
-      "price_numeric": 800.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQgjKN4msjtKccwVDvt_tXWMz6UR9WbmSbXreSrHemEZwVuuC3GWp1nd4SN10kfA6IiChRE7j9jy9lO9Im81hzviZ0H3LULgv8LiNCAijCnOsDzMeewtu-UUA",
-      "listing_url": "",
-      "source": "Chairish",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "721bd8bf808f91",
@@ -110,23 +142,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "7316721425ad41",
-      "title": "12 Wooden chairs with skai seat and back by SAM of Bergamo, 1970s",
-      "price": "$935.01",
-      "price_numeric": 935.01,
-      "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6avD9WpwOecP1olqqhWPrdBQ4SRC74EY8rMJ_IrhY0hRX7xeG8pSwOeuExf4twqeW90WvinAYNo_jxOok31r-EvqPBGeBcfiSyU73XYYb8LXlIa2DEd_DOg",
-      "listing_url": "",
-      "source": "intOndo",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "79289d1bc79ec8",
@@ -142,7 +158,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "bdf9cad2ecef0b",
@@ -158,7 +174,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "5913a7619b9c48",
@@ -174,7 +190,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "f1e89e11d2c7d2",
@@ -190,7 +206,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "8a11eb8da56d10",
+      "title": "Vintage Bistro Chairs from Baumann, 1950s, Set of 12",
+      "price": "$1,031.00",
+      "price_numeric": 1031.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS15fEBIh_4HvX84LVLFNYNsNVN5GzlEgqeLhSyItKGG4JDGXhdQJtRxf2v4PA1HJLkRcbwmfGo6jJtTf9iyMvmVjuXQwLwheL6kej8CZtNxuqezysSDh0M",
+      "listing_url": "",
+      "source": "Chairish",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "5074cc7c24067b",
@@ -206,7 +238,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "d97cd69a82cb8c",
@@ -222,7 +254,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "f593c0414098fb",
+      "title": "Luxury PU Leather Parsons Dining Chairs Side Chairs with Rolled Back and Stainless Steel Legs",
+      "price": "$1,178.49",
+      "price_numeric": 1178.49,
+      "description": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Pkkd88ul2Lh1YcyLnDe7xOkTu5UyDNbQ8C4CDPb-riYkseRs310-AfuNC59xQ3FKrO4KaF-5hf_viS7PCs7OldaOGjJXTb1Q9-eNUPolCbyT6lAg7PPelQ",
+      "listing_url": "",
+      "source": "Overstock",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "e2896de8d733ee",
@@ -230,7 +278,7 @@
       "price": "$1,200.00",
       "price_numeric": 1200.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCjqyEeRD_idY7yiG2kJen5E2T6Ti8lq9bsf6kdFIEl87gg9s9FJ10J8Ul3cyT0_iI7oHbfO2Zy9NDROG1xw-_qtUjWRHClMWqcBNGOYX4yCjzfZK-GpiczQ",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDeMwqcqO_Nk1jbQsmgyHZGRMU0WnuPdsExCBKzTLqboJFR2SFdRDQvijn1AWrhR79WHAN7QCJOIazEpYl7MlLgxU-NbCj-Ywi16DOZAsY_yQ7czlRq3Vh5A",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -238,23 +286,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "f593c0414098fb",
-      "title": "Luxury PU Leather Parsons Dining Chairs Side Chairs with Rolled Back and Stainless Steel Legs",
-      "price": "$1,249.99",
-      "price_numeric": 1249.99,
-      "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSzpjsDjX6AWUTBxV-QK6o7ZqRa7M5lkK3pdZxR9W485Gf8FBaSxmhxGUcQczA3COs5ni27uc4DgKBRajBHyMVqgsb0zqXWX691_MveIgaSP0ujztr57GzurA",
-      "listing_url": "",
-      "source": "Bed Bath & Beyond",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "e9e9edf0fedd1d",
@@ -270,7 +302,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "85ed942bd5fc78",
@@ -286,7 +318,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "7ce947b0bb5de0",
@@ -302,55 +334,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "9be0921b9c92d3",
-      "title": "Pellebant 13 -Piece Without Armrest Patio Dining Set",
-      "price": "$1,859.99",
-      "price_numeric": 1859.99,
-      "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSk5mudsI7sr8mgs67hBD7FkCZ3XdZ9WZRF7JTAAy8b61o3rqccPxq0q2wmYwmXtkxQZmgqH9KZuh3rXad0Yi1kZqwcWMk2fp_bbfBLvQw",
-      "listing_url": "",
-      "source": "Lowe's",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "a5919ba57aa920",
-      "title": "Regency Maxx Mesh Back Stacking Chairs (Set of 6)",
-      "price": "$2,185.00",
-      "price_numeric": 2185.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR57yI33hutnL9VUAuQFjUTqj1P2c0znG_HwWOIPAVFeC2d6qCk3kEuujHVjs8k7GKmb3TSXxOfeqiqEHA_WgFEfGgdOyzpg8v-U12m9Rl-YVxq6GshBREQ",
-      "listing_url": "",
-      "source": "Madison Liquidators",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "189689c8dadff8",
-      "title": "Jacob & Josef KOHN Set of 12 chairs",
-      "price": "$2,200.00",
-      "price_numeric": 2200.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYBy5k275iyaeMemhiojutYoy13T0DRl9C9V0RemdBrguT7usjhuuSV4JPi3t4IvLhzF6sIaDx5PDPwN9K7wnbsp0epuOWqUrOxpjWDJJnUJM6Z_Y1VGEz",
-      "listing_url": "",
-      "source": "Caractere Antiques & things",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "79be767bfdfe8d",
@@ -360,29 +344,13 @@
       "description": "",
       "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjG8Z8Lszaif1KPIHMIuIuc6xBS4ggNUPt8qZYG3MC3VY0lxCh2tklFUzAwT9fXLqACLpCyN5dTP5mPOeF7E91OkYb-E9WeCANTymrd0I47taWXlA2yPc-",
       "listing_url": "",
-      "source": "Overstock",
+      "source": "Bed Bath & Beyond",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "03a2db90f5cf15",
-      "title": "Regency Stacking Chair Set of 4",
-      "price": "$2,370.00",
-      "price_numeric": 2370.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3jURw1omUsAGq3_DBwhJv1EHHx04r-2oHvFRf5GhR9LdrtE4bVMqzMYRNppP1wHS8liwJByI6QMIf2VbKqSFvu_XW2qntwgsfQGAQv3u14Mps0-29jAib",
-      "listing_url": "",
-      "source": "Madison Liquidators",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "5149c82695dd06",
@@ -398,7 +366,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "84df224348604b",
@@ -406,7 +374,7 @@
       "price": "$2,400.00",
       "price_numeric": 2400.0,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKq72PG10fBgHEai92H3PT67NLANFWPZrxv7j5P_2c-811QQuthLD2oWxFmRWJ9xLSFFf1g8VZgaH8l_lA1f6S1W7LciurwBiVpY2szN9lKnzbtEJcugYC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRzVvZqAqj4v-TmSU8vafSrYJa8OJQRT1jidQMgI-QA9W2-4vL1Pnaib1Jo4gzwk_7lSuI6pCzDCrTOkLhrGkFzGqWNlJiYrZmY3OYiIXkxPO8ilVRC310E",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -414,7 +382,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "62095e0d724c4f",
+      "title": "Cherrywood Chairs, Set of 12",
+      "price": "$2,643.00",
+      "price_numeric": 2643.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRz7hkxAI4OigD84cAbMfpaZMmhCcJede-MXjIhbfhrAuy6qW3sYaJpgRIZfMJG5GPxmadgAdSdkro0aFm4ie-fcm3T0Mvi",
+      "listing_url": "",
+      "source": "Chairish",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "15b8b59d6fad92",
@@ -430,39 +414,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "41b05db3464254",
-      "title": "Vintage Chippendale Mahogany Dining Chairs - Set of 12 - Carved Ball and Claw Feet, Pierced Splat Back, Blue Floral Brocade Upholstery",
-      "price": "$2,884.24",
-      "price_numeric": 2884.24,
+      "id": "1c69caf9f43e0d",
+      "title": "Set of Twelve French Iron Back Chairs",
+      "price": "$2,800.00",
+      "price_numeric": 2800.0,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKTKovL-ojoF29Xk3akopqZH2DkABszOSQOru3MHS1vvdajZopWxk9fCunsnB_qTmtXp9fXeAbSS65A1Esc_yhhDwvYHXPl-1cjEDQ_lW1",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT64yXgp9Wg1V-gZPt_nI5dGD4B-aVwXzs66z87S81u82wOmXY0-t_JGvVMGnjPz9N5TJgWQky9BUUhI6dgzFNU7KfyRomblJxr9i5Pjzx7heKmx_wzFoAO1A",
       "listing_url": "",
-      "source": "Etsy - Seller",
+      "source": "Meg Braff Designs",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "f8d36359188c86",
-      "title": "Pemberly Row 14-Piece Dining Set with 12 Chairs",
-      "price": "$3,580.73",
-      "price_numeric": 3580.73,
-      "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAjrjWk995o2Z_gh0ZxsVwPoziWnanvkczkNzTZgDD4J-34xHyeY0REC5k0NBa1Sa3JYp9gE4Xxy31pN7RK42iOItrJy9YU2assOFeNEalhPo8WHWYnk1kzA",
-      "listing_url": "",
-      "source": "Homesquare",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "b3b22d99dd4368",
@@ -470,7 +438,7 @@
       "price": "$3,800.00",
       "price_numeric": 3800.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS36rYocTMaheLk1kwMwS-PKdZr20OZjpxOs8cg8AtHeBp8dZ0kyKcYT2kmmIG1DdnXk-sDmoBPiAted5kDuBPPOnduwsY-DDwmwdp5wzVrOU491z54xRkMPA",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwcvWfkGN3sn9LpCh-iuTpeLYyi9YkBESzYPvzsApkQc_jiCfy3wRB-cp-RfOK4RNhO_VXONN22RAepF0uGXgZPAIW_eSq4SGuZoTqsO0ndScs6M8c9WvdcA",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -478,15 +446,31 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "52c3d6d50a3a57",
-      "title": "Arditi Outdoor Rhea Dining Chair Set of 12",
-      "price": "$4,199.99",
-      "price_numeric": 4199.99,
+      "id": "b1a30c403ed2c2",
+      "title": "Mission Spindle Dining Side Chair #240 (Set of 2)",
+      "price": "$4,304.29",
+      "price_numeric": 4304.29,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ106r98pvdma26_8AydwD4z4HpkwCtPJ0FYegOpxTeMpTW5EkQGt_ij_rmLMLvmq7_C_jXXB_Kei249PAuhDy7Ok3jIvlPNDwlkHA22nLp8oZ9pTFe6a2TF0I",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwwvjRs5wHppY4_CDB7QzLLc_u9vkUBDNEn6buH8QbJ-2Jur6CbruocwlT1A_CXe9bxwBT22YaJlNiHewRWlnHURC4eFObtLEUIel_gO6lo-p2aOEa6_XE",
+      "listing_url": "",
+      "source": "Crafters & Weavers",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "6af3e57850ab59",
+      "title": "Hemera Dining Chair",
+      "price": "$4,499.99",
+      "price_numeric": 4499.99,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSBxCf4yDEFIAiYX8XHmk_SYjW_TqyAQ4aBCEEEiWiEmi_AgRvtVOVx2JdvzSmobIBOCVUN--ZX9DT9sW-BNt-7K3Wtj44Mseeu80jKkUtmveBmLd3lzf9AZWY",
       "listing_url": "",
       "source": "Wayfair",
       "source_type": "google shopping",
@@ -494,7 +478,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "8f3f6f77a1a696",
@@ -510,13 +494,13 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "8799d75bc75d98",
       "title": "Antique English Set of 12 Twelve Ash & Elm Windsor Hoop & Stick Back Kitchen Dining Chairs (Circa 1910)",
-      "price": "$4,707.08",
-      "price_numeric": 4707.08,
+      "price": "$4,701.14",
+      "price_numeric": 4701.14,
       "description": "",
       "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3qRwmXvEdk4t9DcBXsHeTk37EUchBCV1j60ugsFMZT-UEFz5UKkhcfZqdJ9NRfn8-0xuSyphykCE8qnYUorce5JUIXyyGZj71Cg26xtw",
       "listing_url": "",
@@ -526,23 +510,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "cf169cfdc378eb",
-      "title": "Vintage Set 12 English Harrods Shield Back Dining Chairs Mid 20th Century",
-      "price": "$5,219.42",
-      "price_numeric": 5219.42,
+      "id": "edab563cb8b9e4",
+      "title": "Set of Twelve Louis XVI Chairs",
+      "price": "$4,995.00",
+      "price_numeric": 4995.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4y1PqHI11QkLsIjzelY9d1WGvs0NqHbbOl4RURyLZ9tApJdp8D_rAfXyUQ-vzJrmiOTJLe5ua2pPXqvnxLWPZYAQ2LIObMbs2fJnZHqQdvu8-sci_yE28",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSQiQ3JKgJvRFhNa4LTTeiMn5hpKety1TePT1VWwz_oDpdxFjArc0djUrTmTTSu4XmA4GMjLBOdLN7QOJJY8Qw5HFErFvQNSPind5RDVlHv",
       "listing_url": "",
-      "source": "1stdibs.com",
+      "source": "French Metro Antiques",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "8037861bbf05cd",
@@ -550,7 +534,7 @@
       "price": "$5,500.00",
       "price_numeric": 5500.0,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQg2VoL4GHplKPUrFAnHhWUNZ34nBaeJxCKnk_yt_7FwcMsIsG5y_MH8TfNufpnQlrmI8RiULAVGdAIRkgcTJFuLsitncPZ2QOj5LyECz3VdQARwEGKWQ1RA",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSDtDMyXztOYmY9jhvUYz5d6JYu_DnpVUM3g80psLj-YSJOy8_JwFIg4f_0Jto3H2GVYBPPUdPqmoFy6obnH9o8yDNZcBWcZbfsPc3Z8SwvbAURE_7IZxnGw",
       "listing_url": "",
       "source": "eBay",
       "source_type": "google shopping",
@@ -558,15 +542,15 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "e7821828786b47",
-      "title": "14 Antique Rosewood Dining Room Chairs",
+      "id": "dab9e145cee80c",
+      "title": "14 sillas antiguas de comedor de palisandro",
       "price": "$5,500.00",
       "price_numeric": 5500.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRV9JisatC_0WUtuC-KRQOtDmeQMIOsHQ-vjksWFioYBnvVhbdsCN0ZyWLaIah6SnPqYPuWypRuSJkB6Dj4f0vcg0bNF_UMKiFa-VcZn8ua",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtsoyI3fUYYeIuMvlXEnDRjUYTHzlm4LKPfbghVBEnrmHWNBamUwvrmDR_eE4wCuTlCiZmz9uNqFIOBdKH657FXsbCsH4Mz17f8gPB63Zl",
       "listing_url": "",
       "source": "Etsy - Fromeuropetoyou",
       "source_type": "google shopping",
@@ -574,7 +558,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "16ff623c95629e",
+      "title": "12 Art Moderne Red Dining Chairs, 1940s",
+      "price": "$5,500.00",
+      "price_numeric": 5500.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTz2RrNN9xwTWQARmI2P4H1zMzwI29eeZI0thQ10G1dr70Svc9zOG09nQI9Gd31OUGXxwdSQ4RrvHSoq9upS2zUl0QxT2JpmJro16YgYCb3552yeLS413P00g",
+      "listing_url": "",
+      "source": "Chairish",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "c7ca345fd50f27",
@@ -590,7 +590,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "71b4e425202a52",
@@ -598,7 +598,7 @@
       "price": "$5,629.00",
       "price_numeric": 5629.0,
       "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmyxtbxc99PCsMSJSEOF_5xKF9y6HLyXMWqy5T9JeCGhrJpbixq6Gb0vUUpN2Hf8ZN11QZu1KVqmYn0ggaTldiHRQ7AzXMvwOw5c1931tnmLhVcXn7Fu6lOw",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRu466N6UQ9X0IFeoWqow4a0VuyMa63X04s5yiBXo6igwFWa6wfGjc6WwkH6VWIVRtqKBywstd2zb6YyPrr4uPc7JHuNiACbQl3km7_KTKq1dv5MfsRumUDMOAx",
       "listing_url": "",
       "source": "Etsy - euroluxantiques",
       "source_type": "google shopping",
@@ -606,7 +606,39 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "2367fc09d8f351",
+      "title": "Antique Dining Chairs | Renaissance, Oak, Rattan",
+      "price": "$5,635.00",
+      "price_numeric": 5635.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlfCYo-hGb51qAcVS-L1ygYk0n5ygNtvThgpeHzv_lWSPUclOMUsszvsQL7l1xYHA59bb9_s3gB4x4l0WzviHBJCl5iZUNBwIClpCVB9wj_AW-FA3C_ELv",
+      "listing_url": "",
+      "source": "eBay - euroluxhome",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "b31394df8fb7b0",
+      "title": "Antique quality set of 12 (10 plus 2 carvers) C1900 Mahogany dining chairs",
+      "price": "$5,679.87",
+      "price_numeric": 5679.87,
+      "description": "",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXu3cW0bYocCGfOr2eo584TLdh0JBx4J11_E1ueYI9QbVMBiMVt0MZRHDh5KwgfMOIFrFS3Yw55kvy4xeWsH1K6lJDa5LHUTOD03nyUJbbGeJtUmxVYscN",
+      "listing_url": "",
+      "source": "Etsy - Seller",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "2b12f15c50f201",
@@ -622,7 +654,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "a95d5ddee86f1f",
@@ -630,7 +662,7 @@
       "price": "$6,000.00",
       "price_numeric": 6000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO23dcqkM2rmuKI627LLQgqQpADQp7HXCg4lykDdpwIMP-8hpv4Han2G51K_5W_uXZ2wB73H7d0liGZ1rylNLhfHz7Nbyd6mSAwPiV9yBAajtc0Jhe2_dTzQ",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQU7aNzVlwcR3dm1dKeEltya3wZDoUfyEJYWsIG1oYN9GhC6-6Fk_PmMmfYon0dbpmQjKdeezXd3BDDabX5v4jTaQTik5IAQFM1ELecp4BtSN9uoGlCgMgjVw",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -638,15 +670,15 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "c3c88a90ad83fb",
       "title": "Antique Set of 12 Twelve Ash And Elm Windsor Hoop & Stick Back Kitchen Dining Chairs (Circa 1910)",
-      "price": "$6,411.84",
-      "price_numeric": 6411.84,
+      "price": "$6,407.68",
+      "price_numeric": 6407.68,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSkMB8152M60vWSz9k_IhKmN8DYb8r2-s5GgeWos2iuu0jr5ZFPlcTMemgusyYaCLPB4WYcpzVLaBcoYJM9TVpLUd2Sa3RTYeo3WG3csn1_7NEEgJYZLHDFGQ",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-6LJjhkgR4FboZdgk6HkpFvYeN_6KTG_RNDPOCnown-uSoZhdX7l5afHspBI1RpuDyeyNa4pYeEwkjlJ6snxYi2SPjdCP5_3JBLkRXCR_Wkhga5pRQrkRHg",
       "listing_url": "",
       "source": "Etsy - Seller",
       "source_type": "google shopping",
@@ -654,7 +686,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "e8a4b50d83728a",
@@ -670,15 +702,31 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "571e78a8db7ba2",
+      "title": "Set of Twelve Classic Mid Century Stoe Ben Dining Chairs [12309]",
+      "price": "$6,995.00",
+      "price_numeric": 6995.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3grZOaeFSWB5urMefafAQhO0qu3loalS_HNEvB7TgzbXPB-j86konpOk4EiJ3Gf_Y01kwEWSn06ouEqS5-NWU_5WfT0BNui9KM5LQfYXhsgctzp7ZSWE-",
+      "listing_url": "",
+      "source": "Etsy - JudyFrankelAntiques",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "3aa6c19be5cdd9",
       "title": "Vintage Set Of 12 Danish Pine Wood Dining Chairs 1970s/1980s By Dyrlund",
-      "price": "$7,149.26",
-      "price_numeric": 7149.26,
+      "price": "$7,137.34",
+      "price_numeric": 7137.34,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTB26ZFP1xCHbkiYPdnVcM-IxpFtvgC5zLkY_08ln0UFSp8oM41WCDCxY0qLJmdtVt7W93eVetw2Ze9cDmRumFik3rQQHALywKKQx8pfqQ_ny1_f1jJkkmQLA",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxt7-3NDYDCwT5s0uboYbSGw66KoGtFe1vX62TytDfcBS-bwUfYEv33ViRQ53rznBuLAilApyRfBIB-H64h7DVHBLX5w04xNkWM6fKgVmCHl5iDbBB_THumQ",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -686,7 +734,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "1bfd5cddfd51ff",
@@ -694,7 +742,7 @@
       "price": "$7,200.00",
       "price_numeric": 7200.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTht0g_K4u5YzG_Ci59r95OtuhdUMd-yF7Akp8-tlZM8otB9Ji1iKdEwyUwQspnAfw3JsnAyjwoS9dBaTC2Tx5LV3kosAZxJw",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTM2RWKgqkZx2LEZK36Gn0h7e9i4h51gMHjuwts7FoYb6Jevwpj-nY9bo2RqzkdmNRYrL9xX_Hq7yeQUvguGbtMxDZBR8tw9g",
       "listing_url": "",
       "source": "The Paradise Antiques",
       "source_type": "google shopping",
@@ -702,7 +750,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "e7af7366e9b513",
@@ -718,47 +766,31 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "5f22e1bf5fb230",
-      "title": "Vintage Danish Pine Dining Chairs attributed to Dyrlund, 1970s-1980s, Set of 12",
-      "price": "$7,609.00",
-      "price_numeric": 7609.0,
+      "id": "80836aa07a79fb",
+      "title": "Almost Set of Twelve Regency Parcel Gilt Dining Chairs",
+      "price": "$7,800.00",
+      "price_numeric": 7800.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9UCLZkN6QiZp9Uc6PFLPdsmswC1BUJKsRVNrSsexsLilzfNSkT6bsoOak8ua31UMn2f88VOtZd9fKxrOx9Y0z352IX3ejb05-1Ft1JqpiapQiPorwEsH5og",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQl10duOayDR0YG1QIDZOplaozfjqQ1C2GEZj9JQYi_UX1sLgcaWftw2xIMA_cCkdhcOjPoF8t7AN2mTBNhiq1nj4RmX7XZTiScOTIfZrt9pEKAsdr6cRnf",
       "listing_url": "",
-      "source": "Chairish",
+      "source": "Meg Braff Designs",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "e5997891ceecc2",
-      "title": "Vintage Set 12 Regency Revival Swag Back Dining Chairs 20th Century",
-      "price": "$8,003.11",
-      "price_numeric": 8003.11,
-      "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRO7eQWtzYIcZesPu3kU62-DU4kUqNXgxEafjXS8-IeeIvhQpXuf0IOkHZ19pGCJLxjy598bQ4amYplI00QItpgoJnVIVFMATgtmtHAnzDQ2DX3VA4O7v27XQ",
-      "listing_url": "",
-      "source": "1stdibs.com",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "562121638442b8",
       "title": "Vintage Set 12 Victorian Revival Balloon Back Dining Chairs 20th Century",
-      "price": "$8,142.30",
-      "price_numeric": 8142.3,
+      "price": "$8,132.42",
+      "price_numeric": 8132.42,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT2MVm4JeYhwonWkLjr4Rr01KG2oLrBMv0okM0T8cZA_fwebfBVAEN_0t-l0U2i6sr7AXQh1EUUAvleXwcubE9cr3Qzee2ev9iuMuB2WWnx0r9Gro71InBGtA",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1ZDovnMcBti5gXbNhVIfZmm8gCoT6iNwudwtV7Xa09bsjzn1RsbEEYYuAwODttOQM8dXQB7lPTa06--N3l70eV4d6bvNdKAcobUs2I8Gbkzg1c8mHv3vpAA",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -766,23 +798,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "170cd7f93a2714",
-      "title": "13 Piece Solid Wood Dining Set with 12 Chairs - Classic Brown Finish for Elegant Gatherings & Comfort",
-      "price": "$8,882.00",
-      "price_numeric": 8882.0,
+      "id": "3369833b8e6e54",
+      "title": "Set of Twelve 1950s Belgian Oak and Rush Dining Chairs with Acorn finials",
+      "price": "$8,450.00",
+      "price_numeric": 8450.0,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTqNgjgCQQT1wl872JH9DxaVf6qCESwjejvaW7fDELqeI0xD6F_FoLuEo9q0Ui99hQr3S8vKWFEWc59R-kFI_O3uOQnmqZ8x5c73R8YHxIOMrSkVcS0r1RtLg",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCDlwqbYWIIAdE7basaFdLFFW2vbLht2KWhUbjxOp2EbrL1Zk0hSquo1T_WvkKsKJLCHtdGf8Q2imiBYfkCtqH-5E7nRdRunxWt-6iTOo",
       "listing_url": "",
-      "source": "English Elm",
+      "source": "RT Facts",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "c91227fb2b96d8",
@@ -790,7 +822,7 @@
       "price": "$11,049.15",
       "price_numeric": 11049.15,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTdeB7rG77LT_Dr17nIu0no2F9dxhDv5A0VpLKxvpAAP-8HA0ZQm5KLKHqCR8yZXHxCGMO-coQWkw9wj0RtIkjuqNAKrtpvNV-9RMLI05u_Z8zzBvS04ogR",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKOxrssFYI1S8JJRRzPHHGSRDijNYW6POmmKZDCjBUqqV3AcInm_ZqkviEp1zjr0KFV1Yx0Y7KPeipDGfO309DIlUmt2FIKnlFQnZg31oT",
       "listing_url": "",
       "source": "theruralart.com",
       "source_type": "google shopping",
@@ -798,7 +830,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "47f3c8f95051bd",
+      "title": "Set Of 12 Dining Chairs By Pierre Cardin 1960s",
+      "price": "$11,417.84",
+      "price_numeric": 11417.84,
+      "description": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYJYNKryZ_0Un9d_it-xJTbK1dOXGq6_y3GTDJsb44_HschlcWe9GIMPtERvHqj4nXrjDBXGsMjSrwwSLxFcO_P0QTeygC40tItcLb9dNZRgVbOBXKvshS",
+      "listing_url": "",
+      "source": "1stdibs.com",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "ffb1a85c4aa1da",
@@ -814,7 +862,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "39a59d480198f5",
@@ -830,23 +878,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "88af0454f3ebf9",
-      "title": "B\u00f8rge Mogensen for Karl Andersson & S\u00f6ner Mid Century Danish Oak Dining Chairs - Set of 12",
-      "price": "$11,995.00",
-      "price_numeric": 11995.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRe_1KWLHM-V8AZvg64jKyKMXo-stavdZTXsGF7sqGvQdgMRt9k6Rw1SljzYeeKjLcXyX3OCnPP6Rh42yKI3LLtp8d_GKDxUaiu08oGphLYjspbEOR-4v68Uw",
-      "listing_url": "",
-      "source": "Modern Hill Furniture Warehouse",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "b1a05b15472c22",
@@ -854,7 +886,7 @@
       "price": "$12,000.00",
       "price_numeric": 12000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIECa-7ypsLjl7XRqQwu4aPNrk-bp6BkFLn7kxk0k9KC4VwBk5ZHETMijCJer74uVscdxwe8c9kbNBrw025JN5fkci9bHIs-XtLD3HL0u1PE8BNIr6Gmvc",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTYLIWMzv2qE1x1XD_BL6aoSqIpnEdiIcD2nZW3Axs7c6t9JcXAdROIqgI1XbqTurewdvDUcB8hD9dt2NzY1sqVKxrsFSdpi8R-99xSExuzJ7V-9EdKAjr_",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -862,39 +894,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "8ea710fd722109",
-      "title": "Vintage William Switzer French Louis XV Dining Chairs - Set of Twelve (10 Side Chairs + Host Armchairs)",
-      "price": "$12,200.00",
-      "price_numeric": 12200.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSFhK9-KuktMxgtwJayw7Uvn4jxXG_VKdszx_lsCK2yVSkI3QmO3yYEL5CW5t6nQb9vIfq1e_Yp0x_5uwr5nnkAgmH8BvKqRTc_XQJ9mDyIKfG0baFbC37O",
-      "listing_url": "",
-      "source": "Chairish",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "63babea4b23437",
-      "title": "Vintage Dark Brown Carved Wood Dining Sets For 12",
-      "price": "$12,500.00",
-      "price_numeric": 12500.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1CrjnHEcCM5RS4tsWtkJThEO8OkslayeaSIh_SdXf0flB9aE8fq2sdpbgR8G09CUSf28WRuhplc_c9z19hUrtL_2iZKfrBpkCcrHbMGLIFJsnhPWtNzUWjvzT",
-      "listing_url": "",
-      "source": "AptDeco",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "2a6562e9a9c04d",
@@ -902,7 +902,7 @@
       "price": "$12,800.00",
       "price_numeric": 12800.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDDGV8B2te5eIDj5--HNtkKb-gVLRkAlhTcUWXqeCWOshrR3anirJTjCuZlA4fZd07JULRJtBVHOl61dJKExQ5am1XdFJLxs1UyW7ao-U6EZyvyPvcqq0gbQ",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZGv8MLFHWSco-j_7YtuqQbzlsYQHYrrNYD0ztG3Y0QYbqEGuNVtzTEYbjwyfIfgaqfFhAFQmNcMEqKi3fn7AW2Ta5xfn_8fIGtyMA5nAidlM3ROO4GfnQiQ",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -910,7 +910,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "b64223de6b0574",
@@ -918,7 +918,7 @@
       "price": "$12,900.00",
       "price_numeric": 12900.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxZfGCRotKalDOUOeNNR5fY5Ego6AMdtrxi27FZ5Q5b4SJ5T0jz8-P4q1N5U3gXwTPG_H4_k2YuT1V7qmTRFRMBocLNglYTCkuekKXpnojw4T1btRenqakyw",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS80DIZm9Y3W8a7OvUZgztlHEYq8Dcwb-sucv57dNS78IB9dEbOZhzD006hXD-vqzbrFxx9wZW2ssMvv6kTelUQ79P2s8_aZClAmSrHFCLURHiDiqavF6pBow",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -926,7 +926,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "83bb444af49651",
@@ -934,7 +934,7 @@
       "price": "$12,900.00",
       "price_numeric": 12900.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbJdCvCwdn0MTwYxZf7gkcPEKct39HUxqfz4uGJPBgeJN9vYQ1moj2z5Co9aZjz-Z140IqAB97q4kbihRBG1n65LxUEPbsfFATe3yPjFmnrmk1uRzgAy8Qrw",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLuNL1tXKLM6DQ-df4UUYQ4RLGwGoI5xO13E05bTh9-ld_qAkgkkynADjDCWcuZ4Cd9gDMfQ-xvNrR7Y1adCYoLA6VFUeQ5TccupXj7z78qDeVwXtfy56kBQ",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -942,7 +942,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "94c7fb7689da03",
@@ -958,23 +958,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "30f1dc5de6ddcb",
-      "title": "Antique Set of 12 English Carved Silver Gilt Ball and Claw Dining Side Chairs, Conference Chairs, Dining Room Furniture, Furniture, Retro",
-      "price": "$12,995.00",
-      "price_numeric": 12995.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRogB29b4rPSlB1arKp9ghUg3qdN0ZsXNlejvv0Y-uNkqglfPG7nnkUcurmozYCEl29jIiUwuZgU38h4ZAedHaduSmRFbO8OE7UCA7uVErB_ZPPk2CnQ4Lq-g",
-      "listing_url": "",
-      "source": "Etsy - Seller",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "1bc4bdb8e7e429",
@@ -982,7 +966,7 @@
       "price": "$13,200.00",
       "price_numeric": 13200.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4bF46r5eLY0d_uLsgKJUg7HspdS4w1NSlyAp875O8khcagecGspj_EU5HKuegzDDLw1OSu-wcneoak7T0bSZPD1JkmxUK1ALplGb6K5axobsTN0OUxnSw6Q",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWSUWacWFyf8HUEYXYa3hI06S_iENdk9a3r8kTtST2qB9KsGDGBGAKPvvIuPTcSzQRZncoCu8Z87S1v-IYDcQEluaUDO1m9tH6kUTDRK21y76fMMQ8JbU2Fw",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -990,7 +974,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "c7ebf37c158a6b",
+      "title": "Set of Twelve Deco Style Dining Chairs",
+      "price": "$14,500.00",
+      "price_numeric": 14500.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0xkjq6kuRkqmAiurkVgjDs9UmhLv9yJVXl9FO65EA8N1b1QDUYcc1-xIyrH7r2ToWEYN3ZHfi2WOmNN6IZ8Ve3mClEKBy3BjPtdSGOr7fkGcOlFKJYB9S",
+      "listing_url": "",
+      "source": "Meg Braff Designs",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "96a1b49b11a144",
@@ -1006,23 +1006,55 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
-      "id": "02dea2d88b13f1",
-      "title": "1970s Set of 12 Jack Lenor Larsen Furniture Dining Arm Chairs in Maple",
+      "id": "a12f82d1a2c458",
+      "title": "2014 Set Of 12 Ward Bennett For Geiger Envelope Dining Chairs In Grey",
       "price": "$15,000.00",
       "price_numeric": 15000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtnpf52pd7ZrW9UfqK7Hl6VJD2XRQTGRh-rrU_O-aWAjIv8lLc2JaXKf2UzJuIEHJg4PF24WRo6BnZdht-Jsjs4FHoCXZasl3M_BqXBUmoEYFuDyk3vTqA",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSSAZV2fFLD2KucfqGXg2NSrOQlZVEMqNxTrbWdVqOg5oGkHsAM8iq5VdtnA6YK-8QuPkfDakShgyfTH3SsUbA74vL0GI-HLa6ySCONd1C-aSANX1kjuHfWzA",
       "listing_url": "",
-      "source": "drosemod.com",
+      "source": "eBay - d-rose-mod",
       "source_type": "google shopping",
       "location": "USA",
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "b258583fe47837",
+      "title": "1970s Set Of 12 Jack Lenor Larsen Furniture Dining Arm Chairs In Maple",
+      "price": "$15,000.00",
+      "price_numeric": 15000.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRzp0DfdF3w3NsryxfMvfPOFovAzNPtvxtkylmDRUWpdzghwemV-XTzzPSHRlaIujGeEA0k37ssBJ_X_fQlC_wbM35F6WCmLacHsg0zycAhJyvAD6CkZ86d",
+      "listing_url": "",
+      "source": "1stdibs.com",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "1df6fecd07580b",
+      "title": "Set of 12 Renaissance Italian Antique & Tooled Leather Chairs #58950",
+      "price": "$15,450.00",
+      "price_numeric": 15450.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRusn6xKMLcqk3rlYD51UIkhSqN-LSraDerilwR1MjVa4b9A_BkXR2l0AcaTkOUKRvLwbWCk1uLz2HrmKj0aH9OcScgLOR-bBMTeiPsn0a6",
+      "listing_url": "",
+      "source": "harpgallery.com",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "710964bc98d42a",
@@ -1030,7 +1062,7 @@
       "price": "$16,000.00",
       "price_numeric": 16000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfYF9uDBMhByEMeOPJcPszh-4q-4iw0RYYDVmZ19DJ2D-Mcj8dx6FXpIFDEmc_5ewRq15QHQ2_EwFR4jHXWd5YWNwRg9s2QEt141MEhvAy-ZhgdK7yvcMIsQ",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjeDyxfdQ068n_I8v9nksaaPGOFc44UdQLrYCeY_GF3SsmzAddqWOT-tG6MZUECRkaxp1CpUSCgoRTs-Mg5Jiy7uVVGY5atV3fU41oV9uoIgQK3VPKnvRxKA",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -1038,7 +1070,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "8ba0b4caee40d4",
@@ -1054,7 +1086,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "525384b6b42d9c",
@@ -1062,7 +1094,7 @@
       "price": "$18,000.00",
       "price_numeric": 18000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSN9JQHRW1j1ab3_3HFQiKgQhojP-6XQE39B7zzg0gi2LVmY1gbLCCHBfWZCiIL2J6Gf2sWX9rX38FLHXjlZwIIIti0BY2-_TTCbTNZfjNmzvF3Tx6epezP",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmBVUTh3smIXXgYz6JHtviwf3xfBW5CXJtir0zH6xIFmJkexX6itWt_LRT3rUjIKJpBA8SWEXrIaGoMOrkQmg2assqAeOINx2Ty5UwNYsoxx5BfCx8Zc26",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -1070,7 +1102,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "6a16c5e043e1c9",
@@ -1078,7 +1110,7 @@
       "price": "$18,000.00",
       "price_numeric": 18000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUnM0CrHNOi6XJI1UM0d1TpjB4-uF2VnVAJQ4UjXTj_qT9VWGMmdFHUMpSPpiBRj4PGmjLiO8GXz-Lhad_9Kcw6HKL1Wg17S5zGyiGvs-DdibFzmqhCq4o",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3P9RagnWsPgdNQ7iZ6uWX4e3i85O_8JGWnxpDfTU7MiOqpK9zN7KhwatgFMfJCeKrov4RhpR1ByFotEAxQJGdRWV0Rj1Y8eOxxb1DUiaTQp3eAJQtxQ8A",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -1086,7 +1118,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "285475ce07f6aa",
@@ -1102,7 +1134,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "1d8e9a1421a6c0",
@@ -1110,7 +1142,7 @@
       "price": "$24,000.00",
       "price_numeric": 24000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJn-spaMBToIa9NilsLlvf_Wk_hy88Wd_maubM6R_YUfIuaAN0kpXMLfUKJ0fPvzB-F_7QgIK_AZRQJZPJLM0fSc4XNrN5XvLmRVDZ38JOnES5_qyKZTRzqQ",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxwQA7pkMee7cSa87CtHvNMiyvdErYkPKQJkrI3eRqzrHk2u7ONHjjT5r5quTIzR79-L4FKTi62r8JRaRqubfrET_agUxMWzFakhu1nth2_VFNlGm5ottKHw",
       "listing_url": "",
       "source": "Etsy - Seller",
       "source_type": "google shopping",
@@ -1118,7 +1150,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "a3781ab19684d2",
@@ -1126,7 +1158,7 @@
       "price": "$26,565.00",
       "price_numeric": 26565.0,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7NM5YK32CdVj-8m_9WubXTD5P1ult4dxjQqABTLQKsdvrvCTm2vws0DZKUfapaGHsZ_oIPjwlr6r6FmzJWZvPWaYszP_-g9ejeto_6scroNs8RcVDmS-g",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfSQZdLajhnyTdmlctiX_K3jr-6M38zXy1C5UbGMi3mHsVv2fo797CM98t3pFtvPVn0o-LppZhYfl9NE-4IReUXSs3HB6qtVfxKiBunLF-u6GU80rtZsgY",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -1134,7 +1166,23 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
+    },
+    {
+      "id": "d22fa0220edd37",
+      "title": "12 Antique French Louis XV Style Dining Chairs From the Marylou Whitney Estate: Attributed to Jansen",
+      "price": "$26,565.00",
+      "price_numeric": 26565.0,
+      "description": "",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2SNvfgdUynlBaqQMOs5ZEK1xSC_9jtJXJ2F5NpGigNJc1HLbcnbz2i5ugNmM3tY9YP1AxGpKDdioJl6r4_HO5G5bK81VbhzMVAzH0J9BA",
+      "listing_url": "",
+      "source": "Etsy - Seller",
+      "source_type": "google shopping",
+      "location": "USA",
+      "country": "USA",
+      "is_usa": true,
+      "condition": "See listing",
+      "date_found": "2026-08-25"
     },
     {
       "id": "24e23bcaa5ebaa",
@@ -1142,7 +1190,7 @@
       "price": "$36,000.00",
       "price_numeric": 36000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCj4eVwprVHIi4Mnizw-A9doREZNptmvPQCtJzAQZWTQbvEGJS4dGK4di3dpXoaQNYHlKGuafu5oLz3NKQfLkzkoxFzyHQhYDBBvunAUzy8k373-3dKfqHpQ",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfsgSqDxcrxXEtaZFH1kUo-uPPYD-6HmXu7ymxTkxprp-9Qp5h12nlIuU3Hlk9WAgXyF5i-kUpyqbIUENRiom5WKeqRmi-X3onXkzhQJQl6B-hLsl7-dq8FQ",
       "listing_url": "",
       "source": "Chairish",
       "source_type": "google shopping",
@@ -1150,23 +1198,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "3de93af41b17d7",
-      "title": "French early 19th century Louis XVI st. set of twelve patinated dining chairs",
-      "price": "$42,500.00",
-      "price_numeric": 42500.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5Mu2qpCGg_eiQr9Z6qtE9jCBH5A033FowHMrf-wjkiAGS-S1EU4ftBeRSfyHGgg2I0ak1odU5heHXMNnZy8vAN5EdAxLpbiwl3JOVmhQzhLXsemVWs8XT",
-      "listing_url": "",
-      "source": "Cedric DuPont Antiques",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "3a582c0f2ff8b8",
@@ -1182,23 +1214,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
-    },
-    {
-      "id": "dd8d2648b64bb0",
-      "title": "Set Of 12 Fine French 1950s Mahogany And Leather Dining Chairs By Jacques Adnet",
-      "price": "$78,000.00",
-      "price_numeric": 78000.0,
-      "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqs0b1Qx3VWMIrBFFKoR7n3jHZgsauwWLks3Si3MqcMriwRr1zauA2_PofwsLCnp777BP_SeshZIHvqwXkyKM4zINxSJrskJQ-EQzTKE9ngFJCcJzvBcDKYw",
-      "listing_url": "",
-      "source": "1stdibs.com",
-      "source_type": "google shopping",
-      "location": "USA",
-      "country": "USA",
-      "is_usa": true,
-      "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "7b50fdbc2ef65c",
@@ -1206,7 +1222,7 @@
       "price": "$81,000.00",
       "price_numeric": 81000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRuyjm_CStUVide8l0mu1t9z_6_zGTmripy4GhDr5Bb6WyU_NKT15ELWB6LIJclhtqR0hcKJNEuLBmUjE5Di4qPk2GKl2DJTDOHUp1w4JIQGjEbzliOZqFj",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSktO0ZHr2Bz2GIMt78WNASv-_JIRNCgQT8APJjsV96xp4XyEBT2rmmo4iMuGF_GfMRhQoZ-F4b2V7RXIS6S-sa0pffDAbJc89gF_eXJUALr3q902KLF0Yt",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -1214,7 +1230,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "adee76b8ca95f1",
@@ -1222,7 +1238,7 @@
       "price": "$92,500.00",
       "price_numeric": 92500.0,
       "description": "",
-      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0XeS407WoXf5h7DuLjZOxweS_nvlyZPJWuJ78CruyB5sqfKp4HXR6qiar4ndI7Y9vUnh2ZISwiEmR47GZuxXtdTXdPEzMyKT1ycqzawwSjxLszSUkZvLR",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5kahdkwgMrCVDTBWinzxRq_XZZRpyOHKaLZd7uBIGRSqobnxywhlcliwrnMuIybF-K1FYJToAQoBO8G6DteCZtPpmAtVPFU3_5dQIROBhyl3Vr6cRrIFM",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -1230,7 +1246,7 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     },
     {
       "id": "10c8496f998ce3",
@@ -1238,7 +1254,7 @@
       "price": "$114,000.00",
       "price_numeric": 114000.0,
       "description": "",
-      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT18kGl9655J7pWE0GPZ8wz--3hrH7jGaVNjBDwAKMCJfSJiiZKIGFrf9AlJbFVUpscMhVelsL9M2BOrK9x0ipzBkRhqJkjRZWwMcQRDvChHR8h9Z7nVO3U",
+      "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSFHWHBOzcKNtxu-c_hNJhraJ4XOTNf4bsoCweDii1cbfar2NN4_lsxyIAv5mR9pVsT3IfpRs5d7uhcm4j1hZ31AU3weUy0ReAh7y3J4cBfTXn9-naEC4sy",
       "listing_url": "",
       "source": "1stdibs.com",
       "source_type": "google shopping",
@@ -1246,49 +1262,53 @@
       "country": "USA",
       "is_usa": true,
       "condition": "See listing",
-      "date_found": "2026-08-24"
+      "date_found": "2026-08-25"
     }
   ],
-  "last_updated": "2026-08-24T08:50:02.541372",
+  "last_updated": "2026-08-25T08:43:49.907445",
   "search_stats": {
-    "total": 78,
-    "usa_count": 78,
+    "total": 79,
+    "usa_count": 79,
     "intl_count": 0,
     "sources": [
       "1stdibs.com",
-      "AptDeco",
       "Bed Bath & Beyond",
       "Canonbury Antiques",
-      "Caractere Antiques & things",
       "Casa Branca CB",
-      "Cedric DuPont Antiques",
       "Chairish",
-      "English Elm",
+      "Colamy",
+      "Crafters & Weavers",
       "Etsy",
       "Etsy - Fromeuropetoyou",
+      "Etsy - JudyFrankelAntiques",
       "Etsy - Seller",
       "Etsy - euroluxantiques",
       "Fabriek.NL BV Morentz",
-      "Home Depot",
-      "Homesquare",
+      "French Metro Antiques",
       "Istanbul Furniture",
       "Jacqueline Adams Antiques",
-      "Lowe's",
-      "Madison Liquidators",
       "Medellin Custom Furniture",
+      "Meg Braff Designs",
       "Modern Hill Furniture Warehouse",
       "Overstock",
+      "Party On A Cloud",
+      "RT Facts",
       "Target",
       "The Paradise Antiques",
+      "Vingli",
+      "Walmart",
       "Wayfair",
       "Yola Gray Antiques",
       "drosemod.com",
       "eBay",
+      "eBay - d-rose-mod",
+      "eBay - euroluxhome",
+      "harpgallery.com",
       "intOndo",
       "theruralart.com",
       "wolfhallantiques.com"
     ],
-    "avg_price": 12990.66,
-    "date": "2026-08-24"
+    "avg_price": 11839.42,
+    "date": "2026-08-25"
   }
 }
